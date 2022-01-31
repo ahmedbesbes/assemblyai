@@ -9,6 +9,8 @@ streamlit = "*"
 pytube = "*"
 black = "*"
 python-dotenv = "*"
+certifi = "*"
+validators = "*"
 
 [dev-packages]
 
