@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import json
 import requests
 from pytube import YouTube
 from dotenv import load_dotenv
@@ -52,6 +53,7 @@ class YoutubeTranscriber(object):
             upload_url = json_response["upload_url"]
             self.upload_url = upload_url
             print(f"upload_url : {upload_url}")
+            return upload_url
         else:
             raise ValueError("no audio file provided")
 
@@ -103,4 +105,12 @@ class YoutubeTranscriber(object):
             print("transcription succeeded and avaialbe in the transcription attribute")
             self.transcription = response
         else:
-            raise ValueError("no trannscription id provided")
+            raise ValueError("no transcription id provided")
+
+    def save_transcript(self, output_name):
+        output_path = os.path.join(
+            "../data/transcripts/",
+            f"{output_name}.json",
+        )
+        with open(output_path, "w") as f:
+            json.dump(self.transcription, f)
