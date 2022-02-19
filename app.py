@@ -1,5 +1,7 @@
+import os
 import json
 import streamlit as st
+from dotenv import load_dotenv
 from scripts.utils import (
     clean_video_url,
     transcribe_video,
@@ -8,7 +10,7 @@ from scripts.utils import (
 )
 
 st.set_page_config(layout="wide")
-
+load_dotenv()
 
 analysis_choice = st.sidebar.radio(
     "Start trascribing",
@@ -32,6 +34,18 @@ if analysis_choice == "Discover some examples":
 
 
 elif analysis_choice == "Upload your own YouTube video":
+
+    if "API_KEY" not in os.environ:
+        st.error("You must provide an AssemblyAI key.")
+        st.markdown(
+            """
+            It's simple, you can either:
+            - add a `.env` file with an API_KEY key (you can do this to try out the app locally)
+            - add your API_KEY as Streamlit secret and load it via the `st.streamlit` method
+        """
+        )
+        st.stop()
+
     video_url = st.sidebar.text_input("Enter youtube video")
     video_url = clean_video_url(video_url)
 
