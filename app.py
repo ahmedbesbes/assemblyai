@@ -25,7 +25,7 @@ if analysis_choice == "Discover some examples":
     video_name = examples[selected_title]["name"]
     video_name = video_name.replace(" ", "_")
 
-    with open(f"./data/transcripts/{video_name}.json", "r") as f:
+    with open(f"./transcripts/{video_name}.json", "r") as f:
         transcript = json.load(f)
 
     show_output(video_url, transcript, use_topic_detection)

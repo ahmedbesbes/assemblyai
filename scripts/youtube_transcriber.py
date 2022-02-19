@@ -109,7 +109,7 @@ class YoutubeTranscriber(object):
 
     def save_transcript(self, output_name):
         output_path = os.path.join(
-            "./data/transcripts/",
+            "./transcripts/",
             f"{output_name}.json",
         )
         with open(output_path, "w") as f:
