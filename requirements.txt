@@ -1,0 +1,4 @@
+streamlit
+pytube
+streamlit-player
+python-dotenv
