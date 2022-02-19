@@ -4,9 +4,6 @@ import time
 import json
 import requests
 from pytube import YouTube
-from dotenv import load_dotenv
-
-load_dotenv()
 
 
 def read_file(filename, chunk_size=5242880):
@@ -19,8 +16,9 @@ def read_file(filename, chunk_size=5242880):
 
 
 class YoutubeTranscriber(object):
-    def __init__(self, video_url, content_safety=False, iab_categories=False):
+    def __init__(self, api_key, video_url, content_safety=False, iab_categories=False):
 
+        self.api_key = api_key
         self.video_url = video_url
         self.content_safety = content_safety
         self.iab_categories = iab_categories
@@ -43,7 +41,7 @@ class YoutubeTranscriber(object):
 
     def upload_audio(self):
         if self.downloaded_audio_path is not None:
-            headers = {"authorization": os.environ["API_KEY"]}
+            headers = {"authorization": self.api_key}
             response = requests.post(
                 "https://api.assemblyai.com/v2/upload",
                 headers=headers,
@@ -66,7 +64,7 @@ class YoutubeTranscriber(object):
                 "iab_categories": self.iab_categories,
             }
             headers = {
-                "authorization": os.environ["API_KEY"],
+                "authorization": self.api_key,
                 "content-type": "application/json",
             }
             response = requests.post(endpoint, json=json, headers=headers)
@@ -89,7 +87,7 @@ class YoutubeTranscriber(object):
                 f"https://api.assemblyai.com/v2/transcript/{self.transcription_id}"
             )
             headers = {
-                "authorization": os.environ["API_KEY"],
+                "authorization": self.api_key,
             }
             status = ""
             print("polling data ...")

@@ -44,11 +44,13 @@ def show_youtube_thumbnail(video_url):
 
 @st.cache(allow_output_mutation=True, suppress_st_warning=True)
 def transcribe_video(
+    api_key,
     video_url,
     use_content_moderation,
     use_topic_detection,
 ):
     youtube_transcriber = YoutubeTranscriber(
+        api_key,
         video_url,
         content_safety=use_content_moderation,
         iab_categories=use_topic_detection,

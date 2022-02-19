@@ -35,7 +35,15 @@ if analysis_choice == "Discover some examples":
 
 elif analysis_choice == "Upload your own YouTube video":
 
-    if "API_KEY" not in os.environ:
+    try:
+        API_KEY = st.secrets["API_KEY"]
+    except:
+        API_KEY = None
+
+    if API_KEY is None:
+        API_KEY = os.environ.get("API_KEY", None)
+
+    if API_KEY is None:
         st.error("You must provide an AssemblyAI key.")
         st.markdown(
             """
