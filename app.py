@@ -67,6 +67,7 @@ elif analysis_choice == "Upload your own YouTube video":
 
         if transcribe_button:
             transcript = transcribe_video(
+                API_KEY,
                 video_url,
                 use_content_moderation,
                 use_topic_detection,
