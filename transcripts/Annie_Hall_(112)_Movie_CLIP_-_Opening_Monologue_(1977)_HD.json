@@ -1,1 +1,3363 @@
-{"id": "okpqkqbg89-b0f8-433e-92c8-ffa24a843045", "language_model": "assemblyai_default", "acoustic_model": "assemblyai_default", "language_code": "en_us", "status": "completed", "audio_url": "https://cdn.assemblyai.com/upload/c81f8c85-9df5-4fb8-8aac-7530a29f97a1", "text": "There's an old joke. Two elderly women are at a Catskill Mountain resort, and one of them says, Boy, the food at this place is really terrible. The other one says, yeah, I know. In such small portions. Well, that's essentially how I feel about life. Full of of loneliness and misery and suffering and unhappiness, and it's all over much too quickly. The other important joke for me is one that's usually attributed to gratu Marks. But I think it appears originally in Freud's Wit and Its Relation to the Unconscious. And it goes like this. I'm paraphrasing, I would never want to belong to any club that would have someone like me. Remember? That's the key joke of my adult life in terms of my relationships with women. Lately the strangest things have been going through my mind because I turned 40, and I guess I'm going through a life crisis or something. I don't know. And I'm not worried about aging. I'm not one of those characters, although I'm Balding slightly on top. That's about the worst you can say about me. I think I'm going to get better as I get older. I think I'm going to be the Balding viral type, as opposed to, say, the distinguished Gray, for instance, unless I'm neither of those two. Unless I'm one of those guys with saliva dribbling out of his mouth who wanders into a cafeteria with a shopping bag screaming about socialism. Annie and I broke up, and I still can't get my mind around that. I keep sifting the pieces of the relationship through my mind and examining my life and trying to figure out where did the screw up come a year ago? We've in love, you know. And it's funny. I'm not a morose type. I'm not a depressive character. I was a reasonably happy kid. I guess. I was brought up in Brooklyn during World War II. He's been depressed all of a sudden. He can't do anything. Why are you depressed, Harvey, tell Dr. Flickr it's something he read. Something you read, huh? The universe is expanding. The universe is expanding. Well, the universe is everything. And if it's expanding, someday it will break apart, and that will be the end of everything. What is that your business? He stopped doing his homework. What's the point? What has the universe got to do with it? You're here in Brooklyn. Brooklyn is not expanding. It won't be expanding for billions of years yet, Alvey. We've got to try and enjoy ourselves while we're here. You.", "words": [{"text": "There's", "start": 430, "end": 622, "confidence": 0.64164, "speaker": null}, {"text": "an", "start": 646, "end": 762, "confidence": 0.99741, "speaker": null}, {"text": "old", "start": 776, "end": 918, "confidence": 0.99918, "speaker": null}, {"text": "joke.", "start": 944, "end": 1590, "confidence": 0.95512, "speaker": null}, {"text": "Two", "start": 2030, "end": 2430, "confidence": 0.98612, "speaker": null}, {"text": "elderly", "start": 2480, "end": 2878, "confidence": 0.83076, "speaker": null}, {"text": "women", "start": 2914, "end": 3114, "confidence": 0.9983, "speaker": null}, {"text": "are", "start": 3152, "end": 3282, "confidence": 0.98504, "speaker": null}, {"text": "at", "start": 3296, "end": 3402, "confidence": 0.99531, "speaker": null}, {"text": "a", "start": 3416, "end": 3558, "confidence": 0.87694, "speaker": null}, {"text": "Catskill", "start": 3584, "end": 3982, "confidence": 0.6505, "speaker": null}, {"text": "Mountain", "start": 4006, "end": 4282, "confidence": 0.97177, "speaker": null}, {"text": "resort,", "start": 4306, "end": 4894, "confidence": 0.88087, "speaker": null}, {"text": "and", "start": 5002, "end": 5202, "confidence": 0.95995, "speaker": null}, {"text": "one", "start": 5216, "end": 5322, "confidence": 0.96701, "speaker": null}, {"text": "of", "start": 5336, "end": 5442, "confidence": 0.97333, "speaker": null}, {"text": "them", "start": 5456, "end": 5598, "confidence": 0.95241, "speaker": null}, {"text": "says,", "start": 5624, "end": 5958, "confidence": 0.99687, "speaker": null}, {"text": "Boy,", "start": 6044, "end": 6258, "confidence": 0.97876, "speaker": null}, {"text": "the", "start": 6284, "end": 6402, "confidence": 0.99767, "speaker": null}, {"text": "food", "start": 6416, "end": 6558, "confidence": 0.99796, "speaker": null}, {"text": "at", "start": 6584, "end": 6702, "confidence": 0.70769, "speaker": null}, {"text": "this", "start": 6716, "end": 6858, "confidence": 0.99764, "speaker": null}, {"text": "place", "start": 6884, "end": 7038, "confidence": 0.99974, "speaker": null}, {"text": "is", "start": 7064, "end": 7218, "confidence": 0.99576, "speaker": null}, {"text": "really", "start": 7244, "end": 7470, "confidence": 0.99621, "speaker": null}, {"text": "terrible.", "start": 7520, "end": 8194, "confidence": 0.6374, "speaker": null}, {"text": "The", "start": 8302, "end": 8502, "confidence": 0.94321, "speaker": null}, {"text": "other", "start": 8516, "end": 8658, "confidence": 0.99789, "speaker": null}, {"text": "one", "start": 8684, "end": 8802, "confidence": 0.99476, "speaker": null}, {"text": "says,", "start": 8816, "end": 8958, "confidence": 0.99838, "speaker": null}, {"text": "yeah,", "start": 8984, "end": 9138, "confidence": 0.82012, "speaker": null}, {"text": "I", "start": 9164, "end": 9282, "confidence": 0.98357, "speaker": null}, {"text": "know.", "start": 9296, "end": 9474, "confidence": 0.9995, "speaker": null}, {"text": "In", "start": 9512, "end": 9678, "confidence": 0.21858, "speaker": null}, {"text": "such", "start": 9704, "end": 9894, "confidence": 0.99779, "speaker": null}, {"text": "small", "start": 9932, "end": 10206, "confidence": 0.99984, "speaker": null}, {"text": "portions.", "start": 10268, "end": 11070, "confidence": 0.9944, "speaker": null}, {"text": "Well,", "start": 11510, "end": 12054, "confidence": 0.97427, "speaker": null}, {"text": "that's", "start": 12152, "end": 12478, "confidence": 0.97334, "speaker": null}, {"text": "essentially", "start": 12514, "end": 12886, "confidence": 0.98609, "speaker": null}, {"text": "how", "start": 12958, "end": 13122, "confidence": 0.99907, "speaker": null}, {"text": "I", "start": 13136, "end": 13278, "confidence": 0.9987, "speaker": null}, {"text": "feel", "start": 13304, "end": 13458, "confidence": 0.99929, "speaker": null}, {"text": "about", "start": 13484, "end": 13710, "confidence": 0.99979, "speaker": null}, {"text": "life.", "start": 13760, "end": 14298, "confidence": 0.99959, "speaker": null}, {"text": "Full", "start": 14444, "end": 14718, "confidence": 0.99553, "speaker": null}, {"text": "of", "start": 14744, "end": 14934, "confidence": 0.97385, "speaker": null}, {"text": "of", "start": 14972, "end": 15138, "confidence": 0.52325, "speaker": null}, {"text": "loneliness", "start": 15164, "end": 15658, "confidence": 0.68209, "speaker": null}, {"text": "and", "start": 15754, "end": 16122, "confidence": 0.88036, "speaker": null}, {"text": "misery", "start": 16196, "end": 16594, "confidence": 0.99946, "speaker": null}, {"text": "and", "start": 16642, "end": 16818, "confidence": 0.92968, "speaker": null}, {"text": "suffering", "start": 16844, "end": 17242, "confidence": 0.99158, "speaker": null}, {"text": "and", "start": 17266, "end": 17382, "confidence": 0.97596, "speaker": null}, {"text": "unhappiness,", "start": 17396, "end": 18202, "confidence": 0.76734, "speaker": null}, {"text": "and", "start": 18346, "end": 18834, "confidence": 0.77657, "speaker": null}, {"text": "it's", "start": 18932, "end": 19198, "confidence": 0.91312, "speaker": null}, {"text": "all", "start": 19234, "end": 19398, "confidence": 0.99857, "speaker": null}, {"text": "over", "start": 19424, "end": 19722, "confidence": 0.99905, "speaker": null}, {"text": "much", "start": 19796, "end": 19998, "confidence": 0.99983, "speaker": null}, {"text": "too", "start": 20024, "end": 20214, "confidence": 0.58516, "speaker": null}, {"text": "quickly.", "start": 20252, "end": 20840, "confidence": 0.99956, "speaker": null}, {"text": "The", "start": 21950, "end": 22242, "confidence": 0.99939, "speaker": null}, {"text": "other", "start": 22256, "end": 22506, "confidence": 0.97245, "speaker": null}, {"text": "important", "start": 22568, "end": 22866, "confidence": 0.99966, "speaker": null}, {"text": "joke", "start": 22928, "end": 23158, "confidence": 0.8777, "speaker": null}, {"text": "for", "start": 23194, "end": 23322, "confidence": 0.99593, "speaker": null}, {"text": "me", "start": 23336, "end": 23658, "confidence": 0.99996, "speaker": null}, {"text": "is", "start": 23744, "end": 23958, "confidence": 0.98647, "speaker": null}, {"text": "one", "start": 23984, "end": 24138, "confidence": 0.99602, "speaker": null}, {"text": "that's", "start": 24164, "end": 24526, "confidence": 0.93402, "speaker": null}, {"text": "usually", "start": 24598, "end": 25122, "confidence": 0.99948, "speaker": null}, {"text": "attributed", "start": 25256, "end": 25942, "confidence": 0.96427, "speaker": null}, {"text": "to", "start": 25966, "end": 26154, "confidence": 0.99884, "speaker": null}, {"text": "gratu", "start": 26192, "end": 26578, "confidence": 0.17636, "speaker": null}, {"text": "Marks.", "start": 26614, "end": 26902, "confidence": 0.75404, "speaker": null}, {"text": "But", "start": 26926, "end": 27150, "confidence": 0.92766, "speaker": null}, {"text": "I", "start": 27200, "end": 27342, "confidence": 0.99866, "speaker": null}, {"text": "think", "start": 27356, "end": 27462, "confidence": 0.9999, "speaker": null}, {"text": "it", "start": 27476, "end": 27582, "confidence": 0.99571, "speaker": null}, {"text": "appears", "start": 27596, "end": 27958, "confidence": 0.99566, "speaker": null}, {"text": "originally", "start": 27994, "end": 28378, "confidence": 0.99929, "speaker": null}, {"text": "in", "start": 28414, "end": 28578, "confidence": 0.98721, "speaker": null}, {"text": "Freud's", "start": 28604, "end": 29110, "confidence": 0.94266, "speaker": null}, {"text": "Wit", "start": 29170, "end": 29434, "confidence": 0.75374, "speaker": null}, {"text": "and", "start": 29482, "end": 29622, "confidence": 0.98574, "speaker": null}, {"text": "Its", "start": 29636, "end": 29778, "confidence": 0.88625, "speaker": null}, {"text": "Relation", "start": 29804, "end": 30094, "confidence": 0.98667, "speaker": null}, {"text": "to", "start": 30142, "end": 30246, "confidence": 0.89791, "speaker": null}, {"text": "the", "start": 30248, "end": 30378, "confidence": 0.9154, "speaker": null}, {"text": "Unconscious.", "start": 30404, "end": 30946, "confidence": 0.85176, "speaker": null}, {"text": "And", "start": 31018, "end": 31218, "confidence": 0.93259, "speaker": null}, {"text": "it", "start": 31244, "end": 31326, "confidence": 0.99252, "speaker": null}, {"text": "goes", "start": 31328, "end": 31530, "confidence": 0.99973, "speaker": null}, {"text": "like", "start": 31580, "end": 31722, "confidence": 0.99902, "speaker": null}, {"text": "this.", "start": 31736, "end": 31878, "confidence": 0.98756, "speaker": null}, {"text": "I'm", "start": 31904, "end": 32062, "confidence": 0.90095, "speaker": null}, {"text": "paraphrasing,", "start": 32086, "end": 33030, "confidence": 0.94814, "speaker": null}, {"text": "I", "start": 33350, "end": 33678, "confidence": 0.99909, "speaker": null}, {"text": "would", "start": 33704, "end": 33822, "confidence": 0.99808, "speaker": null}, {"text": "never", "start": 33836, "end": 34014, "confidence": 0.99966, "speaker": null}, {"text": "want", "start": 34052, "end": 34146, "confidence": 0.99641, "speaker": null}, {"text": "to", "start": 34148, "end": 34242, "confidence": 0.93416, "speaker": null}, {"text": "belong", "start": 34256, "end": 34462, "confidence": 0.99976, "speaker": null}, {"text": "to", "start": 34486, "end": 34602, "confidence": 0.994, "speaker": null}, {"text": "any", "start": 34616, "end": 34830, "confidence": 0.67034, "speaker": null}, {"text": "club", "start": 34880, "end": 35194, "confidence": 0.99993, "speaker": null}, {"text": "that", "start": 35242, "end": 35382, "confidence": 0.9976, "speaker": null}, {"text": "would", "start": 35396, "end": 35538, "confidence": 0.99687, "speaker": null}, {"text": "have", "start": 35564, "end": 35718, "confidence": 0.99933, "speaker": null}, {"text": "someone", "start": 35744, "end": 35934, "confidence": 0.99985, "speaker": null}, {"text": "like", "start": 35972, "end": 36138, "confidence": 0.99915, "speaker": null}, {"text": "me.", "start": 36164, "end": 36390, "confidence": 0.99777, "speaker": null}, {"text": "Remember?", "start": 36440, "end": 37040, "confidence": 0.99561, "speaker": null}, {"text": "That's", "start": 37790, "end": 38182, "confidence": 0.61845, "speaker": null}, {"text": "the", "start": 38206, "end": 38394, "confidence": 0.50424, "speaker": null}, {"text": "key", "start": 38432, "end": 38634, "confidence": 0.99937, "speaker": null}, {"text": "joke", "start": 38672, "end": 39046, "confidence": 0.87921, "speaker": null}, {"text": "of", "start": 39118, "end": 39282, "confidence": 0.99517, "speaker": null}, {"text": "my", "start": 39296, "end": 39438, "confidence": 0.99942, "speaker": null}, {"text": "adult", "start": 39464, "end": 39754, "confidence": 0.99935, "speaker": null}, {"text": "life", "start": 39802, "end": 39978, "confidence": 0.99901, "speaker": null}, {"text": "in", "start": 40004, "end": 40122, "confidence": 0.99437, "speaker": null}, {"text": "terms", "start": 40136, "end": 40278, "confidence": 0.99996, "speaker": null}, {"text": "of", "start": 40304, "end": 40422, "confidence": 0.99838, "speaker": null}, {"text": "my", "start": 40436, "end": 40542, "confidence": 0.97772, "speaker": null}, {"text": "relationships", "start": 40556, "end": 41122, "confidence": 0.9924, "speaker": null}, {"text": "with", "start": 41146, "end": 41298, "confidence": 0.99954, "speaker": null}, {"text": "women.", "start": 41324, "end": 41900, "confidence": 0.99919, "speaker": null}, {"text": "Lately", "start": 43310, "end": 43822, "confidence": 0.52872, "speaker": null}, {"text": "the", "start": 43846, "end": 44106, "confidence": 0.96626, "speaker": null}, {"text": "strangest", "start": 44168, "end": 44578, "confidence": 0.98854, "speaker": null}, {"text": "things", "start": 44614, "end": 44778, "confidence": 0.98271, "speaker": null}, {"text": "have", "start": 44804, "end": 44886, "confidence": 0.83457, "speaker": null}, {"text": "been", "start": 44888, "end": 44982, "confidence": 0.96681, "speaker": null}, {"text": "going", "start": 44996, "end": 45138, "confidence": 0.99721, "speaker": null}, {"text": "through", "start": 45164, "end": 45282, "confidence": 0.99954, "speaker": null}, {"text": "my", "start": 45296, "end": 45438, "confidence": 0.99582, "speaker": null}, {"text": "mind", "start": 45464, "end": 45654, "confidence": 0.99944, "speaker": null}, {"text": "because", "start": 45692, "end": 45966, "confidence": 0.95729, "speaker": null}, {"text": "I", "start": 46028, "end": 46218, "confidence": 0.99867, "speaker": null}, {"text": "turned", "start": 46244, "end": 46498, "confidence": 0.85061, "speaker": null}, {"text": "40,", "start": 46534, "end": 46693, "confidence": 0.91, "speaker": null}, {"text": "and", "start": 46708, "end": 46867, "confidence": 0.91, "speaker": null}, {"text": "I", "start": 46882, "end": 47862, "confidence": 0.91, "speaker": null}, {"text": "guess", "start": 47876, "end": 47982, "confidence": 0.99934, "speaker": null}, {"text": "I'm", "start": 47996, "end": 48106, "confidence": 0.9916, "speaker": null}, {"text": "going", "start": 48118, "end": 48222, "confidence": 0.99834, "speaker": null}, {"text": "through", "start": 48236, "end": 48342, "confidence": 0.96709, "speaker": null}, {"text": "a", "start": 48356, "end": 48462, "confidence": 0.99152, "speaker": null}, {"text": "life", "start": 48476, "end": 48654, "confidence": 0.99853, "speaker": null}, {"text": "crisis", "start": 48692, "end": 49018, "confidence": 0.99728, "speaker": null}, {"text": "or", "start": 49054, "end": 49182, "confidence": 0.99237, "speaker": null}, {"text": "something.", "start": 49196, "end": 49374, "confidence": 0.9999, "speaker": null}, {"text": "I", "start": 49412, "end": 49506, "confidence": 0.51525, "speaker": null}, {"text": "don't", "start": 49508, "end": 49606, "confidence": 0.97934, "speaker": null}, {"text": "know.", "start": 49618, "end": 50010, "confidence": 0.99374, "speaker": null}, {"text": "And", "start": 50120, "end": 50322, "confidence": 0.7068, "speaker": null}, {"text": "I'm", "start": 50336, "end": 50446, "confidence": 0.98739, "speaker": null}, {"text": "not", "start": 50458, "end": 50598, "confidence": 0.99855, "speaker": null}, {"text": "worried", "start": 50624, "end": 50818, "confidence": 0.99601, "speaker": null}, {"text": "about", "start": 50854, "end": 51018, "confidence": 0.99979, "speaker": null}, {"text": "aging.", "start": 51044, "end": 51286, "confidence": 0.9578, "speaker": null}, {"text": "I'm", "start": 51298, "end": 51406, "confidence": 0.89295, "speaker": null}, {"text": "not", "start": 51418, "end": 51522, "confidence": 0.9969, "speaker": null}, {"text": "one", "start": 51536, "end": 51642, "confidence": 0.99947, "speaker": null}, {"text": "of", "start": 51656, "end": 51726, "confidence": 0.99882, "speaker": null}, {"text": "those", "start": 51728, "end": 51858, "confidence": 0.99926, "speaker": null}, {"text": "characters,", "start": 51884, "end": 52414, "confidence": 0.99726, "speaker": null}, {"text": "although", "start": 52522, "end": 52930, "confidence": 0.80523, "speaker": null}, {"text": "I'm", "start": 52990, "end": 53182, "confidence": 0.9822, "speaker": null}, {"text": "Balding", "start": 53206, "end": 53602, "confidence": 0.98005, "speaker": null}, {"text": "slightly", "start": 53626, "end": 53938, "confidence": 0.99883, "speaker": null}, {"text": "on", "start": 53974, "end": 54138, "confidence": 0.99907, "speaker": null}, {"text": "top.", "start": 54164, "end": 54354, "confidence": 0.99985, "speaker": null}, {"text": "That's", "start": 54392, "end": 54586, "confidence": 0.95551, "speaker": null}, {"text": "about", "start": 54598, "end": 54738, "confidence": 0.92296, "speaker": null}, {"text": "the", "start": 54764, "end": 54882, "confidence": 0.99838, "speaker": null}, {"text": "worst", "start": 54896, "end": 55078, "confidence": 0.91448, "speaker": null}, {"text": "you", "start": 55114, "end": 55242, "confidence": 0.99578, "speaker": null}, {"text": "can", "start": 55256, "end": 55398, "confidence": 0.99793, "speaker": null}, {"text": "say", "start": 55424, "end": 55578, "confidence": 0.99954, "speaker": null}, {"text": "about", "start": 55604, "end": 55794, "confidence": 0.99976, "speaker": null}, {"text": "me.", "start": 55832, "end": 56502, "confidence": 0.69243, "speaker": null}, {"text": "I", "start": 56696, "end": 57018, "confidence": 0.80286, "speaker": null}, {"text": "think", "start": 57044, "end": 57126, "confidence": 0.99212, "speaker": null}, {"text": "I'm", "start": 57128, "end": 57226, "confidence": 0.88414, "speaker": null}, {"text": "going", "start": 57238, "end": 57342, "confidence": 0.93813, "speaker": null}, {"text": "to", "start": 57356, "end": 57426, "confidence": 0.99401, "speaker": null}, {"text": "get", "start": 57428, "end": 57594, "confidence": 0.99864, "speaker": null}, {"text": "better", "start": 57632, "end": 57942, "confidence": 0.9996, "speaker": null}, {"text": "as", "start": 58016, "end": 58218, "confidence": 0.99939, "speaker": null}, {"text": "I", "start": 58244, "end": 58362, "confidence": 0.99741, "speaker": null}, {"text": "get", "start": 58376, "end": 58734, "confidence": 0.9963, "speaker": null}, {"text": "older.", "start": 58832, "end": 59326, "confidence": 0.99988, "speaker": null}, {"text": "I", "start": 59398, "end": 59526, "confidence": 0.98359, "speaker": null}, {"text": "think", "start": 59528, "end": 59622, "confidence": 0.998, "speaker": null}, {"text": "I'm", "start": 59636, "end": 59746, "confidence": 0.98394, "speaker": null}, {"text": "going", "start": 59758, "end": 59826, "confidence": 0.99803, "speaker": null}, {"text": "to", "start": 59828, "end": 59958, "confidence": 0.97718, "speaker": null}, {"text": "be", "start": 59984, "end": 60102, "confidence": 0.59679, "speaker": null}, {"text": "the", "start": 60116, "end": 60654, "confidence": 0.61424, "speaker": null}, {"text": "Balding", "start": 60812, "end": 61414, "confidence": 0.97608, "speaker": null}, {"text": "viral", "start": 61462, "end": 61894, "confidence": 0.55115, "speaker": null}, {"text": "type,", "start": 61942, "end": 62406, "confidence": 0.9891, "speaker": null}, {"text": "as", "start": 62528, "end": 62742, "confidence": 0.99785, "speaker": null}, {"text": "opposed", "start": 62756, "end": 63010, "confidence": 0.51576, "speaker": null}, {"text": "to,", "start": 63070, "end": 63258, "confidence": 0.99873, "speaker": null}, {"text": "say,", "start": 63284, "end": 63474, "confidence": 0.9749, "speaker": null}, {"text": "the", "start": 63512, "end": 64100, "confidence": 0.9853, "speaker": null}, {"text": "distinguished", "start": 64430, "end": 65122, "confidence": 0.66888, "speaker": null}, {"text": "Gray,", "start": 65146, "end": 65506, "confidence": 0.62986, "speaker": null}, {"text": "for", "start": 65578, "end": 65742, "confidence": 0.99164, "speaker": null}, {"text": "instance,", "start": 65756, "end": 66358, "confidence": 0.75848, "speaker": null}, {"text": "unless", "start": 66514, "end": 66838, "confidence": 0.94544, "speaker": null}, {"text": "I'm", "start": 66874, "end": 67006, "confidence": 0.96196, "speaker": null}, {"text": "neither", "start": 67018, "end": 67234, "confidence": 0.93098, "speaker": null}, {"text": "of", "start": 67282, "end": 67422, "confidence": 0.97947, "speaker": null}, {"text": "those", "start": 67436, "end": 67578, "confidence": 0.99931, "speaker": null}, {"text": "two.", "start": 67604, "end": 67938, "confidence": 0.95425, "speaker": null}, {"text": "Unless", "start": 68024, "end": 68278, "confidence": 0.5871, "speaker": null}, {"text": "I'm", "start": 68314, "end": 68446, "confidence": 0.96217, "speaker": null}, {"text": "one", "start": 68458, "end": 68526, "confidence": 0.9992, "speaker": null}, {"text": "of", "start": 68528, "end": 68622, "confidence": 0.75165, "speaker": null}, {"text": "those", "start": 68636, "end": 68814, "confidence": 0.99907, "speaker": null}, {"text": "guys", "start": 68852, "end": 69162, "confidence": 0.9992, "speaker": null}, {"text": "with", "start": 69236, "end": 69546, "confidence": 0.99604, "speaker": null}, {"text": "saliva", "start": 69608, "end": 70162, "confidence": 0.97675, "speaker": null}, {"text": "dribbling", "start": 70186, "end": 70558, "confidence": 0.55225, "speaker": null}, {"text": "out", "start": 70594, "end": 70722, "confidence": 0.99974, "speaker": null}, {"text": "of", "start": 70736, "end": 70842, "confidence": 0.99839, "speaker": null}, {"text": "his", "start": 70856, "end": 70962, "confidence": 0.99935, "speaker": null}, {"text": "mouth", "start": 70976, "end": 71278, "confidence": 0.61391, "speaker": null}, {"text": "who", "start": 71314, "end": 71586, "confidence": 0.96428, "speaker": null}, {"text": "wanders", "start": 71648, "end": 72046, "confidence": 0.98637, "speaker": null}, {"text": "into", "start": 72058, "end": 72198, "confidence": 0.99848, "speaker": null}, {"text": "a", "start": 72224, "end": 72342, "confidence": 0.98713, "speaker": null}, {"text": "cafeteria", "start": 72356, "end": 72862, "confidence": 0.84602, "speaker": null}, {"text": "with", "start": 72886, "end": 73038, "confidence": 0.99509, "speaker": null}, {"text": "a", "start": 73064, "end": 73182, "confidence": 0.97926, "speaker": null}, {"text": "shopping", "start": 73196, "end": 73498, "confidence": 0.99623, "speaker": null}, {"text": "bag", "start": 73534, "end": 73846, "confidence": 0.99799, "speaker": null}, {"text": "screaming", "start": 73918, "end": 74362, "confidence": 0.99938, "speaker": null}, {"text": "about", "start": 74386, "end": 74610, "confidence": 0.99965, "speaker": null}, {"text": "socialism.", "start": 74660, "end": 75570, "confidence": 0.99979, "speaker": null}, {"text": "Annie", "start": 76730, "end": 77182, "confidence": 0.7882, "speaker": null}, {"text": "and", "start": 77206, "end": 77322, "confidence": 0.99762, "speaker": null}, {"text": "I", "start": 77336, "end": 77478, "confidence": 0.9986, "speaker": null}, {"text": "broke", "start": 77504, "end": 77758, "confidence": 0.99624, "speaker": null}, {"text": "up,", "start": 77794, "end": 78102, "confidence": 0.99949, "speaker": null}, {"text": "and", "start": 78176, "end": 78378, "confidence": 0.8765, "speaker": null}, {"text": "I", "start": 78404, "end": 78630, "confidence": 0.6312, "speaker": null}, {"text": "still", "start": 78680, "end": 78858, "confidence": 0.99974, "speaker": null}, {"text": "can't", "start": 78884, "end": 79042, "confidence": 0.93995, "speaker": null}, {"text": "get", "start": 79066, "end": 79182, "confidence": 0.99946, "speaker": null}, {"text": "my", "start": 79196, "end": 79338, "confidence": 0.99912, "speaker": null}, {"text": "mind", "start": 79364, "end": 79554, "confidence": 0.99959, "speaker": null}, {"text": "around", "start": 79592, "end": 79794, "confidence": 0.99912, "speaker": null}, {"text": "that.", "start": 79832, "end": 80322, "confidence": 0.9988, "speaker": null}, {"text": "I", "start": 80456, "end": 80718, "confidence": 0.50407, "speaker": null}, {"text": "keep", "start": 80744, "end": 80934, "confidence": 0.99847, "speaker": null}, {"text": "sifting", "start": 80972, "end": 81322, "confidence": 0.99579, "speaker": null}, {"text": "the", "start": 81346, "end": 81462, "confidence": 0.99658, "speaker": null}, {"text": "pieces", "start": 81476, "end": 81802, "confidence": 0.99, "speaker": null}, {"text": "of", "start": 81826, "end": 81906, "confidence": 0.99579, "speaker": null}, {"text": "the", "start": 81908, "end": 82038, "confidence": 0.81292, "speaker": null}, {"text": "relationship", "start": 82064, "end": 82470, "confidence": 0.99996, "speaker": null}, {"text": "through", "start": 82580, "end": 82818, "confidence": 0.99939, "speaker": null}, {"text": "my", "start": 82844, "end": 83034, "confidence": 0.65448, "speaker": null}, {"text": "mind", "start": 83072, "end": 83310, "confidence": 0.99994, "speaker": null}, {"text": "and", "start": 83360, "end": 83934, "confidence": 0.78387, "speaker": null}, {"text": "examining", "start": 84092, "end": 84718, "confidence": 0.77291, "speaker": null}, {"text": "my", "start": 84754, "end": 84918, "confidence": 0.99968, "speaker": null}, {"text": "life", "start": 84944, "end": 85134, "confidence": 0.99933, "speaker": null}, {"text": "and", "start": 85172, "end": 85302, "confidence": 0.97169, "speaker": null}, {"text": "trying", "start": 85316, "end": 85494, "confidence": 0.99776, "speaker": null}, {"text": "to", "start": 85532, "end": 85806, "confidence": 0.99816, "speaker": null}, {"text": "figure", "start": 85868, "end": 86130, "confidence": 0.99996, "speaker": null}, {"text": "out", "start": 86180, "end": 86574, "confidence": 0.99956, "speaker": null}, {"text": "where", "start": 86672, "end": 86934, "confidence": 0.56739, "speaker": null}, {"text": "did", "start": 86972, "end": 87102, "confidence": 0.98155, "speaker": null}, {"text": "the", "start": 87116, "end": 87222, "confidence": 0.97833, "speaker": null}, {"text": "screw", "start": 87236, "end": 87454, "confidence": 0.68723, "speaker": null}, {"text": "up", "start": 87502, "end": 87678, "confidence": 0.94625, "speaker": null}, {"text": "come", "start": 87704, "end": 88280, "confidence": 0.99496, "speaker": null}, {"text": "a", "start": 89090, "end": 89382, "confidence": 0.98743, "speaker": null}, {"text": "year", "start": 89396, "end": 89574, "confidence": 0.99961, "speaker": null}, {"text": "ago?", "start": 89612, "end": 89814, "confidence": 0.99943, "speaker": null}, {"text": "We've", "start": 89852, "end": 90450, "confidence": 0.4547, "speaker": null}, {"text": "in", "start": 91070, "end": 91398, "confidence": 0.97943, "speaker": null}, {"text": "love,", "start": 91424, "end": 91722, "confidence": 0.99988, "speaker": null}, {"text": "you", "start": 91796, "end": 91962, "confidence": 0.58611, "speaker": null}, {"text": "know.", "start": 91976, "end": 92118, "confidence": 0.99723, "speaker": null}, {"text": "And", "start": 92144, "end": 92720, "confidence": 0.46577, "speaker": null}, {"text": "it's", "start": 93590, "end": 93886, "confidence": 0.77666, "speaker": null}, {"text": "funny.", "start": 93898, "end": 94258, "confidence": 0.91885, "speaker": null}, {"text": "I'm", "start": 94354, "end": 94546, "confidence": 0.95224, "speaker": null}, {"text": "not", "start": 94558, "end": 94662, "confidence": 0.99639, "speaker": null}, {"text": "a", "start": 94676, "end": 94746, "confidence": 0.95887, "speaker": null}, {"text": "morose", "start": 94748, "end": 95074, "confidence": 0.94624, "speaker": null}, {"text": "type.", "start": 95122, "end": 95370, "confidence": 0.99917, "speaker": null}, {"text": "I'm", "start": 95420, "end": 95566, "confidence": 0.95332, "speaker": null}, {"text": "not", "start": 95578, "end": 95682, "confidence": 0.97178, "speaker": null}, {"text": "a", "start": 95696, "end": 95802, "confidence": 0.97932, "speaker": null}, {"text": "depressive", "start": 95816, "end": 96202, "confidence": 0.98335, "speaker": null}, {"text": "character.", "start": 96226, "end": 96990, "confidence": 0.99941, "speaker": null}, {"text": "I", "start": 98690, "end": 98982, "confidence": 0.99402, "speaker": null}, {"text": "was", "start": 98996, "end": 99102, "confidence": 0.63361, "speaker": null}, {"text": "a", "start": 99116, "end": 99258, "confidence": 0.96063, "speaker": null}, {"text": "reasonably", "start": 99284, "end": 99730, "confidence": 0.98829, "speaker": null}, {"text": "happy", "start": 99790, "end": 100050, "confidence": 0.99971, "speaker": null}, {"text": "kid.", "start": 100100, "end": 100278, "confidence": 0.99883, "speaker": null}, {"text": "I", "start": 100304, "end": 100422, "confidence": 0.98653, "speaker": null}, {"text": "guess.", "start": 100436, "end": 100578, "confidence": 0.99628, "speaker": null}, {"text": "I", "start": 100604, "end": 100722, "confidence": 0.97229, "speaker": null}, {"text": "was", "start": 100736, "end": 101166, "confidence": 0.98855, "speaker": null}, {"text": "brought", "start": 101288, "end": 101578, "confidence": 0.99777, "speaker": null}, {"text": "up", "start": 101614, "end": 101742, "confidence": 0.99983, "speaker": null}, {"text": "in", "start": 101756, "end": 102078, "confidence": 0.99658, "speaker": null}, {"text": "Brooklyn", "start": 102164, "end": 102766, "confidence": 0.75929, "speaker": null}, {"text": "during", "start": 102838, "end": 103110, "confidence": 0.9987, "speaker": null}, {"text": "World", "start": 103160, "end": 103374, "confidence": 0.99579, "speaker": null}, {"text": "War", "start": 103412, "end": 103578, "confidence": 0.99983, "speaker": null}, {"text": "II.", "start": 103604, "end": 104310, "confidence": 0.58395, "speaker": null}, {"text": "He's", "start": 105530, "end": 105922, "confidence": 0.50576, "speaker": null}, {"text": "been", "start": 105946, "end": 106098, "confidence": 0.99766, "speaker": null}, {"text": "depressed", "start": 106124, "end": 106834, "confidence": 0.38112, "speaker": null}, {"text": "all", "start": 106942, "end": 107142, "confidence": 0.99978, "speaker": null}, {"text": "of", "start": 107156, "end": 107262, "confidence": 0.5779, "speaker": null}, {"text": "a", "start": 107276, "end": 107346, "confidence": 0.80712, "speaker": null}, {"text": "sudden.", "start": 107348, "end": 107578, "confidence": 0.94723, "speaker": null}, {"text": "He", "start": 107614, "end": 107742, "confidence": 0.98841, "speaker": null}, {"text": "can't", "start": 107756, "end": 107998, "confidence": 0.98743, "speaker": null}, {"text": "do", "start": 108034, "end": 108270, "confidence": 0.99984, "speaker": null}, {"text": "anything.", "start": 108320, "end": 108930, "confidence": 0.72718, "speaker": null}, {"text": "Why", "start": 109100, "end": 109362, "confidence": 0.99825, "speaker": null}, {"text": "are", "start": 109376, "end": 109446, "confidence": 0.79979, "speaker": null}, {"text": "you", "start": 109448, "end": 109542, "confidence": 0.99449, "speaker": null}, {"text": "depressed,", "start": 109556, "end": 109882, "confidence": 0.99762, "speaker": null}, {"text": "Harvey,", "start": 109906, "end": 110610, "confidence": 0.19553, "speaker": null}, {"text": "tell", "start": 110930, "end": 111330, "confidence": 0.99992, "speaker": null}, {"text": "Dr.", "start": 111380, "end": 111630, "confidence": 0.60148, "speaker": null}, {"text": "Flickr", "start": 111680, "end": 112530, "confidence": 0.51858, "speaker": null}, {"text": "it's", "start": 113090, "end": 113482, "confidence": 0.96668, "speaker": null}, {"text": "something", "start": 113506, "end": 113766, "confidence": 0.79649, "speaker": null}, {"text": "he", "start": 113828, "end": 114018, "confidence": 0.98811, "speaker": null}, {"text": "read.", "start": 114044, "end": 114620, "confidence": 0.62256, "speaker": null}, {"text": "Something", "start": 115130, "end": 115530, "confidence": 0.97119, "speaker": null}, {"text": "you", "start": 115580, "end": 115722, "confidence": 0.72828, "speaker": null}, {"text": "read,", "start": 115736, "end": 115914, "confidence": 0.99691, "speaker": null}, {"text": "huh?", "start": 115952, "end": 116554, "confidence": 0.89774, "speaker": null}, {"text": "The", "start": 116722, "end": 117054, "confidence": 0.62564, "speaker": null}, {"text": "universe", "start": 117092, "end": 117562, "confidence": 0.97422, "speaker": null}, {"text": "is", "start": 117586, "end": 117810, "confidence": 0.98895, "speaker": null}, {"text": "expanding.", "start": 117860, "end": 118858, "confidence": 0.72905, "speaker": null}, {"text": "The", "start": 119014, "end": 119262, "confidence": 0.72913, "speaker": null}, {"text": "universe", "start": 119276, "end": 119662, "confidence": 0.94617, "speaker": null}, {"text": "is", "start": 119686, "end": 119910, "confidence": 0.95214, "speaker": null}, {"text": "expanding.", "start": 119960, "end": 120682, "confidence": 0.68834, "speaker": null}, {"text": "Well,", "start": 120826, "end": 121134, "confidence": 0.95012, "speaker": null}, {"text": "the", "start": 121172, "end": 121374, "confidence": 0.89326, "speaker": null}, {"text": "universe", "start": 121412, "end": 121822, "confidence": 0.88654, "speaker": null}, {"text": "is", "start": 121846, "end": 122034, "confidence": 0.95869, "speaker": null}, {"text": "everything.", "start": 122072, "end": 122490, "confidence": 0.99938, "speaker": null}, {"text": "And", "start": 122600, "end": 122838, "confidence": 0.90715, "speaker": null}, {"text": "if", "start": 122864, "end": 123018, "confidence": 0.99402, "speaker": null}, {"text": "it's", "start": 123044, "end": 123238, "confidence": 0.79936, "speaker": null}, {"text": "expanding,", "start": 123274, "end": 123910, "confidence": 0.67425, "speaker": null}, {"text": "someday", "start": 123970, "end": 124318, "confidence": 0.72852, "speaker": null}, {"text": "it", "start": 124354, "end": 124482, "confidence": 0.97924, "speaker": null}, {"text": "will", "start": 124496, "end": 124638, "confidence": 0.98307, "speaker": null}, {"text": "break", "start": 124664, "end": 124854, "confidence": 0.99986, "speaker": null}, {"text": "apart,", "start": 124892, "end": 125194, "confidence": 0.78974, "speaker": null}, {"text": "and", "start": 125242, "end": 125418, "confidence": 0.9561, "speaker": null}, {"text": "that", "start": 125444, "end": 125598, "confidence": 0.46704, "speaker": null}, {"text": "will", "start": 125624, "end": 125742, "confidence": 0.8756, "speaker": null}, {"text": "be", "start": 125756, "end": 125898, "confidence": 0.99679, "speaker": null}, {"text": "the", "start": 125924, "end": 126078, "confidence": 0.99726, "speaker": null}, {"text": "end", "start": 126104, "end": 126222, "confidence": 0.99988, "speaker": null}, {"text": "of", "start": 126236, "end": 126378, "confidence": 0.99958, "speaker": null}, {"text": "everything.", "start": 126404, "end": 126980, "confidence": 0.99944, "speaker": null}, {"text": "What", "start": 127670, "end": 127998, "confidence": 0.61049, "speaker": null}, {"text": "is", "start": 128024, "end": 128214, "confidence": 0.74214, "speaker": null}, {"text": "that", "start": 128252, "end": 128454, "confidence": 0.99606, "speaker": null}, {"text": "your", "start": 128492, "end": 128730, "confidence": 0.99363, "speaker": null}, {"text": "business?", "start": 128780, "end": 129380, "confidence": 0.9999, "speaker": null}, {"text": "He", "start": 129890, "end": 130218, "confidence": 0.99818, "speaker": null}, {"text": "stopped", "start": 130244, "end": 130582, "confidence": 0.71468, "speaker": null}, {"text": "doing", "start": 130606, "end": 130830, "confidence": 0.9997, "speaker": null}, {"text": "his", "start": 130880, "end": 131094, "confidence": 0.9995, "speaker": null}, {"text": "homework.", "start": 131132, "end": 131926, "confidence": 0.72935, "speaker": null}, {"text": "What's", "start": 132118, "end": 132502, "confidence": 0.9362, "speaker": null}, {"text": "the", "start": 132526, "end": 132714, "confidence": 0.59753, "speaker": null}, {"text": "point?", "start": 132752, "end": 133350, "confidence": 0.99981, "speaker": null}, {"text": "What", "start": 133520, "end": 133818, "confidence": 0.99931, "speaker": null}, {"text": "has", "start": 133844, "end": 133998, "confidence": 0.99277, "speaker": null}, {"text": "the", "start": 134024, "end": 134178, "confidence": 0.98819, "speaker": null}, {"text": "universe", "start": 134204, "end": 134662, "confidence": 0.99845, "speaker": null}, {"text": "got", "start": 134686, "end": 134838, "confidence": 0.99687, "speaker": null}, {"text": "to", "start": 134864, "end": 135018, "confidence": 0.62038, "speaker": null}, {"text": "do", "start": 135044, "end": 135198, "confidence": 0.9112, "speaker": null}, {"text": "with", "start": 135224, "end": 135342, "confidence": 0.96548, "speaker": null}, {"text": "it?", "start": 135356, "end": 135642, "confidence": 0.99872, "speaker": null}, {"text": "You're", "start": 135716, "end": 136018, "confidence": 0.90919, "speaker": null}, {"text": "here", "start": 136054, "end": 136290, "confidence": 0.99868, "speaker": null}, {"text": "in", "start": 136340, "end": 136482, "confidence": 0.99775, "speaker": null}, {"text": "Brooklyn.", "start": 136496, "end": 137062, "confidence": 0.90497, "speaker": null}, {"text": "Brooklyn", "start": 137146, "end": 137578, "confidence": 0.95942, "speaker": null}, {"text": "is", "start": 137614, "end": 137778, "confidence": 0.99243, "speaker": null}, {"text": "not", "start": 137804, "end": 138030, "confidence": 0.9981, "speaker": null}, {"text": "expanding.", "start": 138080, "end": 138946, "confidence": 0.92241, "speaker": null}, {"text": "It", "start": 139078, "end": 139302, "confidence": 0.98417, "speaker": null}, {"text": "won't", "start": 139316, "end": 139522, "confidence": 0.57049, "speaker": null}, {"text": "be", "start": 139546, "end": 139734, "confidence": 0.99568, "speaker": null}, {"text": "expanding", "start": 139772, "end": 140338, "confidence": 0.99635, "speaker": null}, {"text": "for", "start": 140374, "end": 140718, "confidence": 0.99885, "speaker": null}, {"text": "billions", "start": 140804, "end": 141286, "confidence": 0.99789, "speaker": null}, {"text": "of", "start": 141358, "end": 141594, "confidence": 0.99731, "speaker": null}, {"text": "years", "start": 141632, "end": 141870, "confidence": 0.99975, "speaker": null}, {"text": "yet,", "start": 141920, "end": 142098, "confidence": 0.75051, "speaker": null}, {"text": "Alvey.", "start": 142124, "end": 142990, "confidence": 0.03115, "speaker": null}, {"text": "We've", "start": 143170, "end": 143566, "confidence": 0.76998, "speaker": null}, {"text": "got", "start": 143578, "end": 143682, "confidence": 0.7182, "speaker": null}, {"text": "to", "start": 143696, "end": 143838, "confidence": 0.88611, "speaker": null}, {"text": "try", "start": 143864, "end": 143982, "confidence": 0.95695, "speaker": null}, {"text": "and", "start": 143996, "end": 144138, "confidence": 0.63661, "speaker": null}, {"text": "enjoy", "start": 144164, "end": 144462, "confidence": 0.97331, "speaker": null}, {"text": "ourselves", "start": 144536, "end": 145234, "confidence": 0.63948, "speaker": null}, {"text": "while", "start": 145402, "end": 145734, "confidence": 0.96583, "speaker": null}, {"text": "we're", "start": 145772, "end": 146038, "confidence": 0.96274, "speaker": null}, {"text": "here.", "start": 146074, "end": 146660, "confidence": 0.99588, "speaker": null}, {"text": "You.", "start": 177370, "end": 177620, "confidence": 0.74, "speaker": null}], "utterances": null, "confidence": 0.911584780600462, "audio_duration": 177, "punctuate": true, "format_text": true, "dual_channel": null, "webhook_url": null, "webhook_status_code": null, "speed_boost": false, "auto_highlights_result": null, "auto_highlights": false, "audio_start_from": null, "audio_end_at": null, "word_boost": [], "boost_param": null, "filter_profanity": false, "redact_pii": false, "redact_pii_audio": false, "redact_pii_audio_quality": null, "redact_pii_policies": null, "redact_pii_sub": null, "speaker_labels": false, "content_safety": false, "iab_categories": true, "content_safety_labels": {"status": "unavailable", "results": [], "summary": {}}, "iab_categories_result": {"status": "success", "results": [{"text": "There's an old joke. Two elderly women are at a Catskill Mountain resort, and one of them says, Boy, the food at this place is really terrible. The other one says, yeah, I know. In such small portions. Well, that's essentially how I feel about life. Full of of loneliness and misery and suffering and unhappiness, and it's all over much too quickly. The other important joke for me is one that's usually attributed to gratu Marks.", "labels": [{"relevance": 0.8115949630737305, "label": "PopCulture>HumorAndSatire"}, {"relevance": 0.593075692653656, "label": "EventsAndAttractions>ComedyEvents"}, {"relevance": 0.02570231817662716, "label": "MusicAndAudio>Comedy(MusicAndAudio)"}, {"relevance": 0.0200432687997818, "label": "Television>ComedyTV"}, {"relevance": 0.002836741739884019, "label": "Food&Drink>DiningOut"}, {"relevance": 0.0026492844335734844, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.0025316844694316387, "label": "Hobbies&Interests>ContentProduction>FreelanceWriting"}, {"relevance": 0.0019251856720075011, "label": "BooksAndLiterature>YoungAdultLiterature"}, {"relevance": 0.0015819157706573606, "label": "Food&Drink>BarbecuesAndGrilling"}, {"relevance": 0.0015221766661852598, "label": "Movies>ComedyMovies"}], "timestamp": {"start": 430, "end": 26902}}, {"text": "But I think it appears originally in Freud's Wit and Its Relation to the Unconscious. And it goes like this. I'm paraphrasing, I would never want to belong to any club that would have someone like me. Remember? That's the key joke of my adult life in terms of my relationships with women. Lately the strangest things have been going through my mind because I turned 40, and I guess I'm going through a life crisis or something. I don't know.", "labels": [{"relevance": 0.9404755234718323, "label": "PopCulture>HumorAndSatire"}, {"relevance": 0.3746764361858368, "label": "EventsAndAttractions>ComedyEvents"}, {"relevance": 0.01495490875095129, "label": "MusicAndAudio>Comedy(MusicAndAudio)"}, {"relevance": 0.013229873031377792, "label": "Television>ComedyTV"}, {"relevance": 0.005697597283869982, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.004793417174369097, "label": "BooksAndLiterature>YoungAdultLiterature"}, {"relevance": 0.0036345035769045353, "label": "Hobbies&Interests>ContentProduction>FreelanceWriting"}, {"relevance": 0.002456593094393611, "label": "BooksAndLiterature>Biographies"}, {"relevance": 0.0016223985003307462, "label": "FamilyAndRelationships>Bereavement"}, {"relevance": 0.0014747425448149443, "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>Menopause"}], "timestamp": {"start": 26926, "end": 50010}}, {"text": "And I'm not worried about aging. I'm not one of those characters, although I'm Balding slightly on top. That's about the worst you can say about me. I think I'm going to get better as I get older. I think I'm going to be the Balding viral type, as opposed to, say, the distinguished Gray, for instance, unless I'm neither of those two.", "labels": [{"relevance": 0.02561904489994049, "label": "HealthyLiving>SeniorHealth"}, {"relevance": 0.0068320007994771, "label": "PersonalFinance>RetirementPlanning"}, {"relevance": 0.0020724383648484945, "label": "FamilyAndRelationships>Bereavement"}, {"relevance": 0.0017953045899048448, "label": "PersonalFinance>Insurance>LifeInsurance"}, {"relevance": 0.0010802708566188812, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.0010071309516206384, "label": "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11"}, {"relevance": 0.0007843826897442341, "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>Menopause"}, {"relevance": 0.0007092910818755627, "label": "BooksAndLiterature>Biographies"}, {"relevance": 0.0005902520497329533, "label": "Style&Fashion>Beauty"}, {"relevance": 0.0005809914437122643, "label": "PersonalFinance>Insurance"}], "timestamp": {"start": 50120, "end": 67938}}, {"text": "Unless I'm one of those guys with saliva dribbling out of his mouth who wanders into a cafeteria with a shopping bag screaming about socialism. Annie and I broke up, and I still can't get my mind around that. I keep sifting the pieces of the relationship through my mind and examining my life and trying to figure out where did the screw up come a year ago? We've in love, you know. And it's funny. I'm not a morose type.", "labels": [{"relevance": 0.3403717577457428, "label": "FamilyAndRelationships>Dating"}, {"relevance": 0.1965271532535553, "label": "FamilyAndRelationships>SingleLife"}, {"relevance": 0.01350660901516676, "label": "PopCulture>CelebrityRelationships"}, {"relevance": 0.003794650314375758, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.003130373079329729, "label": "FamilyAndRelationships>Bereavement"}, {"relevance": 0.0031062758062034845, "label": "Movies>RomanceMovies"}, {"relevance": 0.0009639845229685307, "label": "PopCulture>CelebrityDeaths"}, {"relevance": 0.0009355444926768541, "label": "FamilyAndRelationships"}, {"relevance": 0.0007102543022483587, "label": "FamilyAndRelationships>Divorce"}, {"relevance": 0.0005897225928492844, "label": "BooksAndLiterature>YoungAdultLiterature"}], "timestamp": {"start": 68024, "end": 95370}}, {"text": "I'm not a depressive character. I was a reasonably happy kid. I guess. I was brought up in Brooklyn during World War II. He's been depressed all of a sudden. He can't do anything. Why are you depressed, Harvey, tell Dr. Flickr it's something he read. Something you read, huh? The universe is expanding. The universe is expanding. Well, the universe is everything.", "labels": [{"relevance": 0.1505720317363739, "label": "FamilyAndRelationships>Bereavement"}, {"relevance": 0.06684208661317825, "label": "MedicalHealth>DiseasesAndConditions>MentalHealth"}, {"relevance": 0.005490459501743317, "label": "MedicalHealth>DiseasesAndConditions>SleepDisorders"}, {"relevance": 0.002544814720749855, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.0019045586232095957, "label": "Hobbies&Interests>ParanormalPhenomena"}, {"relevance": 0.001881251111626625, "label": "Religion&Spirituality>Agnosticism"}, {"relevance": 0.0017366217216476798, "label": "BooksAndLiterature>YoungAdultLiterature"}, {"relevance": 0.0014584241434931755, "label": "Hobbies&Interests>Sci-fiAndFantasy"}, {"relevance": 0.0014151838840916753, "label": "Religion&Spirituality>Atheism"}, {"relevance": 0.0011436506174504757, "label": "Religion&Spirituality"}], "timestamp": {"start": 95420, "end": 122490}}, {"text": "And if it's expanding, someday it will break apart, and that will be the end of everything. What is that your business? He stopped doing his homework. What's the point? What has the universe got to do with it? You're here in Brooklyn. Brooklyn is not expanding. It won't be expanding for billions of years yet, Alvey. We've got to try and enjoy ourselves while we're here. You.", "labels": [{"relevance": 0.013454617001116276, "label": "Science>SpaceAndAstronomy"}, {"relevance": 0.0015414959052577615, "label": "Science"}, {"relevance": 0.0008034345228224993, "label": "Religion&Spirituality>Astrology"}, {"relevance": 0.0008015735656954348, "label": "Science>Geography"}, {"relevance": 0.00045518443221226335, "label": "Science>Environment"}, {"relevance": 0.0003116493171546608, "label": "NewsAndPolitics>Weather"}, {"relevance": 0.0002902740379795432, "label": "Religion&Spirituality>Atheism"}, {"relevance": 0.0002612727403175086, "label": "Hobbies&Interests>Sci-fiAndFantasy"}, {"relevance": 0.00023432253510691226, "label": "Movies>ScienceFictionMovies"}, {"relevance": 0.00021251742145977914, "label": "Science>Geology"}], "timestamp": {"start": 122600, "end": 177620}}], "summary": {"PopCulture>HumorAndSatire": 1.0, "EventsAndAttractions>ComedyEvents": 0.5523822903633118, "FamilyAndRelationships>Dating": 0.19447863101959229, "FamilyAndRelationships>SingleLife": 0.11281934380531311, "FamilyAndRelationships>Bereavement": 0.09055052697658539, "MedicalHealth>DiseasesAndConditions>MentalHealth": 0.03831057250499725, "MusicAndAudio>Comedy(MusicAndAudio)": 0.02326342463493347, "Television>ComedyTV": 0.01911482959985733, "HealthyLiving>SeniorHealth": 0.015560407191514969, "HealthyLiving>Men'sHealth": 0.009010213427245617, "Science>SpaceAndAstronomy": 0.00791242253035307, "PopCulture>CelebrityRelationships": 0.007822818122804165, "BooksAndLiterature>YoungAdultLiterature": 0.005231806077063084, "PersonalFinance>RetirementPlanning": 0.00435672840103507, "Hobbies&Interests>ContentProduction>FreelanceWriting": 0.0037143512163311243, "MedicalHealth>DiseasesAndConditions>SleepDisorders": 0.003520541824400425, "BooksAndLiterature>Biographies": 0.002107032807543874, "Movies>RomanceMovies": 0.0020284922793507576, "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11": 0.0019333790987730026, "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>Menopause": 0.0018075016560032964}}, "disfluencies": false, "sentiment_analysis": false, "auto_chapters": false, "chapters": null, "sentiment_analysis_results": null, "entity_detection": false, "entities": null}
+{
+  "id": "okpqkqbg89-b0f8-433e-92c8-ffa24a843045",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/c81f8c85-9df5-4fb8-8aac-7530a29f97a1",
+  "text": "There's an old joke. Two elderly women are at a Catskill Mountain resort, and one of them says, Boy, the food at this place is really terrible. The other one says, yeah, I know. In such small portions. Well, that's essentially how I feel about life. Full of of loneliness and misery and suffering and unhappiness, and it's all over much too quickly. The other important joke for me is one that's usually attributed to gratu Marks. But I think it appears originally in Freud's Wit and Its Relation to the Unconscious. And it goes like this. I'm paraphrasing, I would never want to belong to any club that would have someone like me. Remember? That's the key joke of my adult life in terms of my relationships with women. Lately the strangest things have been going through my mind because I turned 40, and I guess I'm going through a life crisis or something. I don't know. And I'm not worried about aging. I'm not one of those characters, although I'm Balding slightly on top. That's about the worst you can say about me. I think I'm going to get better as I get older. I think I'm going to be the Balding viral type, as opposed to, say, the distinguished Gray, for instance, unless I'm neither of those two. Unless I'm one of those guys with saliva dribbling out of his mouth who wanders into a cafeteria with a shopping bag screaming about socialism. Annie and I broke up, and I still can't get my mind around that. I keep sifting the pieces of the relationship through my mind and examining my life and trying to figure out where did the screw up come a year ago? We've in love, you know. And it's funny. I'm not a morose type. I'm not a depressive character. I was a reasonably happy kid. I guess. I was brought up in Brooklyn during World War II. He's been depressed all of a sudden. He can't do anything. Why are you depressed, Harvey, tell Dr. Flickr it's something he read. Something you read, huh? The universe is expanding. The universe is expanding. Well, the universe is everything. And if it's expanding, someday it will break apart, and that will be the end of everything. What is that your business? He stopped doing his homework. What's the point? What has the universe got to do with it? You're here in Brooklyn. Brooklyn is not expanding. It won't be expanding for billions of years yet, Alvey. We've got to try and enjoy ourselves while we're here. You.",
+  "words": [
+    {
+      "text": "There's",
+      "start": 430,
+      "end": 622,
+      "confidence": 0.64164,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 646,
+      "end": 762,
+      "confidence": 0.99741,
+      "speaker": null
+    },
+    {
+      "text": "old",
+      "start": 776,
+      "end": 918,
+      "confidence": 0.99918,
+      "speaker": null
+    },
+    {
+      "text": "joke.",
+      "start": 944,
+      "end": 1590,
+      "confidence": 0.95512,
+      "speaker": null
+    },
+    {
+      "text": "Two",
+      "start": 2030,
+      "end": 2430,
+      "confidence": 0.98612,
+      "speaker": null
+    },
+    {
+      "text": "elderly",
+      "start": 2480,
+      "end": 2878,
+      "confidence": 0.83076,
+      "speaker": null
+    },
+    {
+      "text": "women",
+      "start": 2914,
+      "end": 3114,
+      "confidence": 0.9983,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 3152,
+      "end": 3282,
+      "confidence": 0.98504,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 3296,
+      "end": 3402,
+      "confidence": 0.99531,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 3416,
+      "end": 3558,
+      "confidence": 0.87694,
+      "speaker": null
+    },
+    {
+      "text": "Catskill",
+      "start": 3584,
+      "end": 3982,
+      "confidence": 0.6505,
+      "speaker": null
+    },
+    {
+      "text": "Mountain",
+      "start": 4006,
+      "end": 4282,
+      "confidence": 0.97177,
+      "speaker": null
+    },
+    {
+      "text": "resort,",
+      "start": 4306,
+      "end": 4894,
+      "confidence": 0.88087,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 5002,
+      "end": 5202,
+      "confidence": 0.95995,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 5216,
+      "end": 5322,
+      "confidence": 0.96701,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 5336,
+      "end": 5442,
+      "confidence": 0.97333,
+      "speaker": null
+    },
+    {
+      "text": "them",
+      "start": 5456,
+      "end": 5598,
+      "confidence": 0.95241,
+      "speaker": null
+    },
+    {
+      "text": "says,",
+      "start": 5624,
+      "end": 5958,
+      "confidence": 0.99687,
+      "speaker": null
+    },
+    {
+      "text": "Boy,",
+      "start": 6044,
+      "end": 6258,
+      "confidence": 0.97876,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 6284,
+      "end": 6402,
+      "confidence": 0.99767,
+      "speaker": null
+    },
+    {
+      "text": "food",
+      "start": 6416,
+      "end": 6558,
+      "confidence": 0.99796,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 6584,
+      "end": 6702,
+      "confidence": 0.70769,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 6716,
+      "end": 6858,
+      "confidence": 0.99764,
+      "speaker": null
+    },
+    {
+      "text": "place",
+      "start": 6884,
+      "end": 7038,
+      "confidence": 0.99974,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 7064,
+      "end": 7218,
+      "confidence": 0.99576,
+      "speaker": null
+    },
+    {
+      "text": "really",
+      "start": 7244,
+      "end": 7470,
+      "confidence": 0.99621,
+      "speaker": null
+    },
+    {
+      "text": "terrible.",
+      "start": 7520,
+      "end": 8194,
+      "confidence": 0.6374,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 8302,
+      "end": 8502,
+      "confidence": 0.94321,
+      "speaker": null
+    },
+    {
+      "text": "other",
+      "start": 8516,
+      "end": 8658,
+      "confidence": 0.99789,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 8684,
+      "end": 8802,
+      "confidence": 0.99476,
+      "speaker": null
+    },
+    {
+      "text": "says,",
+      "start": 8816,
+      "end": 8958,
+      "confidence": 0.99838,
+      "speaker": null
+    },
+    {
+      "text": "yeah,",
+      "start": 8984,
+      "end": 9138,
+      "confidence": 0.82012,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 9164,
+      "end": 9282,
+      "confidence": 0.98357,
+      "speaker": null
+    },
+    {
+      "text": "know.",
+      "start": 9296,
+      "end": 9474,
+      "confidence": 0.9995,
+      "speaker": null
+    },
+    {
+      "text": "In",
+      "start": 9512,
+      "end": 9678,
+      "confidence": 0.21858,
+      "speaker": null
+    },
+    {
+      "text": "such",
+      "start": 9704,
+      "end": 9894,
+      "confidence": 0.99779,
+      "speaker": null
+    },
+    {
+      "text": "small",
+      "start": 9932,
+      "end": 10206,
+      "confidence": 0.99984,
+      "speaker": null
+    },
+    {
+      "text": "portions.",
+      "start": 10268,
+      "end": 11070,
+      "confidence": 0.9944,
+      "speaker": null
+    },
+    {
+      "text": "Well,",
+      "start": 11510,
+      "end": 12054,
+      "confidence": 0.97427,
+      "speaker": null
+    },
+    {
+      "text": "that's",
+      "start": 12152,
+      "end": 12478,
+      "confidence": 0.97334,
+      "speaker": null
+    },
+    {
+      "text": "essentially",
+      "start": 12514,
+      "end": 12886,
+      "confidence": 0.98609,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 12958,
+      "end": 13122,
+      "confidence": 0.99907,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 13136,
+      "end": 13278,
+      "confidence": 0.9987,
+      "speaker": null
+    },
+    {
+      "text": "feel",
+      "start": 13304,
+      "end": 13458,
+      "confidence": 0.99929,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 13484,
+      "end": 13710,
+      "confidence": 0.99979,
+      "speaker": null
+    },
+    {
+      "text": "life.",
+      "start": 13760,
+      "end": 14298,
+      "confidence": 0.99959,
+      "speaker": null
+    },
+    {
+      "text": "Full",
+      "start": 14444,
+      "end": 14718,
+      "confidence": 0.99553,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 14744,
+      "end": 14934,
+      "confidence": 0.97385,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 14972,
+      "end": 15138,
+      "confidence": 0.52325,
+      "speaker": null
+    },
+    {
+      "text": "loneliness",
+      "start": 15164,
+      "end": 15658,
+      "confidence": 0.68209,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 15754,
+      "end": 16122,
+      "confidence": 0.88036,
+      "speaker": null
+    },
+    {
+      "text": "misery",
+      "start": 16196,
+      "end": 16594,
+      "confidence": 0.99946,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 16642,
+      "end": 16818,
+      "confidence": 0.92968,
+      "speaker": null
+    },
+    {
+      "text": "suffering",
+      "start": 16844,
+      "end": 17242,
+      "confidence": 0.99158,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 17266,
+      "end": 17382,
+      "confidence": 0.97596,
+      "speaker": null
+    },
+    {
+      "text": "unhappiness,",
+      "start": 17396,
+      "end": 18202,
+      "confidence": 0.76734,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 18346,
+      "end": 18834,
+      "confidence": 0.77657,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 18932,
+      "end": 19198,
+      "confidence": 0.91312,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 19234,
+      "end": 19398,
+      "confidence": 0.99857,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 19424,
+      "end": 19722,
+      "confidence": 0.99905,
+      "speaker": null
+    },
+    {
+      "text": "much",
+      "start": 19796,
+      "end": 19998,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "too",
+      "start": 20024,
+      "end": 20214,
+      "confidence": 0.58516,
+      "speaker": null
+    },
+    {
+      "text": "quickly.",
+      "start": 20252,
+      "end": 20840,
+      "confidence": 0.99956,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 21950,
+      "end": 22242,
+      "confidence": 0.99939,
+      "speaker": null
+    },
+    {
+      "text": "other",
+      "start": 22256,
+      "end": 22506,
+      "confidence": 0.97245,
+      "speaker": null
+    },
+    {
+      "text": "important",
+      "start": 22568,
+      "end": 22866,
+      "confidence": 0.99966,
+      "speaker": null
+    },
+    {
+      "text": "joke",
+      "start": 22928,
+      "end": 23158,
+      "confidence": 0.8777,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 23194,
+      "end": 23322,
+      "confidence": 0.99593,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 23336,
+      "end": 23658,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 23744,
+      "end": 23958,
+      "confidence": 0.98647,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 23984,
+      "end": 24138,
+      "confidence": 0.99602,
+      "speaker": null
+    },
+    {
+      "text": "that's",
+      "start": 24164,
+      "end": 24526,
+      "confidence": 0.93402,
+      "speaker": null
+    },
+    {
+      "text": "usually",
+      "start": 24598,
+      "end": 25122,
+      "confidence": 0.99948,
+      "speaker": null
+    },
+    {
+      "text": "attributed",
+      "start": 25256,
+      "end": 25942,
+      "confidence": 0.96427,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 25966,
+      "end": 26154,
+      "confidence": 0.99884,
+      "speaker": null
+    },
+    {
+      "text": "gratu",
+      "start": 26192,
+      "end": 26578,
+      "confidence": 0.17636,
+      "speaker": null
+    },
+    {
+      "text": "Marks.",
+      "start": 26614,
+      "end": 26902,
+      "confidence": 0.75404,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 26926,
+      "end": 27150,
+      "confidence": 0.92766,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 27200,
+      "end": 27342,
+      "confidence": 0.99866,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 27356,
+      "end": 27462,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 27476,
+      "end": 27582,
+      "confidence": 0.99571,
+      "speaker": null
+    },
+    {
+      "text": "appears",
+      "start": 27596,
+      "end": 27958,
+      "confidence": 0.99566,
+      "speaker": null
+    },
+    {
+      "text": "originally",
+      "start": 27994,
+      "end": 28378,
+      "confidence": 0.99929,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 28414,
+      "end": 28578,
+      "confidence": 0.98721,
+      "speaker": null
+    },
+    {
+      "text": "Freud's",
+      "start": 28604,
+      "end": 29110,
+      "confidence": 0.94266,
+      "speaker": null
+    },
+    {
+      "text": "Wit",
+      "start": 29170,
+      "end": 29434,
+      "confidence": 0.75374,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 29482,
+      "end": 29622,
+      "confidence": 0.98574,
+      "speaker": null
+    },
+    {
+      "text": "Its",
+      "start": 29636,
+      "end": 29778,
+      "confidence": 0.88625,
+      "speaker": null
+    },
+    {
+      "text": "Relation",
+      "start": 29804,
+      "end": 30094,
+      "confidence": 0.98667,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 30142,
+      "end": 30246,
+      "confidence": 0.89791,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 30248,
+      "end": 30378,
+      "confidence": 0.9154,
+      "speaker": null
+    },
+    {
+      "text": "Unconscious.",
+      "start": 30404,
+      "end": 30946,
+      "confidence": 0.85176,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 31018,
+      "end": 31218,
+      "confidence": 0.93259,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 31244,
+      "end": 31326,
+      "confidence": 0.99252,
+      "speaker": null
+    },
+    {
+      "text": "goes",
+      "start": 31328,
+      "end": 31530,
+      "confidence": 0.99973,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 31580,
+      "end": 31722,
+      "confidence": 0.99902,
+      "speaker": null
+    },
+    {
+      "text": "this.",
+      "start": 31736,
+      "end": 31878,
+      "confidence": 0.98756,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 31904,
+      "end": 32062,
+      "confidence": 0.90095,
+      "speaker": null
+    },
+    {
+      "text": "paraphrasing,",
+      "start": 32086,
+      "end": 33030,
+      "confidence": 0.94814,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 33350,
+      "end": 33678,
+      "confidence": 0.99909,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 33704,
+      "end": 33822,
+      "confidence": 0.99808,
+      "speaker": null
+    },
+    {
+      "text": "never",
+      "start": 33836,
+      "end": 34014,
+      "confidence": 0.99966,
+      "speaker": null
+    },
+    {
+      "text": "want",
+      "start": 34052,
+      "end": 34146,
+      "confidence": 0.99641,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 34148,
+      "end": 34242,
+      "confidence": 0.93416,
+      "speaker": null
+    },
+    {
+      "text": "belong",
+      "start": 34256,
+      "end": 34462,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 34486,
+      "end": 34602,
+      "confidence": 0.994,
+      "speaker": null
+    },
+    {
+      "text": "any",
+      "start": 34616,
+      "end": 34830,
+      "confidence": 0.67034,
+      "speaker": null
+    },
+    {
+      "text": "club",
+      "start": 34880,
+      "end": 35194,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 35242,
+      "end": 35382,
+      "confidence": 0.9976,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 35396,
+      "end": 35538,
+      "confidence": 0.99687,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 35564,
+      "end": 35718,
+      "confidence": 0.99933,
+      "speaker": null
+    },
+    {
+      "text": "someone",
+      "start": 35744,
+      "end": 35934,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 35972,
+      "end": 36138,
+      "confidence": 0.99915,
+      "speaker": null
+    },
+    {
+      "text": "me.",
+      "start": 36164,
+      "end": 36390,
+      "confidence": 0.99777,
+      "speaker": null
+    },
+    {
+      "text": "Remember?",
+      "start": 36440,
+      "end": 37040,
+      "confidence": 0.99561,
+      "speaker": null
+    },
+    {
+      "text": "That's",
+      "start": 37790,
+      "end": 38182,
+      "confidence": 0.61845,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 38206,
+      "end": 38394,
+      "confidence": 0.50424,
+      "speaker": null
+    },
+    {
+      "text": "key",
+      "start": 38432,
+      "end": 38634,
+      "confidence": 0.99937,
+      "speaker": null
+    },
+    {
+      "text": "joke",
+      "start": 38672,
+      "end": 39046,
+      "confidence": 0.87921,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 39118,
+      "end": 39282,
+      "confidence": 0.99517,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 39296,
+      "end": 39438,
+      "confidence": 0.99942,
+      "speaker": null
+    },
+    {
+      "text": "adult",
+      "start": 39464,
+      "end": 39754,
+      "confidence": 0.99935,
+      "speaker": null
+    },
+    {
+      "text": "life",
+      "start": 39802,
+      "end": 39978,
+      "confidence": 0.99901,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 40004,
+      "end": 40122,
+      "confidence": 0.99437,
+      "speaker": null
+    },
+    {
+      "text": "terms",
+      "start": 40136,
+      "end": 40278,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 40304,
+      "end": 40422,
+      "confidence": 0.99838,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 40436,
+      "end": 40542,
+      "confidence": 0.97772,
+      "speaker": null
+    },
+    {
+      "text": "relationships",
+      "start": 40556,
+      "end": 41122,
+      "confidence": 0.9924,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 41146,
+      "end": 41298,
+      "confidence": 0.99954,
+      "speaker": null
+    },
+    {
+      "text": "women.",
+      "start": 41324,
+      "end": 41900,
+      "confidence": 0.99919,
+      "speaker": null
+    },
+    {
+      "text": "Lately",
+      "start": 43310,
+      "end": 43822,
+      "confidence": 0.52872,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 43846,
+      "end": 44106,
+      "confidence": 0.96626,
+      "speaker": null
+    },
+    {
+      "text": "strangest",
+      "start": 44168,
+      "end": 44578,
+      "confidence": 0.98854,
+      "speaker": null
+    },
+    {
+      "text": "things",
+      "start": 44614,
+      "end": 44778,
+      "confidence": 0.98271,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 44804,
+      "end": 44886,
+      "confidence": 0.83457,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 44888,
+      "end": 44982,
+      "confidence": 0.96681,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 44996,
+      "end": 45138,
+      "confidence": 0.99721,
+      "speaker": null
+    },
+    {
+      "text": "through",
+      "start": 45164,
+      "end": 45282,
+      "confidence": 0.99954,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 45296,
+      "end": 45438,
+      "confidence": 0.99582,
+      "speaker": null
+    },
+    {
+      "text": "mind",
+      "start": 45464,
+      "end": 45654,
+      "confidence": 0.99944,
+      "speaker": null
+    },
+    {
+      "text": "because",
+      "start": 45692,
+      "end": 45966,
+      "confidence": 0.95729,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 46028,
+      "end": 46218,
+      "confidence": 0.99867,
+      "speaker": null
+    },
+    {
+      "text": "turned",
+      "start": 46244,
+      "end": 46498,
+      "confidence": 0.85061,
+      "speaker": null
+    },
+    {
+      "text": "40,",
+      "start": 46534,
+      "end": 46693,
+      "confidence": 0.91,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 46708,
+      "end": 46867,
+      "confidence": 0.91,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 46882,
+      "end": 47862,
+      "confidence": 0.91,
+      "speaker": null
+    },
+    {
+      "text": "guess",
+      "start": 47876,
+      "end": 47982,
+      "confidence": 0.99934,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 47996,
+      "end": 48106,
+      "confidence": 0.9916,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 48118,
+      "end": 48222,
+      "confidence": 0.99834,
+      "speaker": null
+    },
+    {
+      "text": "through",
+      "start": 48236,
+      "end": 48342,
+      "confidence": 0.96709,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 48356,
+      "end": 48462,
+      "confidence": 0.99152,
+      "speaker": null
+    },
+    {
+      "text": "life",
+      "start": 48476,
+      "end": 48654,
+      "confidence": 0.99853,
+      "speaker": null
+    },
+    {
+      "text": "crisis",
+      "start": 48692,
+      "end": 49018,
+      "confidence": 0.99728,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 49054,
+      "end": 49182,
+      "confidence": 0.99237,
+      "speaker": null
+    },
+    {
+      "text": "something.",
+      "start": 49196,
+      "end": 49374,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 49412,
+      "end": 49506,
+      "confidence": 0.51525,
+      "speaker": null
+    },
+    {
+      "text": "don't",
+      "start": 49508,
+      "end": 49606,
+      "confidence": 0.97934,
+      "speaker": null
+    },
+    {
+      "text": "know.",
+      "start": 49618,
+      "end": 50010,
+      "confidence": 0.99374,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 50120,
+      "end": 50322,
+      "confidence": 0.7068,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 50336,
+      "end": 50446,
+      "confidence": 0.98739,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 50458,
+      "end": 50598,
+      "confidence": 0.99855,
+      "speaker": null
+    },
+    {
+      "text": "worried",
+      "start": 50624,
+      "end": 50818,
+      "confidence": 0.99601,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 50854,
+      "end": 51018,
+      "confidence": 0.99979,
+      "speaker": null
+    },
+    {
+      "text": "aging.",
+      "start": 51044,
+      "end": 51286,
+      "confidence": 0.9578,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 51298,
+      "end": 51406,
+      "confidence": 0.89295,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 51418,
+      "end": 51522,
+      "confidence": 0.9969,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 51536,
+      "end": 51642,
+      "confidence": 0.99947,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 51656,
+      "end": 51726,
+      "confidence": 0.99882,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 51728,
+      "end": 51858,
+      "confidence": 0.99926,
+      "speaker": null
+    },
+    {
+      "text": "characters,",
+      "start": 51884,
+      "end": 52414,
+      "confidence": 0.99726,
+      "speaker": null
+    },
+    {
+      "text": "although",
+      "start": 52522,
+      "end": 52930,
+      "confidence": 0.80523,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 52990,
+      "end": 53182,
+      "confidence": 0.9822,
+      "speaker": null
+    },
+    {
+      "text": "Balding",
+      "start": 53206,
+      "end": 53602,
+      "confidence": 0.98005,
+      "speaker": null
+    },
+    {
+      "text": "slightly",
+      "start": 53626,
+      "end": 53938,
+      "confidence": 0.99883,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 53974,
+      "end": 54138,
+      "confidence": 0.99907,
+      "speaker": null
+    },
+    {
+      "text": "top.",
+      "start": 54164,
+      "end": 54354,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "That's",
+      "start": 54392,
+      "end": 54586,
+      "confidence": 0.95551,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 54598,
+      "end": 54738,
+      "confidence": 0.92296,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 54764,
+      "end": 54882,
+      "confidence": 0.99838,
+      "speaker": null
+    },
+    {
+      "text": "worst",
+      "start": 54896,
+      "end": 55078,
+      "confidence": 0.91448,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 55114,
+      "end": 55242,
+      "confidence": 0.99578,
+      "speaker": null
+    },
+    {
+      "text": "can",
+      "start": 55256,
+      "end": 55398,
+      "confidence": 0.99793,
+      "speaker": null
+    },
+    {
+      "text": "say",
+      "start": 55424,
+      "end": 55578,
+      "confidence": 0.99954,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 55604,
+      "end": 55794,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "me.",
+      "start": 55832,
+      "end": 56502,
+      "confidence": 0.69243,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 56696,
+      "end": 57018,
+      "confidence": 0.80286,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 57044,
+      "end": 57126,
+      "confidence": 0.99212,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 57128,
+      "end": 57226,
+      "confidence": 0.88414,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 57238,
+      "end": 57342,
+      "confidence": 0.93813,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 57356,
+      "end": 57426,
+      "confidence": 0.99401,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 57428,
+      "end": 57594,
+      "confidence": 0.99864,
+      "speaker": null
+    },
+    {
+      "text": "better",
+      "start": 57632,
+      "end": 57942,
+      "confidence": 0.9996,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 58016,
+      "end": 58218,
+      "confidence": 0.99939,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 58244,
+      "end": 58362,
+      "confidence": 0.99741,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 58376,
+      "end": 58734,
+      "confidence": 0.9963,
+      "speaker": null
+    },
+    {
+      "text": "older.",
+      "start": 58832,
+      "end": 59326,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 59398,
+      "end": 59526,
+      "confidence": 0.98359,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 59528,
+      "end": 59622,
+      "confidence": 0.998,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 59636,
+      "end": 59746,
+      "confidence": 0.98394,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 59758,
+      "end": 59826,
+      "confidence": 0.99803,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 59828,
+      "end": 59958,
+      "confidence": 0.97718,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 59984,
+      "end": 60102,
+      "confidence": 0.59679,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 60116,
+      "end": 60654,
+      "confidence": 0.61424,
+      "speaker": null
+    },
+    {
+      "text": "Balding",
+      "start": 60812,
+      "end": 61414,
+      "confidence": 0.97608,
+      "speaker": null
+    },
+    {
+      "text": "viral",
+      "start": 61462,
+      "end": 61894,
+      "confidence": 0.55115,
+      "speaker": null
+    },
+    {
+      "text": "type,",
+      "start": 61942,
+      "end": 62406,
+      "confidence": 0.9891,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 62528,
+      "end": 62742,
+      "confidence": 0.99785,
+      "speaker": null
+    },
+    {
+      "text": "opposed",
+      "start": 62756,
+      "end": 63010,
+      "confidence": 0.51576,
+      "speaker": null
+    },
+    {
+      "text": "to,",
+      "start": 63070,
+      "end": 63258,
+      "confidence": 0.99873,
+      "speaker": null
+    },
+    {
+      "text": "say,",
+      "start": 63284,
+      "end": 63474,
+      "confidence": 0.9749,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 63512,
+      "end": 64100,
+      "confidence": 0.9853,
+      "speaker": null
+    },
+    {
+      "text": "distinguished",
+      "start": 64430,
+      "end": 65122,
+      "confidence": 0.66888,
+      "speaker": null
+    },
+    {
+      "text": "Gray,",
+      "start": 65146,
+      "end": 65506,
+      "confidence": 0.62986,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 65578,
+      "end": 65742,
+      "confidence": 0.99164,
+      "speaker": null
+    },
+    {
+      "text": "instance,",
+      "start": 65756,
+      "end": 66358,
+      "confidence": 0.75848,
+      "speaker": null
+    },
+    {
+      "text": "unless",
+      "start": 66514,
+      "end": 66838,
+      "confidence": 0.94544,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 66874,
+      "end": 67006,
+      "confidence": 0.96196,
+      "speaker": null
+    },
+    {
+      "text": "neither",
+      "start": 67018,
+      "end": 67234,
+      "confidence": 0.93098,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 67282,
+      "end": 67422,
+      "confidence": 0.97947,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 67436,
+      "end": 67578,
+      "confidence": 0.99931,
+      "speaker": null
+    },
+    {
+      "text": "two.",
+      "start": 67604,
+      "end": 67938,
+      "confidence": 0.95425,
+      "speaker": null
+    },
+    {
+      "text": "Unless",
+      "start": 68024,
+      "end": 68278,
+      "confidence": 0.5871,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 68314,
+      "end": 68446,
+      "confidence": 0.96217,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 68458,
+      "end": 68526,
+      "confidence": 0.9992,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 68528,
+      "end": 68622,
+      "confidence": 0.75165,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 68636,
+      "end": 68814,
+      "confidence": 0.99907,
+      "speaker": null
+    },
+    {
+      "text": "guys",
+      "start": 68852,
+      "end": 69162,
+      "confidence": 0.9992,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 69236,
+      "end": 69546,
+      "confidence": 0.99604,
+      "speaker": null
+    },
+    {
+      "text": "saliva",
+      "start": 69608,
+      "end": 70162,
+      "confidence": 0.97675,
+      "speaker": null
+    },
+    {
+      "text": "dribbling",
+      "start": 70186,
+      "end": 70558,
+      "confidence": 0.55225,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 70594,
+      "end": 70722,
+      "confidence": 0.99974,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 70736,
+      "end": 70842,
+      "confidence": 0.99839,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 70856,
+      "end": 70962,
+      "confidence": 0.99935,
+      "speaker": null
+    },
+    {
+      "text": "mouth",
+      "start": 70976,
+      "end": 71278,
+      "confidence": 0.61391,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 71314,
+      "end": 71586,
+      "confidence": 0.96428,
+      "speaker": null
+    },
+    {
+      "text": "wanders",
+      "start": 71648,
+      "end": 72046,
+      "confidence": 0.98637,
+      "speaker": null
+    },
+    {
+      "text": "into",
+      "start": 72058,
+      "end": 72198,
+      "confidence": 0.99848,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 72224,
+      "end": 72342,
+      "confidence": 0.98713,
+      "speaker": null
+    },
+    {
+      "text": "cafeteria",
+      "start": 72356,
+      "end": 72862,
+      "confidence": 0.84602,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 72886,
+      "end": 73038,
+      "confidence": 0.99509,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 73064,
+      "end": 73182,
+      "confidence": 0.97926,
+      "speaker": null
+    },
+    {
+      "text": "shopping",
+      "start": 73196,
+      "end": 73498,
+      "confidence": 0.99623,
+      "speaker": null
+    },
+    {
+      "text": "bag",
+      "start": 73534,
+      "end": 73846,
+      "confidence": 0.99799,
+      "speaker": null
+    },
+    {
+      "text": "screaming",
+      "start": 73918,
+      "end": 74362,
+      "confidence": 0.99938,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 74386,
+      "end": 74610,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "socialism.",
+      "start": 74660,
+      "end": 75570,
+      "confidence": 0.99979,
+      "speaker": null
+    },
+    {
+      "text": "Annie",
+      "start": 76730,
+      "end": 77182,
+      "confidence": 0.7882,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 77206,
+      "end": 77322,
+      "confidence": 0.99762,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 77336,
+      "end": 77478,
+      "confidence": 0.9986,
+      "speaker": null
+    },
+    {
+      "text": "broke",
+      "start": 77504,
+      "end": 77758,
+      "confidence": 0.99624,
+      "speaker": null
+    },
+    {
+      "text": "up,",
+      "start": 77794,
+      "end": 78102,
+      "confidence": 0.99949,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 78176,
+      "end": 78378,
+      "confidence": 0.8765,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 78404,
+      "end": 78630,
+      "confidence": 0.6312,
+      "speaker": null
+    },
+    {
+      "text": "still",
+      "start": 78680,
+      "end": 78858,
+      "confidence": 0.99974,
+      "speaker": null
+    },
+    {
+      "text": "can't",
+      "start": 78884,
+      "end": 79042,
+      "confidence": 0.93995,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 79066,
+      "end": 79182,
+      "confidence": 0.99946,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 79196,
+      "end": 79338,
+      "confidence": 0.99912,
+      "speaker": null
+    },
+    {
+      "text": "mind",
+      "start": 79364,
+      "end": 79554,
+      "confidence": 0.99959,
+      "speaker": null
+    },
+    {
+      "text": "around",
+      "start": 79592,
+      "end": 79794,
+      "confidence": 0.99912,
+      "speaker": null
+    },
+    {
+      "text": "that.",
+      "start": 79832,
+      "end": 80322,
+      "confidence": 0.9988,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 80456,
+      "end": 80718,
+      "confidence": 0.50407,
+      "speaker": null
+    },
+    {
+      "text": "keep",
+      "start": 80744,
+      "end": 80934,
+      "confidence": 0.99847,
+      "speaker": null
+    },
+    {
+      "text": "sifting",
+      "start": 80972,
+      "end": 81322,
+      "confidence": 0.99579,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 81346,
+      "end": 81462,
+      "confidence": 0.99658,
+      "speaker": null
+    },
+    {
+      "text": "pieces",
+      "start": 81476,
+      "end": 81802,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 81826,
+      "end": 81906,
+      "confidence": 0.99579,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 81908,
+      "end": 82038,
+      "confidence": 0.81292,
+      "speaker": null
+    },
+    {
+      "text": "relationship",
+      "start": 82064,
+      "end": 82470,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "through",
+      "start": 82580,
+      "end": 82818,
+      "confidence": 0.99939,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 82844,
+      "end": 83034,
+      "confidence": 0.65448,
+      "speaker": null
+    },
+    {
+      "text": "mind",
+      "start": 83072,
+      "end": 83310,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 83360,
+      "end": 83934,
+      "confidence": 0.78387,
+      "speaker": null
+    },
+    {
+      "text": "examining",
+      "start": 84092,
+      "end": 84718,
+      "confidence": 0.77291,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 84754,
+      "end": 84918,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "life",
+      "start": 84944,
+      "end": 85134,
+      "confidence": 0.99933,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 85172,
+      "end": 85302,
+      "confidence": 0.97169,
+      "speaker": null
+    },
+    {
+      "text": "trying",
+      "start": 85316,
+      "end": 85494,
+      "confidence": 0.99776,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 85532,
+      "end": 85806,
+      "confidence": 0.99816,
+      "speaker": null
+    },
+    {
+      "text": "figure",
+      "start": 85868,
+      "end": 86130,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 86180,
+      "end": 86574,
+      "confidence": 0.99956,
+      "speaker": null
+    },
+    {
+      "text": "where",
+      "start": 86672,
+      "end": 86934,
+      "confidence": 0.56739,
+      "speaker": null
+    },
+    {
+      "text": "did",
+      "start": 86972,
+      "end": 87102,
+      "confidence": 0.98155,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 87116,
+      "end": 87222,
+      "confidence": 0.97833,
+      "speaker": null
+    },
+    {
+      "text": "screw",
+      "start": 87236,
+      "end": 87454,
+      "confidence": 0.68723,
+      "speaker": null
+    },
+    {
+      "text": "up",
+      "start": 87502,
+      "end": 87678,
+      "confidence": 0.94625,
+      "speaker": null
+    },
+    {
+      "text": "come",
+      "start": 87704,
+      "end": 88280,
+      "confidence": 0.99496,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 89090,
+      "end": 89382,
+      "confidence": 0.98743,
+      "speaker": null
+    },
+    {
+      "text": "year",
+      "start": 89396,
+      "end": 89574,
+      "confidence": 0.99961,
+      "speaker": null
+    },
+    {
+      "text": "ago?",
+      "start": 89612,
+      "end": 89814,
+      "confidence": 0.99943,
+      "speaker": null
+    },
+    {
+      "text": "We've",
+      "start": 89852,
+      "end": 90450,
+      "confidence": 0.4547,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 91070,
+      "end": 91398,
+      "confidence": 0.97943,
+      "speaker": null
+    },
+    {
+      "text": "love,",
+      "start": 91424,
+      "end": 91722,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 91796,
+      "end": 91962,
+      "confidence": 0.58611,
+      "speaker": null
+    },
+    {
+      "text": "know.",
+      "start": 91976,
+      "end": 92118,
+      "confidence": 0.99723,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 92144,
+      "end": 92720,
+      "confidence": 0.46577,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 93590,
+      "end": 93886,
+      "confidence": 0.77666,
+      "speaker": null
+    },
+    {
+      "text": "funny.",
+      "start": 93898,
+      "end": 94258,
+      "confidence": 0.91885,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 94354,
+      "end": 94546,
+      "confidence": 0.95224,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 94558,
+      "end": 94662,
+      "confidence": 0.99639,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 94676,
+      "end": 94746,
+      "confidence": 0.95887,
+      "speaker": null
+    },
+    {
+      "text": "morose",
+      "start": 94748,
+      "end": 95074,
+      "confidence": 0.94624,
+      "speaker": null
+    },
+    {
+      "text": "type.",
+      "start": 95122,
+      "end": 95370,
+      "confidence": 0.99917,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 95420,
+      "end": 95566,
+      "confidence": 0.95332,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 95578,
+      "end": 95682,
+      "confidence": 0.97178,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 95696,
+      "end": 95802,
+      "confidence": 0.97932,
+      "speaker": null
+    },
+    {
+      "text": "depressive",
+      "start": 95816,
+      "end": 96202,
+      "confidence": 0.98335,
+      "speaker": null
+    },
+    {
+      "text": "character.",
+      "start": 96226,
+      "end": 96990,
+      "confidence": 0.99941,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 98690,
+      "end": 98982,
+      "confidence": 0.99402,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 98996,
+      "end": 99102,
+      "confidence": 0.63361,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 99116,
+      "end": 99258,
+      "confidence": 0.96063,
+      "speaker": null
+    },
+    {
+      "text": "reasonably",
+      "start": 99284,
+      "end": 99730,
+      "confidence": 0.98829,
+      "speaker": null
+    },
+    {
+      "text": "happy",
+      "start": 99790,
+      "end": 100050,
+      "confidence": 0.99971,
+      "speaker": null
+    },
+    {
+      "text": "kid.",
+      "start": 100100,
+      "end": 100278,
+      "confidence": 0.99883,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 100304,
+      "end": 100422,
+      "confidence": 0.98653,
+      "speaker": null
+    },
+    {
+      "text": "guess.",
+      "start": 100436,
+      "end": 100578,
+      "confidence": 0.99628,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 100604,
+      "end": 100722,
+      "confidence": 0.97229,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 100736,
+      "end": 101166,
+      "confidence": 0.98855,
+      "speaker": null
+    },
+    {
+      "text": "brought",
+      "start": 101288,
+      "end": 101578,
+      "confidence": 0.99777,
+      "speaker": null
+    },
+    {
+      "text": "up",
+      "start": 101614,
+      "end": 101742,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 101756,
+      "end": 102078,
+      "confidence": 0.99658,
+      "speaker": null
+    },
+    {
+      "text": "Brooklyn",
+      "start": 102164,
+      "end": 102766,
+      "confidence": 0.75929,
+      "speaker": null
+    },
+    {
+      "text": "during",
+      "start": 102838,
+      "end": 103110,
+      "confidence": 0.9987,
+      "speaker": null
+    },
+    {
+      "text": "World",
+      "start": 103160,
+      "end": 103374,
+      "confidence": 0.99579,
+      "speaker": null
+    },
+    {
+      "text": "War",
+      "start": 103412,
+      "end": 103578,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "II.",
+      "start": 103604,
+      "end": 104310,
+      "confidence": 0.58395,
+      "speaker": null
+    },
+    {
+      "text": "He's",
+      "start": 105530,
+      "end": 105922,
+      "confidence": 0.50576,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 105946,
+      "end": 106098,
+      "confidence": 0.99766,
+      "speaker": null
+    },
+    {
+      "text": "depressed",
+      "start": 106124,
+      "end": 106834,
+      "confidence": 0.38112,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 106942,
+      "end": 107142,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 107156,
+      "end": 107262,
+      "confidence": 0.5779,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 107276,
+      "end": 107346,
+      "confidence": 0.80712,
+      "speaker": null
+    },
+    {
+      "text": "sudden.",
+      "start": 107348,
+      "end": 107578,
+      "confidence": 0.94723,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 107614,
+      "end": 107742,
+      "confidence": 0.98841,
+      "speaker": null
+    },
+    {
+      "text": "can't",
+      "start": 107756,
+      "end": 107998,
+      "confidence": 0.98743,
+      "speaker": null
+    },
+    {
+      "text": "do",
+      "start": 108034,
+      "end": 108270,
+      "confidence": 0.99984,
+      "speaker": null
+    },
+    {
+      "text": "anything.",
+      "start": 108320,
+      "end": 108930,
+      "confidence": 0.72718,
+      "speaker": null
+    },
+    {
+      "text": "Why",
+      "start": 109100,
+      "end": 109362,
+      "confidence": 0.99825,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 109376,
+      "end": 109446,
+      "confidence": 0.79979,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 109448,
+      "end": 109542,
+      "confidence": 0.99449,
+      "speaker": null
+    },
+    {
+      "text": "depressed,",
+      "start": 109556,
+      "end": 109882,
+      "confidence": 0.99762,
+      "speaker": null
+    },
+    {
+      "text": "Harvey,",
+      "start": 109906,
+      "end": 110610,
+      "confidence": 0.19553,
+      "speaker": null
+    },
+    {
+      "text": "tell",
+      "start": 110930,
+      "end": 111330,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "Dr.",
+      "start": 111380,
+      "end": 111630,
+      "confidence": 0.60148,
+      "speaker": null
+    },
+    {
+      "text": "Flickr",
+      "start": 111680,
+      "end": 112530,
+      "confidence": 0.51858,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 113090,
+      "end": 113482,
+      "confidence": 0.96668,
+      "speaker": null
+    },
+    {
+      "text": "something",
+      "start": 113506,
+      "end": 113766,
+      "confidence": 0.79649,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 113828,
+      "end": 114018,
+      "confidence": 0.98811,
+      "speaker": null
+    },
+    {
+      "text": "read.",
+      "start": 114044,
+      "end": 114620,
+      "confidence": 0.62256,
+      "speaker": null
+    },
+    {
+      "text": "Something",
+      "start": 115130,
+      "end": 115530,
+      "confidence": 0.97119,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 115580,
+      "end": 115722,
+      "confidence": 0.72828,
+      "speaker": null
+    },
+    {
+      "text": "read,",
+      "start": 115736,
+      "end": 115914,
+      "confidence": 0.99691,
+      "speaker": null
+    },
+    {
+      "text": "huh?",
+      "start": 115952,
+      "end": 116554,
+      "confidence": 0.89774,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 116722,
+      "end": 117054,
+      "confidence": 0.62564,
+      "speaker": null
+    },
+    {
+      "text": "universe",
+      "start": 117092,
+      "end": 117562,
+      "confidence": 0.97422,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 117586,
+      "end": 117810,
+      "confidence": 0.98895,
+      "speaker": null
+    },
+    {
+      "text": "expanding.",
+      "start": 117860,
+      "end": 118858,
+      "confidence": 0.72905,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 119014,
+      "end": 119262,
+      "confidence": 0.72913,
+      "speaker": null
+    },
+    {
+      "text": "universe",
+      "start": 119276,
+      "end": 119662,
+      "confidence": 0.94617,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 119686,
+      "end": 119910,
+      "confidence": 0.95214,
+      "speaker": null
+    },
+    {
+      "text": "expanding.",
+      "start": 119960,
+      "end": 120682,
+      "confidence": 0.68834,
+      "speaker": null
+    },
+    {
+      "text": "Well,",
+      "start": 120826,
+      "end": 121134,
+      "confidence": 0.95012,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 121172,
+      "end": 121374,
+      "confidence": 0.89326,
+      "speaker": null
+    },
+    {
+      "text": "universe",
+      "start": 121412,
+      "end": 121822,
+      "confidence": 0.88654,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 121846,
+      "end": 122034,
+      "confidence": 0.95869,
+      "speaker": null
+    },
+    {
+      "text": "everything.",
+      "start": 122072,
+      "end": 122490,
+      "confidence": 0.99938,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 122600,
+      "end": 122838,
+      "confidence": 0.90715,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 122864,
+      "end": 123018,
+      "confidence": 0.99402,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 123044,
+      "end": 123238,
+      "confidence": 0.79936,
+      "speaker": null
+    },
+    {
+      "text": "expanding,",
+      "start": 123274,
+      "end": 123910,
+      "confidence": 0.67425,
+      "speaker": null
+    },
+    {
+      "text": "someday",
+      "start": 123970,
+      "end": 124318,
+      "confidence": 0.72852,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 124354,
+      "end": 124482,
+      "confidence": 0.97924,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 124496,
+      "end": 124638,
+      "confidence": 0.98307,
+      "speaker": null
+    },
+    {
+      "text": "break",
+      "start": 124664,
+      "end": 124854,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "apart,",
+      "start": 124892,
+      "end": 125194,
+      "confidence": 0.78974,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 125242,
+      "end": 125418,
+      "confidence": 0.9561,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 125444,
+      "end": 125598,
+      "confidence": 0.46704,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 125624,
+      "end": 125742,
+      "confidence": 0.8756,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 125756,
+      "end": 125898,
+      "confidence": 0.99679,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 125924,
+      "end": 126078,
+      "confidence": 0.99726,
+      "speaker": null
+    },
+    {
+      "text": "end",
+      "start": 126104,
+      "end": 126222,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 126236,
+      "end": 126378,
+      "confidence": 0.99958,
+      "speaker": null
+    },
+    {
+      "text": "everything.",
+      "start": 126404,
+      "end": 126980,
+      "confidence": 0.99944,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 127670,
+      "end": 127998,
+      "confidence": 0.61049,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 128024,
+      "end": 128214,
+      "confidence": 0.74214,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 128252,
+      "end": 128454,
+      "confidence": 0.99606,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 128492,
+      "end": 128730,
+      "confidence": 0.99363,
+      "speaker": null
+    },
+    {
+      "text": "business?",
+      "start": 128780,
+      "end": 129380,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 129890,
+      "end": 130218,
+      "confidence": 0.99818,
+      "speaker": null
+    },
+    {
+      "text": "stopped",
+      "start": 130244,
+      "end": 130582,
+      "confidence": 0.71468,
+      "speaker": null
+    },
+    {
+      "text": "doing",
+      "start": 130606,
+      "end": 130830,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 130880,
+      "end": 131094,
+      "confidence": 0.9995,
+      "speaker": null
+    },
+    {
+      "text": "homework.",
+      "start": 131132,
+      "end": 131926,
+      "confidence": 0.72935,
+      "speaker": null
+    },
+    {
+      "text": "What's",
+      "start": 132118,
+      "end": 132502,
+      "confidence": 0.9362,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 132526,
+      "end": 132714,
+      "confidence": 0.59753,
+      "speaker": null
+    },
+    {
+      "text": "point?",
+      "start": 132752,
+      "end": 133350,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 133520,
+      "end": 133818,
+      "confidence": 0.99931,
+      "speaker": null
+    },
+    {
+      "text": "has",
+      "start": 133844,
+      "end": 133998,
+      "confidence": 0.99277,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 134024,
+      "end": 134178,
+      "confidence": 0.98819,
+      "speaker": null
+    },
+    {
+      "text": "universe",
+      "start": 134204,
+      "end": 134662,
+      "confidence": 0.99845,
+      "speaker": null
+    },
+    {
+      "text": "got",
+      "start": 134686,
+      "end": 134838,
+      "confidence": 0.99687,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 134864,
+      "end": 135018,
+      "confidence": 0.62038,
+      "speaker": null
+    },
+    {
+      "text": "do",
+      "start": 135044,
+      "end": 135198,
+      "confidence": 0.9112,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 135224,
+      "end": 135342,
+      "confidence": 0.96548,
+      "speaker": null
+    },
+    {
+      "text": "it?",
+      "start": 135356,
+      "end": 135642,
+      "confidence": 0.99872,
+      "speaker": null
+    },
+    {
+      "text": "You're",
+      "start": 135716,
+      "end": 136018,
+      "confidence": 0.90919,
+      "speaker": null
+    },
+    {
+      "text": "here",
+      "start": 136054,
+      "end": 136290,
+      "confidence": 0.99868,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 136340,
+      "end": 136482,
+      "confidence": 0.99775,
+      "speaker": null
+    },
+    {
+      "text": "Brooklyn.",
+      "start": 136496,
+      "end": 137062,
+      "confidence": 0.90497,
+      "speaker": null
+    },
+    {
+      "text": "Brooklyn",
+      "start": 137146,
+      "end": 137578,
+      "confidence": 0.95942,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 137614,
+      "end": 137778,
+      "confidence": 0.99243,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 137804,
+      "end": 138030,
+      "confidence": 0.9981,
+      "speaker": null
+    },
+    {
+      "text": "expanding.",
+      "start": 138080,
+      "end": 138946,
+      "confidence": 0.92241,
+      "speaker": null
+    },
+    {
+      "text": "It",
+      "start": 139078,
+      "end": 139302,
+      "confidence": 0.98417,
+      "speaker": null
+    },
+    {
+      "text": "won't",
+      "start": 139316,
+      "end": 139522,
+      "confidence": 0.57049,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 139546,
+      "end": 139734,
+      "confidence": 0.99568,
+      "speaker": null
+    },
+    {
+      "text": "expanding",
+      "start": 139772,
+      "end": 140338,
+      "confidence": 0.99635,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 140374,
+      "end": 140718,
+      "confidence": 0.99885,
+      "speaker": null
+    },
+    {
+      "text": "billions",
+      "start": 140804,
+      "end": 141286,
+      "confidence": 0.99789,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 141358,
+      "end": 141594,
+      "confidence": 0.99731,
+      "speaker": null
+    },
+    {
+      "text": "years",
+      "start": 141632,
+      "end": 141870,
+      "confidence": 0.99975,
+      "speaker": null
+    },
+    {
+      "text": "yet,",
+      "start": 141920,
+      "end": 142098,
+      "confidence": 0.75051,
+      "speaker": null
+    },
+    {
+      "text": "Alvey.",
+      "start": 142124,
+      "end": 142990,
+      "confidence": 0.03115,
+      "speaker": null
+    },
+    {
+      "text": "We've",
+      "start": 143170,
+      "end": 143566,
+      "confidence": 0.76998,
+      "speaker": null
+    },
+    {
+      "text": "got",
+      "start": 143578,
+      "end": 143682,
+      "confidence": 0.7182,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 143696,
+      "end": 143838,
+      "confidence": 0.88611,
+      "speaker": null
+    },
+    {
+      "text": "try",
+      "start": 143864,
+      "end": 143982,
+      "confidence": 0.95695,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 143996,
+      "end": 144138,
+      "confidence": 0.63661,
+      "speaker": null
+    },
+    {
+      "text": "enjoy",
+      "start": 144164,
+      "end": 144462,
+      "confidence": 0.97331,
+      "speaker": null
+    },
+    {
+      "text": "ourselves",
+      "start": 144536,
+      "end": 145234,
+      "confidence": 0.63948,
+      "speaker": null
+    },
+    {
+      "text": "while",
+      "start": 145402,
+      "end": 145734,
+      "confidence": 0.96583,
+      "speaker": null
+    },
+    {
+      "text": "we're",
+      "start": 145772,
+      "end": 146038,
+      "confidence": 0.96274,
+      "speaker": null
+    },
+    {
+      "text": "here.",
+      "start": 146074,
+      "end": 146660,
+      "confidence": 0.99588,
+      "speaker": null
+    },
+    {
+      "text": "You.",
+      "start": 177370,
+      "end": 177620,
+      "confidence": 0.74,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.911584780600462,
+  "audio_duration": 177,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "content_safety": false,
+  "iab_categories": true,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "success",
+    "results": [
+      {
+        "text": "There's an old joke. Two elderly women are at a Catskill Mountain resort, and one of them says, Boy, the food at this place is really terrible. The other one says, yeah, I know. In such small portions. Well, that's essentially how I feel about life. Full of of loneliness and misery and suffering and unhappiness, and it's all over much too quickly. The other important joke for me is one that's usually attributed to gratu Marks.",
+        "labels": [
+          {
+            "relevance": 0.8115949630737305,
+            "label": "PopCulture>HumorAndSatire"
+          },
+          {
+            "relevance": 0.593075692653656,
+            "label": "EventsAndAttractions>ComedyEvents"
+          },
+          {
+            "relevance": 0.02570231817662716,
+            "label": "MusicAndAudio>Comedy(MusicAndAudio)"
+          },
+          { "relevance": 0.0200432687997818, "label": "Television>ComedyTV" },
+          {
+            "relevance": 0.002836741739884019,
+            "label": "Food&Drink>DiningOut"
+          },
+          {
+            "relevance": 0.0026492844335734844,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.0025316844694316387,
+            "label": "Hobbies&Interests>ContentProduction>FreelanceWriting"
+          },
+          {
+            "relevance": 0.0019251856720075011,
+            "label": "BooksAndLiterature>YoungAdultLiterature"
+          },
+          {
+            "relevance": 0.0015819157706573606,
+            "label": "Food&Drink>BarbecuesAndGrilling"
+          },
+          { "relevance": 0.0015221766661852598, "label": "Movies>ComedyMovies" }
+        ],
+        "timestamp": { "start": 430, "end": 26902 }
+      },
+      {
+        "text": "But I think it appears originally in Freud's Wit and Its Relation to the Unconscious. And it goes like this. I'm paraphrasing, I would never want to belong to any club that would have someone like me. Remember? That's the key joke of my adult life in terms of my relationships with women. Lately the strangest things have been going through my mind because I turned 40, and I guess I'm going through a life crisis or something. I don't know.",
+        "labels": [
+          {
+            "relevance": 0.9404755234718323,
+            "label": "PopCulture>HumorAndSatire"
+          },
+          {
+            "relevance": 0.3746764361858368,
+            "label": "EventsAndAttractions>ComedyEvents"
+          },
+          {
+            "relevance": 0.01495490875095129,
+            "label": "MusicAndAudio>Comedy(MusicAndAudio)"
+          },
+          { "relevance": 0.013229873031377792, "label": "Television>ComedyTV" },
+          {
+            "relevance": 0.005697597283869982,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.004793417174369097,
+            "label": "BooksAndLiterature>YoungAdultLiterature"
+          },
+          {
+            "relevance": 0.0036345035769045353,
+            "label": "Hobbies&Interests>ContentProduction>FreelanceWriting"
+          },
+          {
+            "relevance": 0.002456593094393611,
+            "label": "BooksAndLiterature>Biographies"
+          },
+          {
+            "relevance": 0.0016223985003307462,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.0014747425448149443,
+            "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>Menopause"
+          }
+        ],
+        "timestamp": { "start": 26926, "end": 50010 }
+      },
+      {
+        "text": "And I'm not worried about aging. I'm not one of those characters, although I'm Balding slightly on top. That's about the worst you can say about me. I think I'm going to get better as I get older. I think I'm going to be the Balding viral type, as opposed to, say, the distinguished Gray, for instance, unless I'm neither of those two.",
+        "labels": [
+          {
+            "relevance": 0.02561904489994049,
+            "label": "HealthyLiving>SeniorHealth"
+          },
+          {
+            "relevance": 0.0068320007994771,
+            "label": "PersonalFinance>RetirementPlanning"
+          },
+          {
+            "relevance": 0.0020724383648484945,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.0017953045899048448,
+            "label": "PersonalFinance>Insurance>LifeInsurance"
+          },
+          {
+            "relevance": 0.0010802708566188812,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.0010071309516206384,
+            "label": "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11"
+          },
+          {
+            "relevance": 0.0007843826897442341,
+            "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>Menopause"
+          },
+          {
+            "relevance": 0.0007092910818755627,
+            "label": "BooksAndLiterature>Biographies"
+          },
+          {
+            "relevance": 0.0005902520497329533,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.0005809914437122643,
+            "label": "PersonalFinance>Insurance"
+          }
+        ],
+        "timestamp": { "start": 50120, "end": 67938 }
+      },
+      {
+        "text": "Unless I'm one of those guys with saliva dribbling out of his mouth who wanders into a cafeteria with a shopping bag screaming about socialism. Annie and I broke up, and I still can't get my mind around that. I keep sifting the pieces of the relationship through my mind and examining my life and trying to figure out where did the screw up come a year ago? We've in love, you know. And it's funny. I'm not a morose type.",
+        "labels": [
+          {
+            "relevance": 0.3403717577457428,
+            "label": "FamilyAndRelationships>Dating"
+          },
+          {
+            "relevance": 0.1965271532535553,
+            "label": "FamilyAndRelationships>SingleLife"
+          },
+          {
+            "relevance": 0.01350660901516676,
+            "label": "PopCulture>CelebrityRelationships"
+          },
+          {
+            "relevance": 0.003794650314375758,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.003130373079329729,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.0031062758062034845,
+            "label": "Movies>RomanceMovies"
+          },
+          {
+            "relevance": 0.0009639845229685307,
+            "label": "PopCulture>CelebrityDeaths"
+          },
+          {
+            "relevance": 0.0009355444926768541,
+            "label": "FamilyAndRelationships"
+          },
+          {
+            "relevance": 0.0007102543022483587,
+            "label": "FamilyAndRelationships>Divorce"
+          },
+          {
+            "relevance": 0.0005897225928492844,
+            "label": "BooksAndLiterature>YoungAdultLiterature"
+          }
+        ],
+        "timestamp": { "start": 68024, "end": 95370 }
+      },
+      {
+        "text": "I'm not a depressive character. I was a reasonably happy kid. I guess. I was brought up in Brooklyn during World War II. He's been depressed all of a sudden. He can't do anything. Why are you depressed, Harvey, tell Dr. Flickr it's something he read. Something you read, huh? The universe is expanding. The universe is expanding. Well, the universe is everything.",
+        "labels": [
+          {
+            "relevance": 0.1505720317363739,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.06684208661317825,
+            "label": "MedicalHealth>DiseasesAndConditions>MentalHealth"
+          },
+          {
+            "relevance": 0.005490459501743317,
+            "label": "MedicalHealth>DiseasesAndConditions>SleepDisorders"
+          },
+          {
+            "relevance": 0.002544814720749855,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.0019045586232095957,
+            "label": "Hobbies&Interests>ParanormalPhenomena"
+          },
+          {
+            "relevance": 0.001881251111626625,
+            "label": "Religion&Spirituality>Agnosticism"
+          },
+          {
+            "relevance": 0.0017366217216476798,
+            "label": "BooksAndLiterature>YoungAdultLiterature"
+          },
+          {
+            "relevance": 0.0014584241434931755,
+            "label": "Hobbies&Interests>Sci-fiAndFantasy"
+          },
+          {
+            "relevance": 0.0014151838840916753,
+            "label": "Religion&Spirituality>Atheism"
+          },
+          {
+            "relevance": 0.0011436506174504757,
+            "label": "Religion&Spirituality"
+          }
+        ],
+        "timestamp": { "start": 95420, "end": 122490 }
+      },
+      {
+        "text": "And if it's expanding, someday it will break apart, and that will be the end of everything. What is that your business? He stopped doing his homework. What's the point? What has the universe got to do with it? You're here in Brooklyn. Brooklyn is not expanding. It won't be expanding for billions of years yet, Alvey. We've got to try and enjoy ourselves while we're here. You.",
+        "labels": [
+          {
+            "relevance": 0.013454617001116276,
+            "label": "Science>SpaceAndAstronomy"
+          },
+          { "relevance": 0.0015414959052577615, "label": "Science" },
+          {
+            "relevance": 0.0008034345228224993,
+            "label": "Religion&Spirituality>Astrology"
+          },
+          { "relevance": 0.0008015735656954348, "label": "Science>Geography" },
+          {
+            "relevance": 0.00045518443221226335,
+            "label": "Science>Environment"
+          },
+          {
+            "relevance": 0.0003116493171546608,
+            "label": "NewsAndPolitics>Weather"
+          },
+          {
+            "relevance": 0.0002902740379795432,
+            "label": "Religion&Spirituality>Atheism"
+          },
+          {
+            "relevance": 0.0002612727403175086,
+            "label": "Hobbies&Interests>Sci-fiAndFantasy"
+          },
+          {
+            "relevance": 0.00023432253510691226,
+            "label": "Movies>ScienceFictionMovies"
+          },
+          { "relevance": 0.00021251742145977914, "label": "Science>Geology" }
+        ],
+        "timestamp": { "start": 122600, "end": 177620 }
+      }
+    ],
+    "summary": {
+      "PopCulture>HumorAndSatire": 1.0,
+      "EventsAndAttractions>ComedyEvents": 0.5523822903633118,
+      "FamilyAndRelationships>Dating": 0.19447863101959229,
+      "FamilyAndRelationships>SingleLife": 0.11281934380531311,
+      "FamilyAndRelationships>Bereavement": 0.09055052697658539,
+      "MedicalHealth>DiseasesAndConditions>MentalHealth": 0.03831057250499725,
+      "MusicAndAudio>Comedy(MusicAndAudio)": 0.02326342463493347,
+      "Television>ComedyTV": 0.01911482959985733,
+      "HealthyLiving>SeniorHealth": 0.015560407191514969,
+      "HealthyLiving>Men'sHealth": 0.009010213427245617,
+      "Science>SpaceAndAstronomy": 0.00791242253035307,
+      "PopCulture>CelebrityRelationships": 0.007822818122804165,
+      "BooksAndLiterature>YoungAdultLiterature": 0.005231806077063084,
+      "PersonalFinance>RetirementPlanning": 0.00435672840103507,
+      "Hobbies&Interests>ContentProduction>FreelanceWriting": 0.0037143512163311243,
+      "MedicalHealth>DiseasesAndConditions>SleepDisorders": 0.003520541824400425,
+      "BooksAndLiterature>Biographies": 0.002107032807543874,
+      "Movies>RomanceMovies": 0.0020284922793507576,
+      "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11": 0.0019333790987730026,
+      "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>Menopause": 0.0018075016560032964
+    }
+  },
+  "disfluencies": false,
+  "sentiment_analysis": false,
+  "auto_chapters": false,
+  "chapters": null,
+  "sentiment_analysis_results": null,
+  "entity_detection": false,
+  "entities": null
+}

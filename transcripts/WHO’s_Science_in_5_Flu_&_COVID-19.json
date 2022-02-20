@@ -1,1 +1,4783 @@
-{"id": "okpqoc8oq5-d7f3-4212-9cf5-980b9a130ab2", "language_model": "assemblyai_default", "acoustic_model": "assemblyai_default", "language_code": "en_us", "status": "completed", "audio_url": "https://cdn.assemblyai.com/upload/9b42d059-5a85-4da5-81fd-63f372e7058f", "text": "As flu season is starting in many parts of the world, how would you know if you have flu or COVID-19? Hello and welcome to Science in Five. I'm Vic Smith. Aguptas Smith. We are talking to Dr. Philbin Ryan about flu and covid 19 today. Welcome, Sylvie. Sylvie, let's start with how would people know if they have caught the flu or COVID-19? So the flu is very common, especially in the season, and usually the symptoms are fever, headache, muscle ache, but also upper respiratory symptoms such as sneezing and coughing for coffee. 19 It's the same symptom, basically, but in addition, we have specific symptoms such as anosmia, which is a lack of smell and agosia, which is a lack of taste. And many people, especially young people, have experienced this additional and specific symptoms for COVID-19. But sometimes people have very few symptoms, whether it's for flu or for COVID-19. It really depends on your level of immunity. What is important to know really for those two diseases is that the prevention measure works for both of them and especially washing hands. It's very important then ventilation of rooms when you are in crowded rooms with a lot of people in particular to open the window, also wearing masks if you cannot, open the window and maintain physical distancing. And those diseases are really preventable if we apply those measures. So Sylvia talked to us about the groups that are most at risk from the flu and also talk to us about the safety of taking the flu vaccine. For those people who do have access to the flu vaccine and the COVID-19 vaccine, is it safe to take it? So the group most at risk for influenza are elderly people with underlying conditions such as chronic respiratory disease, cancer, cardiovascular disease, and these are similar groups for COVID-19, but for flu. In addition, pregnant women and very young children, infants are also more at risk for severe disease. So is it safe to administer flu vaccine and CoV 19 at the same time? Yes, we have now a few studies that show that it is safe to have both vaccine at the same time. But of course, people need to check with their physician about their indication to take both vaccines. Sylvia talked to us about how the composition of the influenza vaccine is decided and also speak to us a little more about the safety and efficacy of the flu vaccine. There are many different influenza viruses out there, and actually they change very often. And so what is very important is to know what are the predominant viruses in a given setting so that we can take the antigen of this virus to compose the vaccine. So that's why we have around the world 136 laboratory constantly monitoring the circulating viruses. And twice a year we have experts meeting to define what are the predominant viruses in certain places of the world. So we have two vaccine composition meetings per year, one for the Northern hemisphere and one for the Southern hemisphere. So the flu vaccine has existed for many decades and it's a very safe vaccine but it's very important to have those experts meeting to define the composition of the vaccine to make sure that we put in the vaccine the component that will really better protect people against the circulating viruses at a given time and this vaccine is very recommended to hate people so that they can be protected against severe flu and death when the season starts. Thank you, Sylvia. That was signed in five today. Until next time, then stay safe, stay healthy and stick with sides.", "words": [{"text": "As", "start": 6590, "end": 6754, "confidence": 0.97209, "speaker": null}, {"text": "flu", "start": 6792, "end": 7058, "confidence": 0.99487, "speaker": null}, {"text": "season", "start": 7094, "end": 7502, "confidence": 0.99981, "speaker": null}, {"text": "is", "start": 7586, "end": 7834, "confidence": 0.99656, "speaker": null}, {"text": "starting", "start": 7872, "end": 8110, "confidence": 0.99711, "speaker": null}, {"text": "in", "start": 8160, "end": 8338, "confidence": 0.99492, "speaker": null}, {"text": "many", "start": 8364, "end": 8554, "confidence": 0.9987, "speaker": null}, {"text": "parts", "start": 8592, "end": 8882, "confidence": 0.99639, "speaker": null}, {"text": "of", "start": 8906, "end": 9022, "confidence": 0.99785, "speaker": null}, {"text": "the", "start": 9036, "end": 9178, "confidence": 0.98998, "speaker": null}, {"text": "world,", "start": 9204, "end": 9466, "confidence": 0.99944, "speaker": null}, {"text": "how", "start": 9528, "end": 9754, "confidence": 0.99992, "speaker": null}, {"text": "would", "start": 9792, "end": 9922, "confidence": 0.99815, "speaker": null}, {"text": "you", "start": 9936, "end": 10114, "confidence": 0.63924, "speaker": null}, {"text": "know", "start": 10152, "end": 10426, "confidence": 0.99897, "speaker": null}, {"text": "if", "start": 10488, "end": 10678, "confidence": 0.99916, "speaker": null}, {"text": "you", "start": 10704, "end": 10858, "confidence": 0.99535, "speaker": null}, {"text": "have", "start": 10884, "end": 11074, "confidence": 0.94891, "speaker": null}, {"text": "flu", "start": 11112, "end": 11654, "confidence": 0.89268, "speaker": null}, {"text": "or", "start": 11762, "end": 12034, "confidence": 0.99361, "speaker": null}, {"text": "COVID-19?", "start": 12072, "end": 13286, "confidence": 0.52, "speaker": null}, {"text": "Hello", "start": 13478, "end": 13978, "confidence": 0.99938, "speaker": null}, {"text": "and", "start": 14064, "end": 14314, "confidence": 0.99603, "speaker": null}, {"text": "welcome", "start": 14352, "end": 14590, "confidence": 1.0, "speaker": null}, {"text": "to", "start": 14640, "end": 14818, "confidence": 0.99918, "speaker": null}, {"text": "Science", "start": 14844, "end": 15134, "confidence": 0.94233, "speaker": null}, {"text": "in", "start": 15182, "end": 15394, "confidence": 0.35131, "speaker": null}, {"text": "Five.", "start": 15432, "end": 15778, "confidence": 0.99334, "speaker": null}, {"text": "I'm", "start": 15864, "end": 16142, "confidence": 0.83849, "speaker": null}, {"text": "Vic", "start": 16166, "end": 16322, "confidence": 0.01486, "speaker": null}, {"text": "Smith.", "start": 16346, "end": 16562, "confidence": 0.93353, "speaker": null}, {"text": "Aguptas", "start": 16586, "end": 17162, "confidence": 0.17493, "speaker": null}, {"text": "Smith.", "start": 17186, "end": 17714, "confidence": 0.66053, "speaker": null}, {"text": "We", "start": 17822, "end": 18022, "confidence": 0.99973, "speaker": null}, {"text": "are", "start": 18036, "end": 18214, "confidence": 0.51123, "speaker": null}, {"text": "talking", "start": 18252, "end": 18562, "confidence": 0.99962, "speaker": null}, {"text": "to", "start": 18636, "end": 18838, "confidence": 0.99483, "speaker": null}, {"text": "Dr.", "start": 18864, "end": 19090, "confidence": 0.97268, "speaker": null}, {"text": "Philbin", "start": 19140, "end": 19586, "confidence": 0.01353, "speaker": null}, {"text": "Ryan", "start": 19598, "end": 19970, "confidence": 0.14957, "speaker": null}, {"text": "about", "start": 20030, "end": 20362, "confidence": 0.9999, "speaker": null}, {"text": "flu", "start": 20436, "end": 20882, "confidence": 0.85904, "speaker": null}, {"text": "and", "start": 20966, "end": 21178, "confidence": 0.96956, "speaker": null}, {"text": "covid", "start": 21204, "end": 21542, "confidence": 0.39346, "speaker": null}, {"text": "19", "start": 21566, "end": 21950, "confidence": 0.89, "speaker": null}, {"text": "today.", "start": 22010, "end": 22522, "confidence": 0.99974, "speaker": null}, {"text": "Welcome,", "start": 22656, "end": 23062, "confidence": 0.99722, "speaker": null}, {"text": "Sylvie.", "start": 23136, "end": 23798, "confidence": 0.32771, "speaker": null}, {"text": "Sylvie,", "start": 23894, "end": 24338, "confidence": 0.38633, "speaker": null}, {"text": "let's", "start": 24374, "end": 24638, "confidence": 0.86205, "speaker": null}, {"text": "start", "start": 24674, "end": 24910, "confidence": 0.99978, "speaker": null}, {"text": "with", "start": 24960, "end": 25246, "confidence": 0.99619, "speaker": null}, {"text": "how", "start": 25308, "end": 25534, "confidence": 0.99987, "speaker": null}, {"text": "would", "start": 25572, "end": 25774, "confidence": 0.99446, "speaker": null}, {"text": "people", "start": 25812, "end": 26122, "confidence": 0.99994, "speaker": null}, {"text": "know", "start": 26196, "end": 26542, "confidence": 0.9998, "speaker": null}, {"text": "if", "start": 26616, "end": 26818, "confidence": 0.99963, "speaker": null}, {"text": "they", "start": 26844, "end": 26998, "confidence": 0.99973, "speaker": null}, {"text": "have", "start": 27024, "end": 27178, "confidence": 0.98755, "speaker": null}, {"text": "caught", "start": 27204, "end": 27566, "confidence": 0.99704, "speaker": null}, {"text": "the", "start": 27638, "end": 27838, "confidence": 0.99474, "speaker": null}, {"text": "flu", "start": 27864, "end": 28358, "confidence": 0.99381, "speaker": null}, {"text": "or", "start": 28454, "end": 28714, "confidence": 0.99354, "speaker": null}, {"text": "COVID-19?", "start": 28752, "end": 29930, "confidence": 0.28, "speaker": null}, {"text": "So", "start": 30110, "end": 30526, "confidence": 0.71335, "speaker": null}, {"text": "the", "start": 30588, "end": 30778, "confidence": 0.99188, "speaker": null}, {"text": "flu", "start": 30804, "end": 31478, "confidence": 0.99493, "speaker": null}, {"text": "is", "start": 31634, "end": 32062, "confidence": 0.99198, "speaker": null}, {"text": "very", "start": 32136, "end": 32374, "confidence": 0.99761, "speaker": null}, {"text": "common,", "start": 32412, "end": 32794, "confidence": 0.99986, "speaker": null}, {"text": "especially", "start": 32892, "end": 33298, "confidence": 0.99684, "speaker": null}, {"text": "in", "start": 33384, "end": 33562, "confidence": 0.99394, "speaker": null}, {"text": "the", "start": 33576, "end": 33718, "confidence": 0.63101, "speaker": null}, {"text": "season,", "start": 33744, "end": 34214, "confidence": 0.9958, "speaker": null}, {"text": "and", "start": 34322, "end": 34594, "confidence": 0.72353, "speaker": null}, {"text": "usually", "start": 34632, "end": 34942, "confidence": 0.99853, "speaker": null}, {"text": "the", "start": 35016, "end": 35218, "confidence": 0.98043, "speaker": null}, {"text": "symptoms", "start": 35244, "end": 35714, "confidence": 0.59714, "speaker": null}, {"text": "are", "start": 35762, "end": 36046, "confidence": 0.98806, "speaker": null}, {"text": "fever,", "start": 36108, "end": 36790, "confidence": 0.28294, "speaker": null}, {"text": "headache,", "start": 37650, "end": 38714, "confidence": 0.55979, "speaker": null}, {"text": "muscle", "start": 38882, "end": 39374, "confidence": 0.95458, "speaker": null}, {"text": "ache,", "start": 39422, "end": 40210, "confidence": 0.39075, "speaker": null}, {"text": "but", "start": 40590, "end": 40954, "confidence": 0.9929, "speaker": null}, {"text": "also", "start": 40992, "end": 41230, "confidence": 0.99597, "speaker": null}, {"text": "upper", "start": 41280, "end": 41594, "confidence": 0.51411, "speaker": null}, {"text": "respiratory", "start": 41642, "end": 42434, "confidence": 0.99794, "speaker": null}, {"text": "symptoms", "start": 42482, "end": 42974, "confidence": 0.47691, "speaker": null}, {"text": "such", "start": 43022, "end": 43198, "confidence": 0.99891, "speaker": null}, {"text": "as", "start": 43224, "end": 43630, "confidence": 0.98707, "speaker": null}, {"text": "sneezing", "start": 43740, "end": 44678, "confidence": 0.86069, "speaker": null}, {"text": "and", "start": 44834, "end": 45298, "confidence": 0.84649, "speaker": null}, {"text": "coughing", "start": 45384, "end": 46090, "confidence": 0.77565, "speaker": null}, {"text": "for", "start": 46830, "end": 47194, "confidence": 0.95448, "speaker": null}, {"text": "coffee.", "start": 47232, "end": 47558, "confidence": 0.31489, "speaker": null}, {"text": "19", "start": 47594, "end": 48310, "confidence": 0.59, "speaker": null}, {"text": "It's", "start": 49110, "end": 49466, "confidence": 0.92204, "speaker": null}, {"text": "the", "start": 49478, "end": 49618, "confidence": 0.53815, "speaker": null}, {"text": "same", "start": 49644, "end": 49834, "confidence": 0.99852, "speaker": null}, {"text": "symptom,", "start": 49872, "end": 50330, "confidence": 0.99649, "speaker": null}, {"text": "basically,", "start": 50390, "end": 50794, "confidence": 0.99456, "speaker": null}, {"text": "but", "start": 50892, "end": 51298, "confidence": 0.98306, "speaker": null}, {"text": "in", "start": 51384, "end": 51598, "confidence": 0.99918, "speaker": null}, {"text": "addition,", "start": 51624, "end": 52022, "confidence": 0.99834, "speaker": null}, {"text": "we", "start": 52106, "end": 52318, "confidence": 0.99828, "speaker": null}, {"text": "have", "start": 52344, "end": 52606, "confidence": 0.99957, "speaker": null}, {"text": "specific", "start": 52668, "end": 53074, "confidence": 0.6857, "speaker": null}, {"text": "symptoms", "start": 53172, "end": 53678, "confidence": 0.93351, "speaker": null}, {"text": "such", "start": 53714, "end": 53878, "confidence": 0.99926, "speaker": null}, {"text": "as", "start": 53904, "end": 54130, "confidence": 0.99893, "speaker": null}, {"text": "anosmia,", "start": 54180, "end": 54974, "confidence": 0.2992, "speaker": null}, {"text": "which", "start": 55082, "end": 55318, "confidence": 0.99887, "speaker": null}, {"text": "is", "start": 55344, "end": 55498, "confidence": 0.9927, "speaker": null}, {"text": "a", "start": 55524, "end": 55786, "confidence": 0.36898, "speaker": null}, {"text": "lack", "start": 55848, "end": 56102, "confidence": 0.99876, "speaker": null}, {"text": "of", "start": 56126, "end": 56278, "confidence": 0.9997, "speaker": null}, {"text": "smell", "start": 56304, "end": 56846, "confidence": 0.9993, "speaker": null}, {"text": "and", "start": 56978, "end": 57274, "confidence": 0.87783, "speaker": null}, {"text": "agosia,", "start": 57312, "end": 58094, "confidence": 0.3016, "speaker": null}, {"text": "which", "start": 58202, "end": 58438, "confidence": 0.99947, "speaker": null}, {"text": "is", "start": 58464, "end": 58618, "confidence": 0.99665, "speaker": null}, {"text": "a", "start": 58644, "end": 58762, "confidence": 0.85101, "speaker": null}, {"text": "lack", "start": 58776, "end": 58922, "confidence": 0.99938, "speaker": null}, {"text": "of", "start": 58946, "end": 59098, "confidence": 0.99981, "speaker": null}, {"text": "taste.", "start": 59124, "end": 59750, "confidence": 0.91775, "speaker": null}, {"text": "And", "start": 59870, "end": 60334, "confidence": 0.74083, "speaker": null}, {"text": "many", "start": 60432, "end": 60730, "confidence": 0.99704, "speaker": null}, {"text": "people,", "start": 60780, "end": 61102, "confidence": 0.98987, "speaker": null}, {"text": "especially", "start": 61176, "end": 61594, "confidence": 0.99818, "speaker": null}, {"text": "young", "start": 61692, "end": 61954, "confidence": 0.99984, "speaker": null}, {"text": "people,", "start": 61992, "end": 62266, "confidence": 0.99995, "speaker": null}, {"text": "have", "start": 62328, "end": 62518, "confidence": 0.98638, "speaker": null}, {"text": "experienced", "start": 62544, "end": 63098, "confidence": 0.74965, "speaker": null}, {"text": "this", "start": 63134, "end": 63550, "confidence": 0.67295, "speaker": null}, {"text": "additional", "start": 63660, "end": 64214, "confidence": 0.99931, "speaker": null}, {"text": "and", "start": 64322, "end": 64558, "confidence": 0.9745, "speaker": null}, {"text": "specific", "start": 64584, "end": 64954, "confidence": 0.90674, "speaker": null}, {"text": "symptoms", "start": 65052, "end": 65558, "confidence": 0.20236, "speaker": null}, {"text": "for", "start": 65594, "end": 65758, "confidence": 0.98977, "speaker": null}, {"text": "COVID-19.", "start": 65784, "end": 66986, "confidence": 0.44, "speaker": null}, {"text": "But", "start": 67178, "end": 67570, "confidence": 0.93852, "speaker": null}, {"text": "sometimes", "start": 67620, "end": 68230, "confidence": 0.96991, "speaker": null}, {"text": "people", "start": 68400, "end": 68770, "confidence": 0.9997, "speaker": null}, {"text": "have", "start": 68820, "end": 68998, "confidence": 0.72428, "speaker": null}, {"text": "very", "start": 69024, "end": 69178, "confidence": 0.99279, "speaker": null}, {"text": "few", "start": 69204, "end": 69394, "confidence": 0.99744, "speaker": null}, {"text": "symptoms,", "start": 69432, "end": 69878, "confidence": 0.65757, "speaker": null}, {"text": "whether", "start": 69914, "end": 70114, "confidence": 0.999, "speaker": null}, {"text": "it's", "start": 70152, "end": 70322, "confidence": 0.96372, "speaker": null}, {"text": "for", "start": 70346, "end": 70498, "confidence": 0.99259, "speaker": null}, {"text": "flu", "start": 70524, "end": 70742, "confidence": 0.99296, "speaker": null}, {"text": "or", "start": 70766, "end": 70882, "confidence": 0.97144, "speaker": null}, {"text": "for", "start": 70896, "end": 71038, "confidence": 0.92843, "speaker": null}, {"text": "COVID-19.", "start": 71064, "end": 71810, "confidence": 0.5, "speaker": null}, {"text": "It", "start": 71870, "end": 72058, "confidence": 0.98773, "speaker": null}, {"text": "really", "start": 72084, "end": 72274, "confidence": 0.72889, "speaker": null}, {"text": "depends", "start": 72312, "end": 72662, "confidence": 0.9781, "speaker": null}, {"text": "on", "start": 72686, "end": 72838, "confidence": 0.99956, "speaker": null}, {"text": "your", "start": 72864, "end": 73018, "confidence": 0.99906, "speaker": null}, {"text": "level", "start": 73044, "end": 73270, "confidence": 0.99959, "speaker": null}, {"text": "of", "start": 73320, "end": 73498, "confidence": 0.99833, "speaker": null}, {"text": "immunity.", "start": 73524, "end": 74354, "confidence": 0.96599, "speaker": null}, {"text": "What", "start": 74522, "end": 74818, "confidence": 0.99911, "speaker": null}, {"text": "is", "start": 74844, "end": 75034, "confidence": 0.56315, "speaker": null}, {"text": "important", "start": 75072, "end": 75418, "confidence": 0.99998, "speaker": null}, {"text": "to", "start": 75504, "end": 75718, "confidence": 0.99855, "speaker": null}, {"text": "know", "start": 75744, "end": 75970, "confidence": 0.90087, "speaker": null}, {"text": "really", "start": 76020, "end": 76702, "confidence": 0.98132, "speaker": null}, {"text": "for", "start": 76896, "end": 77290, "confidence": 0.99945, "speaker": null}, {"text": "those", "start": 77340, "end": 77554, "confidence": 0.98973, "speaker": null}, {"text": "two", "start": 77592, "end": 77758, "confidence": 0.99727, "speaker": null}, {"text": "diseases", "start": 77784, "end": 78182, "confidence": 0.24688, "speaker": null}, {"text": "is", "start": 78206, "end": 78358, "confidence": 0.94274, "speaker": null}, {"text": "that", "start": 78384, "end": 78754, "confidence": 0.9892, "speaker": null}, {"text": "the", "start": 78852, "end": 79114, "confidence": 0.98521, "speaker": null}, {"text": "prevention", "start": 79152, "end": 79610, "confidence": 0.86568, "speaker": null}, {"text": "measure", "start": 79670, "end": 80222, "confidence": 0.53883, "speaker": null}, {"text": "works", "start": 80366, "end": 80710, "confidence": 0.96634, "speaker": null}, {"text": "for", "start": 80760, "end": 80974, "confidence": 0.71486, "speaker": null}, {"text": "both", "start": 81012, "end": 81250, "confidence": 0.99968, "speaker": null}, {"text": "of", "start": 81300, "end": 81442, "confidence": 0.99855, "speaker": null}, {"text": "them", "start": 81456, "end": 82102, "confidence": 0.99862, "speaker": null}, {"text": "and", "start": 82296, "end": 82654, "confidence": 0.61004, "speaker": null}, {"text": "especially", "start": 82692, "end": 83110, "confidence": 0.99316, "speaker": null}, {"text": "washing", "start": 83220, "end": 83594, "confidence": 0.7746, "speaker": null}, {"text": "hands.", "start": 83642, "end": 83926, "confidence": 0.58168, "speaker": null}, {"text": "It's", "start": 83988, "end": 84242, "confidence": 0.68336, "speaker": null}, {"text": "very", "start": 84266, "end": 84454, "confidence": 0.99783, "speaker": null}, {"text": "important", "start": 84492, "end": 85080, "confidence": 0.99848, "speaker": null}, {"text": "then", "start": 85410, "end": 85918, "confidence": 0.90395, "speaker": null}, {"text": "ventilation", "start": 86004, "end": 86606, "confidence": 0.50942, "speaker": null}, {"text": "of", "start": 86678, "end": 86986, "confidence": 0.98225, "speaker": null}, {"text": "rooms", "start": 87048, "end": 87482, "confidence": 0.76487, "speaker": null}, {"text": "when", "start": 87566, "end": 87778, "confidence": 0.79369, "speaker": null}, {"text": "you", "start": 87804, "end": 87958, "confidence": 0.96069, "speaker": null}, {"text": "are", "start": 87984, "end": 88560, "confidence": 0.96912, "speaker": null}, {"text": "in", "start": 89250, "end": 89542, "confidence": 0.84576, "speaker": null}, {"text": "crowded", "start": 89556, "end": 89978, "confidence": 0.98308, "speaker": null}, {"text": "rooms", "start": 90014, "end": 90278, "confidence": 0.54827, "speaker": null}, {"text": "with", "start": 90314, "end": 90478, "confidence": 0.94388, "speaker": null}, {"text": "a", "start": 90504, "end": 90622, "confidence": 0.98871, "speaker": null}, {"text": "lot", "start": 90636, "end": 90742, "confidence": 0.99989, "speaker": null}, {"text": "of", "start": 90756, "end": 90898, "confidence": 0.98796, "speaker": null}, {"text": "people", "start": 90924, "end": 91222, "confidence": 0.99993, "speaker": null}, {"text": "in", "start": 91296, "end": 91498, "confidence": 0.99802, "speaker": null}, {"text": "particular", "start": 91524, "end": 91930, "confidence": 0.99988, "speaker": null}, {"text": "to", "start": 92040, "end": 92314, "confidence": 0.35253, "speaker": null}, {"text": "open", "start": 92352, "end": 92554, "confidence": 0.99996, "speaker": null}, {"text": "the", "start": 92592, "end": 92758, "confidence": 0.86395, "speaker": null}, {"text": "window,", "start": 92784, "end": 93490, "confidence": 0.44541, "speaker": null}, {"text": "also", "start": 94050, "end": 94522, "confidence": 0.998, "speaker": null}, {"text": "wearing", "start": 94596, "end": 94970, "confidence": 0.55235, "speaker": null}, {"text": "masks", "start": 95030, "end": 95378, "confidence": 0.47872, "speaker": null}, {"text": "if", "start": 95414, "end": 95542, "confidence": 0.98647, "speaker": null}, {"text": "you", "start": 95556, "end": 95698, "confidence": 0.97907, "speaker": null}, {"text": "cannot,", "start": 95724, "end": 96014, "confidence": 0.97416, "speaker": null}, {"text": "open", "start": 96062, "end": 96274, "confidence": 0.99962, "speaker": null}, {"text": "the", "start": 96312, "end": 96478, "confidence": 0.9276, "speaker": null}, {"text": "window", "start": 96504, "end": 97094, "confidence": 0.92135, "speaker": null}, {"text": "and", "start": 97202, "end": 97474, "confidence": 0.99797, "speaker": null}, {"text": "maintain", "start": 97512, "end": 98150, "confidence": 0.57747, "speaker": null}, {"text": "physical", "start": 98270, "end": 98786, "confidence": 0.9997, "speaker": null}, {"text": "distancing.", "start": 98858, "end": 99698, "confidence": 0.37045, "speaker": null}, {"text": "And", "start": 99854, "end": 100282, "confidence": 0.55914, "speaker": null}, {"text": "those", "start": 100356, "end": 100594, "confidence": 0.37541, "speaker": null}, {"text": "diseases", "start": 100632, "end": 100958, "confidence": 0.47495, "speaker": null}, {"text": "are", "start": 100994, "end": 101158, "confidence": 0.99472, "speaker": null}, {"text": "really", "start": 101184, "end": 101410, "confidence": 0.99566, "speaker": null}, {"text": "preventable", "start": 101460, "end": 102050, "confidence": 0.99313, "speaker": null}, {"text": "if", "start": 102110, "end": 102298, "confidence": 0.99873, "speaker": null}, {"text": "we", "start": 102324, "end": 102478, "confidence": 0.99501, "speaker": null}, {"text": "apply", "start": 102504, "end": 102838, "confidence": 0.65595, "speaker": null}, {"text": "those", "start": 102924, "end": 103462, "confidence": 0.99787, "speaker": null}, {"text": "measures.", "start": 103596, "end": 104438, "confidence": 0.86243, "speaker": null}, {"text": "So", "start": 104594, "end": 104842, "confidence": 0.59932, "speaker": null}, {"text": "Sylvia", "start": 104856, "end": 105350, "confidence": 0.42493, "speaker": null}, {"text": "talked", "start": 105410, "end": 105634, "confidence": 0.03597, "speaker": null}, {"text": "to", "start": 105672, "end": 105838, "confidence": 0.99913, "speaker": null}, {"text": "us", "start": 105864, "end": 106018, "confidence": 0.99974, "speaker": null}, {"text": "about", "start": 106044, "end": 106306, "confidence": 0.9999, "speaker": null}, {"text": "the", "start": 106368, "end": 106558, "confidence": 0.99791, "speaker": null}, {"text": "groups", "start": 106584, "end": 107018, "confidence": 0.5499, "speaker": null}, {"text": "that", "start": 107054, "end": 107218, "confidence": 0.99934, "speaker": null}, {"text": "are", "start": 107244, "end": 107542, "confidence": 0.99859, "speaker": null}, {"text": "most", "start": 107616, "end": 107926, "confidence": 0.99962, "speaker": null}, {"text": "at", "start": 107988, "end": 108214, "confidence": 0.99768, "speaker": null}, {"text": "risk", "start": 108252, "end": 108902, "confidence": 0.99695, "speaker": null}, {"text": "from", "start": 109046, "end": 109354, "confidence": 0.99887, "speaker": null}, {"text": "the", "start": 109392, "end": 109594, "confidence": 0.99782, "speaker": null}, {"text": "flu", "start": 109632, "end": 109970, "confidence": 0.99128, "speaker": null}, {"text": "and", "start": 110030, "end": 110290, "confidence": 0.98798, "speaker": null}, {"text": "also", "start": 110340, "end": 110590, "confidence": 0.99883, "speaker": null}, {"text": "talk", "start": 110640, "end": 110854, "confidence": 0.97068, "speaker": null}, {"text": "to", "start": 110892, "end": 111058, "confidence": 0.99947, "speaker": null}, {"text": "us", "start": 111084, "end": 111274, "confidence": 0.99969, "speaker": null}, {"text": "about", "start": 111312, "end": 111586, "confidence": 0.99994, "speaker": null}, {"text": "the", "start": 111648, "end": 111874, "confidence": 0.99619, "speaker": null}, {"text": "safety", "start": 111912, "end": 112586, "confidence": 0.9983, "speaker": null}, {"text": "of", "start": 112718, "end": 113050, "confidence": 0.9994, "speaker": null}, {"text": "taking", "start": 113100, "end": 113638, "confidence": 0.99948, "speaker": null}, {"text": "the", "start": 113784, "end": 114058, "confidence": 0.99902, "speaker": null}, {"text": "flu", "start": 114084, "end": 114338, "confidence": 0.9986, "speaker": null}, {"text": "vaccine.", "start": 114374, "end": 114854, "confidence": 0.99951, "speaker": null}, {"text": "For", "start": 114902, "end": 115078, "confidence": 0.99436, "speaker": null}, {"text": "those", "start": 115104, "end": 115294, "confidence": 0.99913, "speaker": null}, {"text": "people", "start": 115332, "end": 115534, "confidence": 0.99976, "speaker": null}, {"text": "who", "start": 115572, "end": 115774, "confidence": 0.61463, "speaker": null}, {"text": "do", "start": 115812, "end": 116014, "confidence": 0.99552, "speaker": null}, {"text": "have", "start": 116052, "end": 116254, "confidence": 0.99974, "speaker": null}, {"text": "access", "start": 116292, "end": 116602, "confidence": 0.99993, "speaker": null}, {"text": "to", "start": 116676, "end": 116878, "confidence": 0.99943, "speaker": null}, {"text": "the", "start": 116904, "end": 117058, "confidence": 0.99597, "speaker": null}, {"text": "flu", "start": 117084, "end": 117338, "confidence": 0.99875, "speaker": null}, {"text": "vaccine", "start": 117374, "end": 117902, "confidence": 0.86112, "speaker": null}, {"text": "and", "start": 117986, "end": 118198, "confidence": 0.99667, "speaker": null}, {"text": "the", "start": 118224, "end": 118342, "confidence": 0.98584, "speaker": null}, {"text": "COVID-19", "start": 118356, "end": 119126, "confidence": 0.53, "speaker": null}, {"text": "vaccine,", "start": 119198, "end": 119834, "confidence": 0.97844, "speaker": null}, {"text": "is", "start": 119942, "end": 120178, "confidence": 0.9822, "speaker": null}, {"text": "it", "start": 120204, "end": 120358, "confidence": 0.98039, "speaker": null}, {"text": "safe", "start": 120384, "end": 120602, "confidence": 0.99918, "speaker": null}, {"text": "to", "start": 120626, "end": 120778, "confidence": 0.99969, "speaker": null}, {"text": "take", "start": 120804, "end": 120994, "confidence": 0.99965, "speaker": null}, {"text": "it?", "start": 121032, "end": 121594, "confidence": 0.99736, "speaker": null}, {"text": "So", "start": 121752, "end": 122038, "confidence": 0.65604, "speaker": null}, {"text": "the", "start": 122064, "end": 122218, "confidence": 0.9979, "speaker": null}, {"text": "group", "start": 122244, "end": 122470, "confidence": 0.99916, "speaker": null}, {"text": "most", "start": 122520, "end": 122770, "confidence": 0.99573, "speaker": null}, {"text": "at", "start": 122820, "end": 122998, "confidence": 0.97134, "speaker": null}, {"text": "risk", "start": 123024, "end": 123410, "confidence": 0.96716, "speaker": null}, {"text": "for", "start": 123470, "end": 124090, "confidence": 0.99041, "speaker": null}, {"text": "influenza", "start": 124260, "end": 125270, "confidence": 0.98514, "speaker": null}, {"text": "are", "start": 125390, "end": 126060, "confidence": 0.86424, "speaker": null}, {"text": "elderly", "start": 126390, "end": 127390, "confidence": 0.53985, "speaker": null}, {"text": "people", "start": 127830, "end": 128266, "confidence": 0.99965, "speaker": null}, {"text": "with", "start": 128328, "end": 128554, "confidence": 0.99857, "speaker": null}, {"text": "underlying", "start": 128592, "end": 129098, "confidence": 0.67973, "speaker": null}, {"text": "conditions", "start": 129134, "end": 129770, "confidence": 0.53889, "speaker": null}, {"text": "such", "start": 129830, "end": 130054, "confidence": 0.99902, "speaker": null}, {"text": "as", "start": 130092, "end": 130680, "confidence": 0.9747, "speaker": null}, {"text": "chronic", "start": 131310, "end": 131858, "confidence": 0.99916, "speaker": null}, {"text": "respiratory", "start": 131894, "end": 132578, "confidence": 0.98951, "speaker": null}, {"text": "disease,", "start": 132614, "end": 133226, "confidence": 0.29148, "speaker": null}, {"text": "cancer,", "start": 133358, "end": 134230, "confidence": 0.86662, "speaker": null}, {"text": "cardiovascular", "start": 134790, "end": 135710, "confidence": 0.92393, "speaker": null}, {"text": "disease,", "start": 135770, "end": 136570, "confidence": 0.56018, "speaker": null}, {"text": "and", "start": 137550, "end": 137914, "confidence": 0.67742, "speaker": null}, {"text": "these", "start": 137952, "end": 138154, "confidence": 0.9843, "speaker": null}, {"text": "are", "start": 138192, "end": 138610, "confidence": 0.99758, "speaker": null}, {"text": "similar", "start": 138720, "end": 139102, "confidence": 0.99982, "speaker": null}, {"text": "groups", "start": 139176, "end": 139598, "confidence": 0.4821, "speaker": null}, {"text": "for", "start": 139634, "end": 139798, "confidence": 0.9897, "speaker": null}, {"text": "COVID-19,", "start": 139824, "end": 140822, "confidence": 0.61, "speaker": null}, {"text": "but", "start": 140966, "end": 141238, "confidence": 0.94385, "speaker": null}, {"text": "for", "start": 141264, "end": 141454, "confidence": 0.67378, "speaker": null}, {"text": "flu.", "start": 141492, "end": 141890, "confidence": 0.98219, "speaker": null}, {"text": "In", "start": 141950, "end": 142102, "confidence": 0.99783, "speaker": null}, {"text": "addition,", "start": 142116, "end": 142810, "confidence": 0.87789, "speaker": null}, {"text": "pregnant", "start": 143130, "end": 143714, "confidence": 0.99289, "speaker": null}, {"text": "women", "start": 143762, "end": 144334, "confidence": 0.98026, "speaker": null}, {"text": "and", "start": 144492, "end": 145030, "confidence": 0.98466, "speaker": null}, {"text": "very", "start": 145140, "end": 145414, "confidence": 0.99601, "speaker": null}, {"text": "young", "start": 145452, "end": 145654, "confidence": 0.99957, "speaker": null}, {"text": "children,", "start": 145692, "end": 146038, "confidence": 0.99947, "speaker": null}, {"text": "infants", "start": 146124, "end": 146822, "confidence": 0.7616, "speaker": null}, {"text": "are", "start": 146966, "end": 147202, "confidence": 0.63031, "speaker": null}, {"text": "also", "start": 147216, "end": 147430, "confidence": 0.99461, "speaker": null}, {"text": "more", "start": 147480, "end": 147694, "confidence": 0.9938, "speaker": null}, {"text": "at", "start": 147732, "end": 147898, "confidence": 0.9954, "speaker": null}, {"text": "risk", "start": 147924, "end": 148178, "confidence": 0.77951, "speaker": null}, {"text": "for", "start": 148214, "end": 148414, "confidence": 0.99575, "speaker": null}, {"text": "severe", "start": 148452, "end": 148778, "confidence": 0.87103, "speaker": null}, {"text": "disease.", "start": 148814, "end": 149282, "confidence": 0.78046, "speaker": null}, {"text": "So", "start": 149366, "end": 149758, "confidence": 0.71734, "speaker": null}, {"text": "is", "start": 149844, "end": 150058, "confidence": 0.86054, "speaker": null}, {"text": "it", "start": 150084, "end": 150238, "confidence": 0.99753, "speaker": null}, {"text": "safe", "start": 150264, "end": 150518, "confidence": 0.69587, "speaker": null}, {"text": "to", "start": 150554, "end": 150718, "confidence": 0.99899, "speaker": null}, {"text": "administer", "start": 150744, "end": 151478, "confidence": 0.99897, "speaker": null}, {"text": "flu", "start": 151634, "end": 151982, "confidence": 0.23536, "speaker": null}, {"text": "vaccine", "start": 152006, "end": 152378, "confidence": 0.72567, "speaker": null}, {"text": "and", "start": 152414, "end": 152578, "confidence": 0.67051, "speaker": null}, {"text": "CoV", "start": 152604, "end": 152894, "confidence": 0.86806, "speaker": null}, {"text": "19", "start": 152942, "end": 152992, "confidence": 1.0, "speaker": null}, {"text": "at", "start": 153007, "end": 153057, "confidence": 1.0, "speaker": null}, {"text": "the", "start": 153072, "end": 153562, "confidence": 1.0, "speaker": null}, {"text": "same", "start": 153576, "end": 153754, "confidence": 0.9999, "speaker": null}, {"text": "time?", "start": 153792, "end": 154354, "confidence": 0.99975, "speaker": null}, {"text": "Yes,", "start": 154512, "end": 155220, "confidence": 0.99133, "speaker": null}, {"text": "we", "start": 155610, "end": 155938, "confidence": 0.9986, "speaker": null}, {"text": "have", "start": 155964, "end": 156118, "confidence": 0.99787, "speaker": null}, {"text": "now", "start": 156144, "end": 156298, "confidence": 0.97959, "speaker": null}, {"text": "a", "start": 156324, "end": 156406, "confidence": 0.6074, "speaker": null}, {"text": "few", "start": 156408, "end": 156610, "confidence": 0.99752, "speaker": null}, {"text": "studies", "start": 156660, "end": 157106, "confidence": 0.99339, "speaker": null}, {"text": "that", "start": 157178, "end": 157450, "confidence": 0.60215, "speaker": null}, {"text": "show", "start": 157500, "end": 157786, "confidence": 0.51915, "speaker": null}, {"text": "that", "start": 157848, "end": 158110, "confidence": 0.99064, "speaker": null}, {"text": "it", "start": 158160, "end": 158302, "confidence": 0.99401, "speaker": null}, {"text": "is", "start": 158316, "end": 158494, "confidence": 0.98266, "speaker": null}, {"text": "safe", "start": 158532, "end": 158774, "confidence": 0.6958, "speaker": null}, {"text": "to", "start": 158822, "end": 159034, "confidence": 0.96916, "speaker": null}, {"text": "have", "start": 159072, "end": 159274, "confidence": 0.99964, "speaker": null}, {"text": "both", "start": 159312, "end": 159514, "confidence": 0.99887, "speaker": null}, {"text": "vaccine", "start": 159552, "end": 159938, "confidence": 0.9933, "speaker": null}, {"text": "at", "start": 159974, "end": 160102, "confidence": 0.9988, "speaker": null}, {"text": "the", "start": 160116, "end": 160258, "confidence": 0.57005, "speaker": null}, {"text": "same", "start": 160284, "end": 160510, "confidence": 0.99986, "speaker": null}, {"text": "time.", "start": 160560, "end": 161242, "confidence": 0.99986, "speaker": null}, {"text": "But", "start": 161436, "end": 161794, "confidence": 0.96745, "speaker": null}, {"text": "of", "start": 161832, "end": 161962, "confidence": 0.99667, "speaker": null}, {"text": "course,", "start": 161976, "end": 162226, "confidence": 0.98285, "speaker": null}, {"text": "people", "start": 162288, "end": 162586, "confidence": 0.87681, "speaker": null}, {"text": "need", "start": 162648, "end": 162838, "confidence": 0.95252, "speaker": null}, {"text": "to", "start": 162864, "end": 163018, "confidence": 0.9986, "speaker": null}, {"text": "check", "start": 163044, "end": 163234, "confidence": 0.99117, "speaker": null}, {"text": "with", "start": 163272, "end": 163474, "confidence": 0.9994, "speaker": null}, {"text": "their", "start": 163512, "end": 163678, "confidence": 0.6728, "speaker": null}, {"text": "physician", "start": 163704, "end": 164390, "confidence": 0.99796, "speaker": null}, {"text": "about", "start": 164510, "end": 164830, "confidence": 0.99915, "speaker": null}, {"text": "their", "start": 164880, "end": 165130, "confidence": 0.91389, "speaker": null}, {"text": "indication", "start": 165180, "end": 166030, "confidence": 0.96378, "speaker": null}, {"text": "to", "start": 166350, "end": 166678, "confidence": 0.99926, "speaker": null}, {"text": "take", "start": 166704, "end": 167038, "confidence": 0.99751, "speaker": null}, {"text": "both", "start": 167124, "end": 167410, "confidence": 0.94087, "speaker": null}, {"text": "vaccines.", "start": 167460, "end": 168194, "confidence": 0.72124, "speaker": null}, {"text": "Sylvia", "start": 168302, "end": 168758, "confidence": 0.13668, "speaker": null}, {"text": "talked", "start": 168794, "end": 168958, "confidence": 0.04638, "speaker": null}, {"text": "to", "start": 168984, "end": 169138, "confidence": 0.93679, "speaker": null}, {"text": "us", "start": 169164, "end": 169462, "confidence": 0.99945, "speaker": null}, {"text": "about", "start": 169536, "end": 169738, "confidence": 0.85497, "speaker": null}, {"text": "how", "start": 169764, "end": 169918, "confidence": 0.99919, "speaker": null}, {"text": "the", "start": 169944, "end": 170098, "confidence": 0.99813, "speaker": null}, {"text": "composition", "start": 170124, "end": 170738, "confidence": 0.80418, "speaker": null}, {"text": "of", "start": 170834, "end": 171058, "confidence": 0.99783, "speaker": null}, {"text": "the", "start": 171084, "end": 171382, "confidence": 0.99123, "speaker": null}, {"text": "influenza", "start": 171456, "end": 172022, "confidence": 0.97393, "speaker": null}, {"text": "vaccine", "start": 172046, "end": 172550, "confidence": 0.9984, "speaker": null}, {"text": "is", "start": 172610, "end": 172834, "confidence": 0.99597, "speaker": null}, {"text": "decided", "start": 172872, "end": 173558, "confidence": 0.86707, "speaker": null}, {"text": "and", "start": 173714, "end": 174034, "confidence": 0.93771, "speaker": null}, {"text": "also", "start": 174072, "end": 174274, "confidence": 0.99857, "speaker": null}, {"text": "speak", "start": 174312, "end": 174514, "confidence": 0.99528, "speaker": null}, {"text": "to", "start": 174552, "end": 174682, "confidence": 0.99907, "speaker": null}, {"text": "us", "start": 174696, "end": 174838, "confidence": 0.99776, "speaker": null}, {"text": "a", "start": 174864, "end": 174946, "confidence": 0.9945, "speaker": null}, {"text": "little", "start": 174948, "end": 175150, "confidence": 0.84748, "speaker": null}, {"text": "more", "start": 175200, "end": 175378, "confidence": 0.99934, "speaker": null}, {"text": "about", "start": 175404, "end": 175630, "confidence": 0.99981, "speaker": null}, {"text": "the", "start": 175680, "end": 175894, "confidence": 0.98735, "speaker": null}, {"text": "safety", "start": 175932, "end": 176222, "confidence": 0.99903, "speaker": null}, {"text": "and", "start": 176246, "end": 176362, "confidence": 0.99736, "speaker": null}, {"text": "efficacy", "start": 176376, "end": 176894, "confidence": 0.84388, "speaker": null}, {"text": "of", "start": 176942, "end": 177082, "confidence": 0.99962, "speaker": null}, {"text": "the", "start": 177096, "end": 177202, "confidence": 0.93739, "speaker": null}, {"text": "flu", "start": 177216, "end": 177422, "confidence": 0.9953, "speaker": null}, {"text": "vaccine.", "start": 177446, "end": 178214, "confidence": 0.56987, "speaker": null}, {"text": "There", "start": 178382, "end": 178642, "confidence": 0.99894, "speaker": null}, {"text": "are", "start": 178656, "end": 178834, "confidence": 0.6533, "speaker": null}, {"text": "many", "start": 178872, "end": 179460, "confidence": 0.79685, "speaker": null}, {"text": "different", "start": 179970, "end": 180622, "confidence": 0.99883, "speaker": null}, {"text": "influenza", "start": 180756, "end": 181418, "confidence": 0.95685, "speaker": null}, {"text": "viruses", "start": 181454, "end": 182006, "confidence": 0.78495, "speaker": null}, {"text": "out", "start": 182078, "end": 182314, "confidence": 0.99956, "speaker": null}, {"text": "there,", "start": 182352, "end": 182878, "confidence": 0.99985, "speaker": null}, {"text": "and", "start": 183024, "end": 183370, "confidence": 0.76492, "speaker": null}, {"text": "actually", "start": 183420, "end": 183850, "confidence": 0.99768, "speaker": null}, {"text": "they", "start": 183960, "end": 184306, "confidence": 0.98448, "speaker": null}, {"text": "change", "start": 184368, "end": 184738, "confidence": 0.99944, "speaker": null}, {"text": "very", "start": 184824, "end": 185110, "confidence": 0.99537, "speaker": null}, {"text": "often.", "start": 185160, "end": 185734, "confidence": 0.9999, "speaker": null}, {"text": "And", "start": 185892, "end": 186178, "confidence": 0.72668, "speaker": null}, {"text": "so", "start": 186204, "end": 186394, "confidence": 0.94958, "speaker": null}, {"text": "what", "start": 186432, "end": 186598, "confidence": 0.99542, "speaker": null}, {"text": "is", "start": 186624, "end": 186814, "confidence": 0.78396, "speaker": null}, {"text": "very", "start": 186852, "end": 187054, "confidence": 0.9941, "speaker": null}, {"text": "important", "start": 187092, "end": 187546, "confidence": 0.99993, "speaker": null}, {"text": "is", "start": 187668, "end": 187990, "confidence": 0.55704, "speaker": null}, {"text": "to", "start": 188040, "end": 188218, "confidence": 0.99079, "speaker": null}, {"text": "know", "start": 188244, "end": 188820, "confidence": 0.99847, "speaker": null}, {"text": "what", "start": 189270, "end": 189742, "confidence": 0.99882, "speaker": null}, {"text": "are", "start": 189816, "end": 190090, "confidence": 0.99335, "speaker": null}, {"text": "the", "start": 190140, "end": 190318, "confidence": 0.99514, "speaker": null}, {"text": "predominant", "start": 190344, "end": 191006, "confidence": 0.90496, "speaker": null}, {"text": "viruses", "start": 191078, "end": 191654, "confidence": 0.99749, "speaker": null}, {"text": "in", "start": 191702, "end": 191878, "confidence": 0.99633, "speaker": null}, {"text": "a", "start": 191904, "end": 192058, "confidence": 0.97772, "speaker": null}, {"text": "given", "start": 192084, "end": 192598, "confidence": 0.9996, "speaker": null}, {"text": "setting", "start": 192744, "end": 193430, "confidence": 0.98399, "speaker": null}, {"text": "so", "start": 193550, "end": 193798, "confidence": 0.95177, "speaker": null}, {"text": "that", "start": 193824, "end": 194050, "confidence": 0.99571, "speaker": null}, {"text": "we", "start": 194100, "end": 194314, "confidence": 0.99873, "speaker": null}, {"text": "can", "start": 194352, "end": 194626, "confidence": 0.99833, "speaker": null}, {"text": "take", "start": 194688, "end": 195300, "confidence": 0.99809, "speaker": null}, {"text": "the", "start": 195630, "end": 196030, "confidence": 0.98824, "speaker": null}, {"text": "antigen", "start": 196080, "end": 196670, "confidence": 0.53717, "speaker": null}, {"text": "of", "start": 196730, "end": 196882, "confidence": 0.94756, "speaker": null}, {"text": "this", "start": 196896, "end": 197110, "confidence": 0.53665, "speaker": null}, {"text": "virus", "start": 197160, "end": 197606, "confidence": 0.99825, "speaker": null}, {"text": "to", "start": 197678, "end": 198300, "confidence": 0.95449, "speaker": null}, {"text": "compose", "start": 200190, "end": 200678, "confidence": 0.99294, "speaker": null}, {"text": "the", "start": 200714, "end": 200878, "confidence": 0.48412, "speaker": null}, {"text": "vaccine.", "start": 200904, "end": 201746, "confidence": 0.68291, "speaker": null}, {"text": "So", "start": 201938, "end": 202690, "confidence": 0.63454, "speaker": null}, {"text": "that's", "start": 202860, "end": 203222, "confidence": 0.95849, "speaker": null}, {"text": "why", "start": 203246, "end": 203434, "confidence": 0.99598, "speaker": null}, {"text": "we", "start": 203472, "end": 203674, "confidence": 0.67067, "speaker": null}, {"text": "have", "start": 203712, "end": 203914, "confidence": 0.99742, "speaker": null}, {"text": "around", "start": 203952, "end": 204226, "confidence": 0.98426, "speaker": null}, {"text": "the", "start": 204288, "end": 204478, "confidence": 0.99834, "speaker": null}, {"text": "world", "start": 204504, "end": 204802, "confidence": 0.99915, "speaker": null}, {"text": "136", "start": 204876, "end": 206206, "confidence": 0.96, "speaker": null}, {"text": "laboratory", "start": 206268, "end": 207122, "confidence": 0.87914, "speaker": null}, {"text": "constantly", "start": 207206, "end": 207866, "confidence": 0.95953, "speaker": null}, {"text": "monitoring", "start": 207938, "end": 208826, "confidence": 0.67263, "speaker": null}, {"text": "the", "start": 208958, "end": 209182, "confidence": 0.93302, "speaker": null}, {"text": "circulating", "start": 209196, "end": 209882, "confidence": 0.55027, "speaker": null}, {"text": "viruses.", "start": 209966, "end": 210950, "confidence": 0.17867, "speaker": null}, {"text": "And", "start": 211130, "end": 211510, "confidence": 0.80596, "speaker": null}, {"text": "twice", "start": 211560, "end": 211838, "confidence": 0.99387, "speaker": null}, {"text": "a", "start": 211874, "end": 212038, "confidence": 0.62521, "speaker": null}, {"text": "year", "start": 212064, "end": 212326, "confidence": 0.99991, "speaker": null}, {"text": "we", "start": 212388, "end": 212578, "confidence": 0.9977, "speaker": null}, {"text": "have", "start": 212604, "end": 212794, "confidence": 0.99614, "speaker": null}, {"text": "experts", "start": 212832, "end": 213254, "confidence": 0.41084, "speaker": null}, {"text": "meeting", "start": 213302, "end": 213746, "confidence": 0.7188, "speaker": null}, {"text": "to", "start": 213818, "end": 214090, "confidence": 0.99328, "speaker": null}, {"text": "define", "start": 214140, "end": 214990, "confidence": 0.52981, "speaker": null}, {"text": "what", "start": 215550, "end": 215950, "confidence": 0.85037, "speaker": null}, {"text": "are", "start": 216000, "end": 216214, "confidence": 0.99715, "speaker": null}, {"text": "the", "start": 216252, "end": 216418, "confidence": 0.99649, "speaker": null}, {"text": "predominant", "start": 216444, "end": 217214, "confidence": 0.98782, "speaker": null}, {"text": "viruses", "start": 217322, "end": 218006, "confidence": 0.9655, "speaker": null}, {"text": "in", "start": 218078, "end": 218278, "confidence": 0.99877, "speaker": null}, {"text": "certain", "start": 218304, "end": 218602, "confidence": 0.99968, "speaker": null}, {"text": "places", "start": 218676, "end": 219074, "confidence": 0.58178, "speaker": null}, {"text": "of", "start": 219122, "end": 219262, "confidence": 0.99744, "speaker": null}, {"text": "the", "start": 219276, "end": 219418, "confidence": 0.99869, "speaker": null}, {"text": "world.", "start": 219444, "end": 220102, "confidence": 0.9997, "speaker": null}, {"text": "So", "start": 220296, "end": 220798, "confidence": 0.71215, "speaker": null}, {"text": "we", "start": 220884, "end": 221170, "confidence": 0.99852, "speaker": null}, {"text": "have", "start": 221220, "end": 221542, "confidence": 0.99926, "speaker": null}, {"text": "two", "start": 221616, "end": 221926, "confidence": 0.9904, "speaker": null}, {"text": "vaccine", "start": 221988, "end": 222398, "confidence": 0.9736, "speaker": null}, {"text": "composition", "start": 222434, "end": 222986, "confidence": 0.95678, "speaker": null}, {"text": "meetings", "start": 223058, "end": 223454, "confidence": 0.68532, "speaker": null}, {"text": "per", "start": 223502, "end": 223678, "confidence": 0.99893, "speaker": null}, {"text": "year,", "start": 223704, "end": 223966, "confidence": 0.99961, "speaker": null}, {"text": "one", "start": 224028, "end": 224254, "confidence": 0.99863, "speaker": null}, {"text": "for", "start": 224292, "end": 224458, "confidence": 0.99856, "speaker": null}, {"text": "the", "start": 224484, "end": 224638, "confidence": 0.83305, "speaker": null}, {"text": "Northern", "start": 224664, "end": 225014, "confidence": 0.67931, "speaker": null}, {"text": "hemisphere", "start": 225062, "end": 225698, "confidence": 0.43088, "speaker": null}, {"text": "and", "start": 225794, "end": 226054, "confidence": 0.9908, "speaker": null}, {"text": "one", "start": 226092, "end": 226294, "confidence": 0.99873, "speaker": null}, {"text": "for", "start": 226332, "end": 226498, "confidence": 0.99909, "speaker": null}, {"text": "the", "start": 226524, "end": 226678, "confidence": 0.9838, "speaker": null}, {"text": "Southern", "start": 226704, "end": 227114, "confidence": 0.27872, "speaker": null}, {"text": "hemisphere.", "start": 227162, "end": 228002, "confidence": 0.97495, "speaker": null}, {"text": "So", "start": 228146, "end": 228382, "confidence": 0.65271, "speaker": null}, {"text": "the", "start": 228396, "end": 228502, "confidence": 0.99302, "speaker": null}, {"text": "flu", "start": 228516, "end": 228722, "confidence": 0.82996, "speaker": null}, {"text": "vaccine", "start": 228746, "end": 229118, "confidence": 0.82452, "speaker": null}, {"text": "has", "start": 229154, "end": 229354, "confidence": 0.84641, "speaker": null}, {"text": "existed", "start": 229392, "end": 229850, "confidence": 0.74674, "speaker": null}, {"text": "for", "start": 229910, "end": 230134, "confidence": 0.99819, "speaker": null}, {"text": "many", "start": 230172, "end": 230410, "confidence": 0.99977, "speaker": null}, {"text": "decades", "start": 230460, "end": 230894, "confidence": 0.91396, "speaker": null}, {"text": "and", "start": 230942, "end": 231118, "confidence": 0.95149, "speaker": null}, {"text": "it's", "start": 231144, "end": 231302, "confidence": 0.58153, "speaker": null}, {"text": "a", "start": 231326, "end": 231478, "confidence": 0.97108, "speaker": null}, {"text": "very", "start": 231504, "end": 231730, "confidence": 0.99902, "speaker": null}, {"text": "safe", "start": 231780, "end": 232058, "confidence": 0.9988, "speaker": null}, {"text": "vaccine", "start": 232094, "end": 232718, "confidence": 0.9935, "speaker": null}, {"text": "but", "start": 232814, "end": 233038, "confidence": 0.89882, "speaker": null}, {"text": "it's", "start": 233064, "end": 233282, "confidence": 0.72881, "speaker": null}, {"text": "very", "start": 233306, "end": 233494, "confidence": 0.99876, "speaker": null}, {"text": "important", "start": 233532, "end": 233878, "confidence": 0.99994, "speaker": null}, {"text": "to", "start": 233964, "end": 234178, "confidence": 0.99468, "speaker": null}, {"text": "have", "start": 234204, "end": 234394, "confidence": 0.56874, "speaker": null}, {"text": "those", "start": 234432, "end": 234670, "confidence": 0.95189, "speaker": null}, {"text": "experts", "start": 234720, "end": 235058, "confidence": 0.71982, "speaker": null}, {"text": "meeting", "start": 235094, "end": 235478, "confidence": 0.51962, "speaker": null}, {"text": "to", "start": 235514, "end": 235678, "confidence": 0.99449, "speaker": null}, {"text": "define", "start": 235704, "end": 236102, "confidence": 0.99583, "speaker": null}, {"text": "the", "start": 236126, "end": 236278, "confidence": 0.99044, "speaker": null}, {"text": "composition", "start": 236304, "end": 236810, "confidence": 0.82992, "speaker": null}, {"text": "of", "start": 236870, "end": 237058, "confidence": 0.99889, "speaker": null}, {"text": "the", "start": 237084, "end": 237202, "confidence": 0.62899, "speaker": null}, {"text": "vaccine", "start": 237216, "end": 237830, "confidence": 0.73442, "speaker": null}, {"text": "to", "start": 237950, "end": 238198, "confidence": 0.99895, "speaker": null}, {"text": "make", "start": 238224, "end": 238378, "confidence": 0.99965, "speaker": null}, {"text": "sure", "start": 238404, "end": 238558, "confidence": 0.99982, "speaker": null}, {"text": "that", "start": 238584, "end": 238738, "confidence": 0.99104, "speaker": null}, {"text": "we", "start": 238764, "end": 238954, "confidence": 0.96935, "speaker": null}, {"text": "put", "start": 238992, "end": 239410, "confidence": 0.99941, "speaker": null}, {"text": "in", "start": 239520, "end": 239722, "confidence": 0.99572, "speaker": null}, {"text": "the", "start": 239736, "end": 239878, "confidence": 0.95967, "speaker": null}, {"text": "vaccine", "start": 239904, "end": 240494, "confidence": 0.91719, "speaker": null}, {"text": "the", "start": 240602, "end": 240838, "confidence": 0.9962, "speaker": null}, {"text": "component", "start": 240864, "end": 241370, "confidence": 0.9955, "speaker": null}, {"text": "that", "start": 241430, "end": 241654, "confidence": 0.99806, "speaker": null}, {"text": "will", "start": 241692, "end": 241894, "confidence": 0.98997, "speaker": null}, {"text": "really", "start": 241932, "end": 242242, "confidence": 0.9706, "speaker": null}, {"text": "better", "start": 242316, "end": 242626, "confidence": 0.99838, "speaker": null}, {"text": "protect", "start": 242688, "end": 242986, "confidence": 0.9992, "speaker": null}, {"text": "people", "start": 243048, "end": 243454, "confidence": 0.98131, "speaker": null}, {"text": "against", "start": 243552, "end": 243994, "confidence": 0.99861, "speaker": null}, {"text": "the", "start": 244092, "end": 244282, "confidence": 0.88253, "speaker": null}, {"text": "circulating", "start": 244296, "end": 244922, "confidence": 0.41673, "speaker": null}, {"text": "viruses", "start": 245006, "end": 245594, "confidence": 0.78919, "speaker": null}, {"text": "at", "start": 245642, "end": 245782, "confidence": 0.99854, "speaker": null}, {"text": "a", "start": 245796, "end": 245902, "confidence": 0.94442, "speaker": null}, {"text": "given", "start": 245916, "end": 246202, "confidence": 0.99986, "speaker": null}, {"text": "time", "start": 246276, "end": 246838, "confidence": 0.99989, "speaker": null}, {"text": "and", "start": 246984, "end": 247294, "confidence": 0.61576, "speaker": null}, {"text": "this", "start": 247332, "end": 247534, "confidence": 0.96028, "speaker": null}, {"text": "vaccine", "start": 247572, "end": 247994, "confidence": 0.55959, "speaker": null}, {"text": "is", "start": 248042, "end": 248254, "confidence": 0.99259, "speaker": null}, {"text": "very", "start": 248292, "end": 248566, "confidence": 0.99562, "speaker": null}, {"text": "recommended", "start": 248628, "end": 249314, "confidence": 0.99877, "speaker": null}, {"text": "to", "start": 249362, "end": 249646, "confidence": 0.99588, "speaker": null}, {"text": "hate", "start": 249708, "end": 250130, "confidence": 0.07695, "speaker": null}, {"text": "people", "start": 250190, "end": 250666, "confidence": 0.99968, "speaker": null}, {"text": "so", "start": 250788, "end": 251038, "confidence": 0.99312, "speaker": null}, {"text": "that", "start": 251064, "end": 251218, "confidence": 0.99011, "speaker": null}, {"text": "they", "start": 251244, "end": 251398, "confidence": 0.99063, "speaker": null}, {"text": "can", "start": 251424, "end": 251614, "confidence": 0.99864, "speaker": null}, {"text": "be", "start": 251652, "end": 251854, "confidence": 0.99817, "speaker": null}, {"text": "protected", "start": 251892, "end": 252374, "confidence": 0.70748, "speaker": null}, {"text": "against", "start": 252422, "end": 252706, "confidence": 0.98969, "speaker": null}, {"text": "severe", "start": 252768, "end": 253142, "confidence": 0.86697, "speaker": null}, {"text": "flu", "start": 253166, "end": 253478, "confidence": 0.98792, "speaker": null}, {"text": "and", "start": 253514, "end": 253678, "confidence": 0.99565, "speaker": null}, {"text": "death", "start": 253704, "end": 254210, "confidence": 0.99338, "speaker": null}, {"text": "when", "start": 254330, "end": 254614, "confidence": 0.99599, "speaker": null}, {"text": "the", "start": 254652, "end": 254818, "confidence": 0.9929, "speaker": null}, {"text": "season", "start": 254844, "end": 255110, "confidence": 0.99859, "speaker": null}, {"text": "starts.", "start": 255170, "end": 255974, "confidence": 0.78589, "speaker": null}, {"text": "Thank", "start": 256142, "end": 256438, "confidence": 0.99923, "speaker": null}, {"text": "you,", "start": 256464, "end": 256654, "confidence": 0.99847, "speaker": null}, {"text": "Sylvia.", "start": 256692, "end": 257210, "confidence": 0.37783, "speaker": null}, {"text": "That", "start": 257270, "end": 257458, "confidence": 0.98129, "speaker": null}, {"text": "was", "start": 257484, "end": 257674, "confidence": 0.95924, "speaker": null}, {"text": "signed", "start": 257712, "end": 258002, "confidence": 0.61903, "speaker": null}, {"text": "in", "start": 258026, "end": 258214, "confidence": 0.4006, "speaker": null}, {"text": "five", "start": 258252, "end": 258526, "confidence": 0.98214, "speaker": null}, {"text": "today.", "start": 258588, "end": 258994, "confidence": 0.99592, "speaker": null}, {"text": "Until", "start": 259092, "end": 259534, "confidence": 0.98261, "speaker": null}, {"text": "next", "start": 259632, "end": 259894, "confidence": 0.91189, "speaker": null}, {"text": "time,", "start": 259932, "end": 260170, "confidence": 0.99247, "speaker": null}, {"text": "then", "start": 260220, "end": 260506, "confidence": 0.99079, "speaker": null}, {"text": "stay", "start": 260568, "end": 260866, "confidence": 0.9785, "speaker": null}, {"text": "safe,", "start": 260928, "end": 261506, "confidence": 0.99643, "speaker": null}, {"text": "stay", "start": 261638, "end": 261970, "confidence": 0.92528, "speaker": null}, {"text": "healthy", "start": 262020, "end": 262526, "confidence": 0.95631, "speaker": null}, {"text": "and", "start": 262598, "end": 262834, "confidence": 0.99653, "speaker": null}, {"text": "stick", "start": 262872, "end": 263102, "confidence": 0.99909, "speaker": null}, {"text": "with", "start": 263126, "end": 263314, "confidence": 0.99361, "speaker": null}, {"text": "sides.", "start": 263352, "end": 263630, "confidence": 0.74009, "speaker": null}], "utterances": null, "confidence": 0.879744919354838, "audio_duration": 267, "punctuate": true, "format_text": true, "dual_channel": null, "webhook_url": null, "webhook_status_code": null, "speed_boost": false, "auto_highlights_result": null, "auto_highlights": false, "audio_start_from": null, "audio_end_at": null, "word_boost": [], "boost_param": null, "filter_profanity": false, "redact_pii": false, "redact_pii_audio": false, "redact_pii_audio_quality": null, "redact_pii_policies": null, "redact_pii_sub": null, "speaker_labels": false, "content_safety": false, "iab_categories": true, "content_safety_labels": {"status": "unavailable", "results": [], "summary": {}}, "iab_categories_result": {"status": "success", "results": [{"text": "As flu season is starting in many parts of the world, how would you know if you have flu or COVID-19? Hello and welcome to Science in Five. I'm Vic Smith. Aguptas Smith. We are talking to Dr. Philbin Ryan about flu and covid 19 today. Welcome, Sylvie. Sylvie, let's start with how would people know if they have caught the flu or COVID-19?", "labels": [{"relevance": 0.9934219717979431, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.01150410808622837, "label": "MedicalHealth>Vaccines"}, {"relevance": 0.00272546848282218, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.0022429279051721096, "label": "MedicalHealth"}, {"relevance": 0.0019800690934062004, "label": "HealthyLiving"}, {"relevance": 0.0019388848450034857, "label": "MedicalHealth>MedicalTests"}, {"relevance": 0.0016931589925661683, "label": "MedicalHealth>DiseasesAndConditions"}, {"relevance": 0.00149943504948169, "label": "FamilyAndRelationships>Bereavement"}, {"relevance": 0.0011753006838262081, "label": "NewsAndPolitics>Weather"}, {"relevance": 0.0011512761702761054, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}], "timestamp": {"start": 6590, "end": 29930}}, {"text": "So the flu is very common, especially in the season, and usually the symptoms are fever, headache, muscle ache, but also upper respiratory symptoms such as sneezing and coughing for coffee. 19 It's the same symptom, basically, but in addition, we have specific symptoms such as anosmia, which is a lack of smell and agosia, which is a lack of taste. And many people, especially young people, have experienced this additional and specific symptoms for COVID-19.", "labels": [{"relevance": 0.9952268600463867, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.06698160618543625, "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"}, {"relevance": 0.009519935585558414, "label": "MedicalHealth>DiseasesAndConditions"}, {"relevance": 0.005158357787877321, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}, {"relevance": 0.00383994379080832, "label": "MedicalHealth>DiseasesAndConditions>SleepDisorders"}, {"relevance": 0.002847677329555154, "label": "FamilyAndRelationships>Bereavement"}, {"relevance": 0.0024344606790691614, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.001988748786970973, "label": "MedicalHealth>DiseasesAndConditions>Allergies"}, {"relevance": 0.0015564055647701025, "label": "MedicalHealth>MedicalTests"}, {"relevance": 0.0015378176467493176, "label": "MedicalHealth>DiseasesAndConditions>MentalHealth"}], "timestamp": {"start": 30110, "end": 66986}}, {"text": "But sometimes people have very few symptoms, whether it's for flu or for COVID-19. It really depends on your level of immunity. What is important to know really for those two diseases is that the prevention measure works for both of them and especially washing hands. It's very important then ventilation of rooms when you are in crowded rooms with a lot of people in particular to open the window, also wearing masks if you cannot, open the window and maintain physical distancing.", "labels": [{"relevance": 0.9957011342048645, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.27383267879486084, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}, {"relevance": 0.10756775736808777, "label": "MedicalHealth>Vaccines"}, {"relevance": 0.02740667201578617, "label": "Home&Garden>IndoorEnvironmentalQuality"}, {"relevance": 0.018308624625205994, "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"}, {"relevance": 0.016435645520687103, "label": "HealthyLiving"}, {"relevance": 0.007850326597690582, "label": "MedicalHealth>DiseasesAndConditions"}, {"relevance": 0.0035717987921088934, "label": "MedicalHealth>DiseasesAndConditions>Allergies"}, {"relevance": 0.0033306076657027006, "label": "MedicalHealth"}, {"relevance": 0.002087322762235999, "label": "MedicalHealth>DiseasesAndConditions>MentalHealth"}], "timestamp": {"start": 67178, "end": 99698}}, {"text": "And those diseases are really preventable if we apply those measures. So Sylvia talked to us about the groups that are most at risk from the flu and also talk to us about the safety of taking the flu vaccine. For those people who do have access to the flu vaccine and the COVID-19 vaccine, is it safe to take it?", "labels": [{"relevance": 0.9970280528068542, "label": "MedicalHealth>Vaccines"}, {"relevance": 0.9955101013183594, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.043003253638744354, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}, {"relevance": 0.018329156562685966, "label": "HealthyLiving"}, {"relevance": 0.003971520811319351, "label": "MedicalHealth"}, {"relevance": 0.0014611190417781472, "label": "MedicalHealth>DiseasesAndConditions"}, {"relevance": 0.0013541505904868245, "label": "HealthyLiving>Women'sHealth"}, {"relevance": 0.0011788938427343965, "label": "MedicalHealth>DiseasesAndConditions>SexualHealth"}, {"relevance": 0.000996773480437696, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.0009960883762687445, "label": "HealthyLiving>Wellness>AlternativeMedicine>HolisticHealth"}], "timestamp": {"start": 99854, "end": 121594}}, {"text": "So the group most at risk for influenza are elderly people with underlying conditions such as chronic respiratory disease, cancer, cardiovascular disease, and these are similar groups for COVID-19, but for flu. In addition, pregnant women and very young children, infants are also more at risk for severe disease. So is it safe to administer flu vaccine and CoV 19 at the same time? Yes, we have now a few studies that show that it is safe to have both vaccine at the same time.", "labels": [{"relevance": 0.9975019097328186, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.964508593082428, "label": "MedicalHealth>Vaccines"}, {"relevance": 0.00391492061316967, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}, {"relevance": 0.0015338938683271408, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.0014326694654300809, "label": "HealthyLiving"}, {"relevance": 0.0010871211998164654, "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"}, {"relevance": 0.0010237317765131593, "label": "MedicalHealth>DiseasesAndConditions"}, {"relevance": 0.0007118148496374488, "label": "MedicalHealth>DiseasesAndConditions>ReproductiveHealth>Pregnancy"}, {"relevance": 0.0006901806336827576, "label": "MedicalHealth>MedicalTests"}, {"relevance": 0.0006685886182822287, "label": "MedicalHealth"}], "timestamp": {"start": 121752, "end": 161242}}, {"text": "But of course, people need to check with their physician about their indication to take both vaccines. Sylvia talked to us about how the composition of the influenza vaccine is decided and also speak to us a little more about the safety and efficacy of the flu vaccine. There are many different influenza viruses out there, and actually they change very often. And so what is very important is to know what are the predominant viruses in a given setting so that we can take the antigen of this virus to compose the vaccine.", "labels": [{"relevance": 0.9988483190536499, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.9513214826583862, "label": "MedicalHealth>Vaccines"}, {"relevance": 0.006837424822151661, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}, {"relevance": 0.002810962963849306, "label": "MedicalHealth>MedicalTests"}, {"relevance": 0.0012817821698263288, "label": "MedicalHealth"}, {"relevance": 0.000692838744726032, "label": "MedicalHealth>DiseasesAndConditions"}, {"relevance": 0.0005629599327221513, "label": "Automotive>AutoType"}, {"relevance": 0.0004486174148041755, "label": "HealthyLiving>Men'sHealth"}, {"relevance": 0.00040421035373583436, "label": "Travel>TravelType>Camping"}, {"relevance": 0.0004039214691147208, "label": "HealthyLiving"}], "timestamp": {"start": 161436, "end": 201746}}, {"text": "So that's why we have around the world 136 laboratory constantly monitoring the circulating viruses. And twice a year we have experts meeting to define what are the predominant viruses in certain places of the world. So we have two vaccine composition meetings per year, one for the Northern hemisphere and one for the Southern hemisphere.", "labels": [{"relevance": 0.9955109357833862, "label": "MedicalHealth>Vaccines"}, {"relevance": 0.9921115636825562, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.11143791675567627, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}, {"relevance": 0.0011466743890196085, "label": "MedicalHealth>MedicalTests"}, {"relevance": 0.00043713272316381335, "label": "Automotive>AutoType"}, {"relevance": 0.00040912299300543964, "label": "BusinessAndFinance>Industries>BiotechAndBiomedicalIndustry"}, {"relevance": 0.0003978556487709284, "label": "MedicalHealth>DiseasesAndConditions>SexualHealth>SexualConditions"}, {"relevance": 0.0002969010383822024, "label": "EventsAndAttractions>FashionEvents"}, {"relevance": 0.00025878564338199794, "label": "VideoGaming>ESports"}, {"relevance": 0.0002248768723802641, "label": "BusinessAndFinance>Business"}], "timestamp": {"start": 201938, "end": 228002}}, {"text": "So the flu vaccine has existed for many decades and it's a very safe vaccine but it's very important to have those experts meeting to define the composition of the vaccine to make sure that we put in the vaccine the component that will really better protect people against the circulating viruses at a given time and this vaccine is very recommended to hate people so that they can be protected against severe flu and death when the season starts. Thank you, Sylvia. That was signed in five today.", "labels": [{"relevance": 0.9973406195640564, "label": "MedicalHealth>Vaccines"}, {"relevance": 0.9959089756011963, "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"}, {"relevance": 0.0037168352864682674, "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"}, {"relevance": 0.000988341635093093, "label": "MedicalHealth"}, {"relevance": 0.0005153742386028171, "label": "HealthyLiving"}, {"relevance": 0.0005094533553346992, "label": "Automotive>AutoType"}, {"relevance": 0.00047103362157940865, "label": "MedicalHealth>MedicalTests"}, {"relevance": 0.0004601237887982279, "label": "BusinessAndFinance>Business>ConsumerIssues>Recalls"}, {"relevance": 0.0004238139954395592, "label": "BusinessAndFinance>Industries>PharmaceuticalIndustry"}, {"relevance": 0.00037928929668851197, "label": "EventsAndAttractions>FashionEvents"}], "timestamp": {"start": 228146, "end": 258994}}, {"text": "Until next time, then stay safe, stay healthy and stick with sides.", "labels": [{"relevance": 0.0078013003803789616, "label": "MedicalHealth>DiseasesAndConditions>Injuries"}, {"relevance": 0.005727242678403854, "label": "NewsAndPolitics>Politics>WarAndConflicts"}, {"relevance": 0.0036883000284433365, "label": "NewsAndPolitics>Disasters"}, {"relevance": 0.0022272819187492132, "label": "Sports"}, {"relevance": 0.0014171887887641788, "label": "NewsAndPolitics>Politics>Elections"}, {"relevance": 0.00123977183829993, "label": "Automotive>AutoSafety"}, {"relevance": 0.001110746175982058, "label": "Sports>ExtremeSports"}, {"relevance": 0.001089121913537383, "label": "Automotive>AutoInsurance"}, {"relevance": 0.0010485271923244, "label": "Sports>Cycling"}, {"relevance": 0.0010035388404503465, "label": "PersonalFinance>Insurance>MotorInsurance"}], "timestamp": {"start": 259092, "end": 263630}}], "summary": {"MedicalHealth>DiseasesAndConditions>ColdAndFlu": 1.0, "MedicalHealth>Vaccines": 0.631096363067627, "MedicalHealth>DiseasesAndConditions>InfectiousDiseases": 0.05638574808835983, "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth": 0.011009433306753635, "HealthyLiving": 0.005100131966173649, "Home&Garden>IndoorEnvironmentalQuality": 0.0035760446917265654, "MedicalHealth>DiseasesAndConditions": 0.0028428940568119287, "MedicalHealth": 0.001700814813375473, "MedicalHealth>DiseasesAndConditions>Injuries": 0.001386358984746039, "MedicalHealth>MedicalTests": 0.0012906640768051147, "HealthyLiving>Men'sHealth": 0.001166398636996746, "MedicalHealth>DiseasesAndConditions>Allergies": 0.000829254393465817, "NewsAndPolitics>Politics>WarAndConflicts": 0.0007424702635034919, "MedicalHealth>DiseasesAndConditions>MentalHealth": 0.0007226851303130388, "FamilyAndRelationships>Bereavement": 0.0007026074454188347, "MedicalHealth>DiseasesAndConditions>SleepDisorders": 0.0006601699278689921, "NewsAndPolitics>Disasters": 0.0006425905739888549, "NewsAndPolitics>Weather": 0.0005770653369836509, "HealthyLiving>Women'sHealth": 0.0005431164754554629, "Sports": 0.0004848169628530741}}, "disfluencies": false, "sentiment_analysis": false, "auto_chapters": false, "chapters": null, "sentiment_analysis_results": null, "entity_detection": false, "entities": null}
+{
+  "id": "okpqoc8oq5-d7f3-4212-9cf5-980b9a130ab2",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/9b42d059-5a85-4da5-81fd-63f372e7058f",
+  "text": "As flu season is starting in many parts of the world, how would you know if you have flu or COVID-19? Hello and welcome to Science in Five. I'm Vic Smith. Aguptas Smith. We are talking to Dr. Philbin Ryan about flu and covid 19 today. Welcome, Sylvie. Sylvie, let's start with how would people know if they have caught the flu or COVID-19? So the flu is very common, especially in the season, and usually the symptoms are fever, headache, muscle ache, but also upper respiratory symptoms such as sneezing and coughing for coffee. 19 It's the same symptom, basically, but in addition, we have specific symptoms such as anosmia, which is a lack of smell and agosia, which is a lack of taste. And many people, especially young people, have experienced this additional and specific symptoms for COVID-19. But sometimes people have very few symptoms, whether it's for flu or for COVID-19. It really depends on your level of immunity. What is important to know really for those two diseases is that the prevention measure works for both of them and especially washing hands. It's very important then ventilation of rooms when you are in crowded rooms with a lot of people in particular to open the window, also wearing masks if you cannot, open the window and maintain physical distancing. And those diseases are really preventable if we apply those measures. So Sylvia talked to us about the groups that are most at risk from the flu and also talk to us about the safety of taking the flu vaccine. For those people who do have access to the flu vaccine and the COVID-19 vaccine, is it safe to take it? So the group most at risk for influenza are elderly people with underlying conditions such as chronic respiratory disease, cancer, cardiovascular disease, and these are similar groups for COVID-19, but for flu. In addition, pregnant women and very young children, infants are also more at risk for severe disease. So is it safe to administer flu vaccine and CoV 19 at the same time? Yes, we have now a few studies that show that it is safe to have both vaccine at the same time. But of course, people need to check with their physician about their indication to take both vaccines. Sylvia talked to us about how the composition of the influenza vaccine is decided and also speak to us a little more about the safety and efficacy of the flu vaccine. There are many different influenza viruses out there, and actually they change very often. And so what is very important is to know what are the predominant viruses in a given setting so that we can take the antigen of this virus to compose the vaccine. So that's why we have around the world 136 laboratory constantly monitoring the circulating viruses. And twice a year we have experts meeting to define what are the predominant viruses in certain places of the world. So we have two vaccine composition meetings per year, one for the Northern hemisphere and one for the Southern hemisphere. So the flu vaccine has existed for many decades and it's a very safe vaccine but it's very important to have those experts meeting to define the composition of the vaccine to make sure that we put in the vaccine the component that will really better protect people against the circulating viruses at a given time and this vaccine is very recommended to hate people so that they can be protected against severe flu and death when the season starts. Thank you, Sylvia. That was signed in five today. Until next time, then stay safe, stay healthy and stick with sides.",
+  "words": [
+    {
+      "text": "As",
+      "start": 6590,
+      "end": 6754,
+      "confidence": 0.97209,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 6792,
+      "end": 7058,
+      "confidence": 0.99487,
+      "speaker": null
+    },
+    {
+      "text": "season",
+      "start": 7094,
+      "end": 7502,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 7586,
+      "end": 7834,
+      "confidence": 0.99656,
+      "speaker": null
+    },
+    {
+      "text": "starting",
+      "start": 7872,
+      "end": 8110,
+      "confidence": 0.99711,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 8160,
+      "end": 8338,
+      "confidence": 0.99492,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 8364,
+      "end": 8554,
+      "confidence": 0.9987,
+      "speaker": null
+    },
+    {
+      "text": "parts",
+      "start": 8592,
+      "end": 8882,
+      "confidence": 0.99639,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 8906,
+      "end": 9022,
+      "confidence": 0.99785,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 9036,
+      "end": 9178,
+      "confidence": 0.98998,
+      "speaker": null
+    },
+    {
+      "text": "world,",
+      "start": 9204,
+      "end": 9466,
+      "confidence": 0.99944,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 9528,
+      "end": 9754,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 9792,
+      "end": 9922,
+      "confidence": 0.99815,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 9936,
+      "end": 10114,
+      "confidence": 0.63924,
+      "speaker": null
+    },
+    {
+      "text": "know",
+      "start": 10152,
+      "end": 10426,
+      "confidence": 0.99897,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 10488,
+      "end": 10678,
+      "confidence": 0.99916,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 10704,
+      "end": 10858,
+      "confidence": 0.99535,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 10884,
+      "end": 11074,
+      "confidence": 0.94891,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 11112,
+      "end": 11654,
+      "confidence": 0.89268,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 11762,
+      "end": 12034,
+      "confidence": 0.99361,
+      "speaker": null
+    },
+    {
+      "text": "COVID-19?",
+      "start": 12072,
+      "end": 13286,
+      "confidence": 0.52,
+      "speaker": null
+    },
+    {
+      "text": "Hello",
+      "start": 13478,
+      "end": 13978,
+      "confidence": 0.99938,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 14064,
+      "end": 14314,
+      "confidence": 0.99603,
+      "speaker": null
+    },
+    {
+      "text": "welcome",
+      "start": 14352,
+      "end": 14590,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 14640,
+      "end": 14818,
+      "confidence": 0.99918,
+      "speaker": null
+    },
+    {
+      "text": "Science",
+      "start": 14844,
+      "end": 15134,
+      "confidence": 0.94233,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 15182,
+      "end": 15394,
+      "confidence": 0.35131,
+      "speaker": null
+    },
+    {
+      "text": "Five.",
+      "start": 15432,
+      "end": 15778,
+      "confidence": 0.99334,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 15864,
+      "end": 16142,
+      "confidence": 0.83849,
+      "speaker": null
+    },
+    {
+      "text": "Vic",
+      "start": 16166,
+      "end": 16322,
+      "confidence": 0.01486,
+      "speaker": null
+    },
+    {
+      "text": "Smith.",
+      "start": 16346,
+      "end": 16562,
+      "confidence": 0.93353,
+      "speaker": null
+    },
+    {
+      "text": "Aguptas",
+      "start": 16586,
+      "end": 17162,
+      "confidence": 0.17493,
+      "speaker": null
+    },
+    {
+      "text": "Smith.",
+      "start": 17186,
+      "end": 17714,
+      "confidence": 0.66053,
+      "speaker": null
+    },
+    {
+      "text": "We",
+      "start": 17822,
+      "end": 18022,
+      "confidence": 0.99973,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 18036,
+      "end": 18214,
+      "confidence": 0.51123,
+      "speaker": null
+    },
+    {
+      "text": "talking",
+      "start": 18252,
+      "end": 18562,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 18636,
+      "end": 18838,
+      "confidence": 0.99483,
+      "speaker": null
+    },
+    {
+      "text": "Dr.",
+      "start": 18864,
+      "end": 19090,
+      "confidence": 0.97268,
+      "speaker": null
+    },
+    {
+      "text": "Philbin",
+      "start": 19140,
+      "end": 19586,
+      "confidence": 0.01353,
+      "speaker": null
+    },
+    {
+      "text": "Ryan",
+      "start": 19598,
+      "end": 19970,
+      "confidence": 0.14957,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 20030,
+      "end": 20362,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 20436,
+      "end": 20882,
+      "confidence": 0.85904,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 20966,
+      "end": 21178,
+      "confidence": 0.96956,
+      "speaker": null
+    },
+    {
+      "text": "covid",
+      "start": 21204,
+      "end": 21542,
+      "confidence": 0.39346,
+      "speaker": null
+    },
+    {
+      "text": "19",
+      "start": 21566,
+      "end": 21950,
+      "confidence": 0.89,
+      "speaker": null
+    },
+    {
+      "text": "today.",
+      "start": 22010,
+      "end": 22522,
+      "confidence": 0.99974,
+      "speaker": null
+    },
+    {
+      "text": "Welcome,",
+      "start": 22656,
+      "end": 23062,
+      "confidence": 0.99722,
+      "speaker": null
+    },
+    {
+      "text": "Sylvie.",
+      "start": 23136,
+      "end": 23798,
+      "confidence": 0.32771,
+      "speaker": null
+    },
+    {
+      "text": "Sylvie,",
+      "start": 23894,
+      "end": 24338,
+      "confidence": 0.38633,
+      "speaker": null
+    },
+    {
+      "text": "let's",
+      "start": 24374,
+      "end": 24638,
+      "confidence": 0.86205,
+      "speaker": null
+    },
+    {
+      "text": "start",
+      "start": 24674,
+      "end": 24910,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 24960,
+      "end": 25246,
+      "confidence": 0.99619,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 25308,
+      "end": 25534,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 25572,
+      "end": 25774,
+      "confidence": 0.99446,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 25812,
+      "end": 26122,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "know",
+      "start": 26196,
+      "end": 26542,
+      "confidence": 0.9998,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 26616,
+      "end": 26818,
+      "confidence": 0.99963,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 26844,
+      "end": 26998,
+      "confidence": 0.99973,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 27024,
+      "end": 27178,
+      "confidence": 0.98755,
+      "speaker": null
+    },
+    {
+      "text": "caught",
+      "start": 27204,
+      "end": 27566,
+      "confidence": 0.99704,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 27638,
+      "end": 27838,
+      "confidence": 0.99474,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 27864,
+      "end": 28358,
+      "confidence": 0.99381,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 28454,
+      "end": 28714,
+      "confidence": 0.99354,
+      "speaker": null
+    },
+    {
+      "text": "COVID-19?",
+      "start": 28752,
+      "end": 29930,
+      "confidence": 0.28,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 30110,
+      "end": 30526,
+      "confidence": 0.71335,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 30588,
+      "end": 30778,
+      "confidence": 0.99188,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 30804,
+      "end": 31478,
+      "confidence": 0.99493,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 31634,
+      "end": 32062,
+      "confidence": 0.99198,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 32136,
+      "end": 32374,
+      "confidence": 0.99761,
+      "speaker": null
+    },
+    {
+      "text": "common,",
+      "start": 32412,
+      "end": 32794,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "especially",
+      "start": 32892,
+      "end": 33298,
+      "confidence": 0.99684,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 33384,
+      "end": 33562,
+      "confidence": 0.99394,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 33576,
+      "end": 33718,
+      "confidence": 0.63101,
+      "speaker": null
+    },
+    {
+      "text": "season,",
+      "start": 33744,
+      "end": 34214,
+      "confidence": 0.9958,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 34322,
+      "end": 34594,
+      "confidence": 0.72353,
+      "speaker": null
+    },
+    {
+      "text": "usually",
+      "start": 34632,
+      "end": 34942,
+      "confidence": 0.99853,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 35016,
+      "end": 35218,
+      "confidence": 0.98043,
+      "speaker": null
+    },
+    {
+      "text": "symptoms",
+      "start": 35244,
+      "end": 35714,
+      "confidence": 0.59714,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 35762,
+      "end": 36046,
+      "confidence": 0.98806,
+      "speaker": null
+    },
+    {
+      "text": "fever,",
+      "start": 36108,
+      "end": 36790,
+      "confidence": 0.28294,
+      "speaker": null
+    },
+    {
+      "text": "headache,",
+      "start": 37650,
+      "end": 38714,
+      "confidence": 0.55979,
+      "speaker": null
+    },
+    {
+      "text": "muscle",
+      "start": 38882,
+      "end": 39374,
+      "confidence": 0.95458,
+      "speaker": null
+    },
+    {
+      "text": "ache,",
+      "start": 39422,
+      "end": 40210,
+      "confidence": 0.39075,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 40590,
+      "end": 40954,
+      "confidence": 0.9929,
+      "speaker": null
+    },
+    {
+      "text": "also",
+      "start": 40992,
+      "end": 41230,
+      "confidence": 0.99597,
+      "speaker": null
+    },
+    {
+      "text": "upper",
+      "start": 41280,
+      "end": 41594,
+      "confidence": 0.51411,
+      "speaker": null
+    },
+    {
+      "text": "respiratory",
+      "start": 41642,
+      "end": 42434,
+      "confidence": 0.99794,
+      "speaker": null
+    },
+    {
+      "text": "symptoms",
+      "start": 42482,
+      "end": 42974,
+      "confidence": 0.47691,
+      "speaker": null
+    },
+    {
+      "text": "such",
+      "start": 43022,
+      "end": 43198,
+      "confidence": 0.99891,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 43224,
+      "end": 43630,
+      "confidence": 0.98707,
+      "speaker": null
+    },
+    {
+      "text": "sneezing",
+      "start": 43740,
+      "end": 44678,
+      "confidence": 0.86069,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 44834,
+      "end": 45298,
+      "confidence": 0.84649,
+      "speaker": null
+    },
+    {
+      "text": "coughing",
+      "start": 45384,
+      "end": 46090,
+      "confidence": 0.77565,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 46830,
+      "end": 47194,
+      "confidence": 0.95448,
+      "speaker": null
+    },
+    {
+      "text": "coffee.",
+      "start": 47232,
+      "end": 47558,
+      "confidence": 0.31489,
+      "speaker": null
+    },
+    {
+      "text": "19",
+      "start": 47594,
+      "end": 48310,
+      "confidence": 0.59,
+      "speaker": null
+    },
+    {
+      "text": "It's",
+      "start": 49110,
+      "end": 49466,
+      "confidence": 0.92204,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 49478,
+      "end": 49618,
+      "confidence": 0.53815,
+      "speaker": null
+    },
+    {
+      "text": "same",
+      "start": 49644,
+      "end": 49834,
+      "confidence": 0.99852,
+      "speaker": null
+    },
+    {
+      "text": "symptom,",
+      "start": 49872,
+      "end": 50330,
+      "confidence": 0.99649,
+      "speaker": null
+    },
+    {
+      "text": "basically,",
+      "start": 50390,
+      "end": 50794,
+      "confidence": 0.99456,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 50892,
+      "end": 51298,
+      "confidence": 0.98306,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 51384,
+      "end": 51598,
+      "confidence": 0.99918,
+      "speaker": null
+    },
+    {
+      "text": "addition,",
+      "start": 51624,
+      "end": 52022,
+      "confidence": 0.99834,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 52106,
+      "end": 52318,
+      "confidence": 0.99828,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 52344,
+      "end": 52606,
+      "confidence": 0.99957,
+      "speaker": null
+    },
+    {
+      "text": "specific",
+      "start": 52668,
+      "end": 53074,
+      "confidence": 0.6857,
+      "speaker": null
+    },
+    {
+      "text": "symptoms",
+      "start": 53172,
+      "end": 53678,
+      "confidence": 0.93351,
+      "speaker": null
+    },
+    {
+      "text": "such",
+      "start": 53714,
+      "end": 53878,
+      "confidence": 0.99926,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 53904,
+      "end": 54130,
+      "confidence": 0.99893,
+      "speaker": null
+    },
+    {
+      "text": "anosmia,",
+      "start": 54180,
+      "end": 54974,
+      "confidence": 0.2992,
+      "speaker": null
+    },
+    {
+      "text": "which",
+      "start": 55082,
+      "end": 55318,
+      "confidence": 0.99887,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 55344,
+      "end": 55498,
+      "confidence": 0.9927,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 55524,
+      "end": 55786,
+      "confidence": 0.36898,
+      "speaker": null
+    },
+    {
+      "text": "lack",
+      "start": 55848,
+      "end": 56102,
+      "confidence": 0.99876,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 56126,
+      "end": 56278,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "smell",
+      "start": 56304,
+      "end": 56846,
+      "confidence": 0.9993,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 56978,
+      "end": 57274,
+      "confidence": 0.87783,
+      "speaker": null
+    },
+    {
+      "text": "agosia,",
+      "start": 57312,
+      "end": 58094,
+      "confidence": 0.3016,
+      "speaker": null
+    },
+    {
+      "text": "which",
+      "start": 58202,
+      "end": 58438,
+      "confidence": 0.99947,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 58464,
+      "end": 58618,
+      "confidence": 0.99665,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 58644,
+      "end": 58762,
+      "confidence": 0.85101,
+      "speaker": null
+    },
+    {
+      "text": "lack",
+      "start": 58776,
+      "end": 58922,
+      "confidence": 0.99938,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 58946,
+      "end": 59098,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "taste.",
+      "start": 59124,
+      "end": 59750,
+      "confidence": 0.91775,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 59870,
+      "end": 60334,
+      "confidence": 0.74083,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 60432,
+      "end": 60730,
+      "confidence": 0.99704,
+      "speaker": null
+    },
+    {
+      "text": "people,",
+      "start": 60780,
+      "end": 61102,
+      "confidence": 0.98987,
+      "speaker": null
+    },
+    {
+      "text": "especially",
+      "start": 61176,
+      "end": 61594,
+      "confidence": 0.99818,
+      "speaker": null
+    },
+    {
+      "text": "young",
+      "start": 61692,
+      "end": 61954,
+      "confidence": 0.99984,
+      "speaker": null
+    },
+    {
+      "text": "people,",
+      "start": 61992,
+      "end": 62266,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 62328,
+      "end": 62518,
+      "confidence": 0.98638,
+      "speaker": null
+    },
+    {
+      "text": "experienced",
+      "start": 62544,
+      "end": 63098,
+      "confidence": 0.74965,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 63134,
+      "end": 63550,
+      "confidence": 0.67295,
+      "speaker": null
+    },
+    {
+      "text": "additional",
+      "start": 63660,
+      "end": 64214,
+      "confidence": 0.99931,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 64322,
+      "end": 64558,
+      "confidence": 0.9745,
+      "speaker": null
+    },
+    {
+      "text": "specific",
+      "start": 64584,
+      "end": 64954,
+      "confidence": 0.90674,
+      "speaker": null
+    },
+    {
+      "text": "symptoms",
+      "start": 65052,
+      "end": 65558,
+      "confidence": 0.20236,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 65594,
+      "end": 65758,
+      "confidence": 0.98977,
+      "speaker": null
+    },
+    {
+      "text": "COVID-19.",
+      "start": 65784,
+      "end": 66986,
+      "confidence": 0.44,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 67178,
+      "end": 67570,
+      "confidence": 0.93852,
+      "speaker": null
+    },
+    {
+      "text": "sometimes",
+      "start": 67620,
+      "end": 68230,
+      "confidence": 0.96991,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 68400,
+      "end": 68770,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 68820,
+      "end": 68998,
+      "confidence": 0.72428,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 69024,
+      "end": 69178,
+      "confidence": 0.99279,
+      "speaker": null
+    },
+    {
+      "text": "few",
+      "start": 69204,
+      "end": 69394,
+      "confidence": 0.99744,
+      "speaker": null
+    },
+    {
+      "text": "symptoms,",
+      "start": 69432,
+      "end": 69878,
+      "confidence": 0.65757,
+      "speaker": null
+    },
+    {
+      "text": "whether",
+      "start": 69914,
+      "end": 70114,
+      "confidence": 0.999,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 70152,
+      "end": 70322,
+      "confidence": 0.96372,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 70346,
+      "end": 70498,
+      "confidence": 0.99259,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 70524,
+      "end": 70742,
+      "confidence": 0.99296,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 70766,
+      "end": 70882,
+      "confidence": 0.97144,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 70896,
+      "end": 71038,
+      "confidence": 0.92843,
+      "speaker": null
+    },
+    {
+      "text": "COVID-19.",
+      "start": 71064,
+      "end": 71810,
+      "confidence": 0.5,
+      "speaker": null
+    },
+    {
+      "text": "It",
+      "start": 71870,
+      "end": 72058,
+      "confidence": 0.98773,
+      "speaker": null
+    },
+    {
+      "text": "really",
+      "start": 72084,
+      "end": 72274,
+      "confidence": 0.72889,
+      "speaker": null
+    },
+    {
+      "text": "depends",
+      "start": 72312,
+      "end": 72662,
+      "confidence": 0.9781,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 72686,
+      "end": 72838,
+      "confidence": 0.99956,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 72864,
+      "end": 73018,
+      "confidence": 0.99906,
+      "speaker": null
+    },
+    {
+      "text": "level",
+      "start": 73044,
+      "end": 73270,
+      "confidence": 0.99959,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 73320,
+      "end": 73498,
+      "confidence": 0.99833,
+      "speaker": null
+    },
+    {
+      "text": "immunity.",
+      "start": 73524,
+      "end": 74354,
+      "confidence": 0.96599,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 74522,
+      "end": 74818,
+      "confidence": 0.99911,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 74844,
+      "end": 75034,
+      "confidence": 0.56315,
+      "speaker": null
+    },
+    {
+      "text": "important",
+      "start": 75072,
+      "end": 75418,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 75504,
+      "end": 75718,
+      "confidence": 0.99855,
+      "speaker": null
+    },
+    {
+      "text": "know",
+      "start": 75744,
+      "end": 75970,
+      "confidence": 0.90087,
+      "speaker": null
+    },
+    {
+      "text": "really",
+      "start": 76020,
+      "end": 76702,
+      "confidence": 0.98132,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 76896,
+      "end": 77290,
+      "confidence": 0.99945,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 77340,
+      "end": 77554,
+      "confidence": 0.98973,
+      "speaker": null
+    },
+    {
+      "text": "two",
+      "start": 77592,
+      "end": 77758,
+      "confidence": 0.99727,
+      "speaker": null
+    },
+    {
+      "text": "diseases",
+      "start": 77784,
+      "end": 78182,
+      "confidence": 0.24688,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 78206,
+      "end": 78358,
+      "confidence": 0.94274,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 78384,
+      "end": 78754,
+      "confidence": 0.9892,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 78852,
+      "end": 79114,
+      "confidence": 0.98521,
+      "speaker": null
+    },
+    {
+      "text": "prevention",
+      "start": 79152,
+      "end": 79610,
+      "confidence": 0.86568,
+      "speaker": null
+    },
+    {
+      "text": "measure",
+      "start": 79670,
+      "end": 80222,
+      "confidence": 0.53883,
+      "speaker": null
+    },
+    {
+      "text": "works",
+      "start": 80366,
+      "end": 80710,
+      "confidence": 0.96634,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 80760,
+      "end": 80974,
+      "confidence": 0.71486,
+      "speaker": null
+    },
+    {
+      "text": "both",
+      "start": 81012,
+      "end": 81250,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 81300,
+      "end": 81442,
+      "confidence": 0.99855,
+      "speaker": null
+    },
+    {
+      "text": "them",
+      "start": 81456,
+      "end": 82102,
+      "confidence": 0.99862,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 82296,
+      "end": 82654,
+      "confidence": 0.61004,
+      "speaker": null
+    },
+    {
+      "text": "especially",
+      "start": 82692,
+      "end": 83110,
+      "confidence": 0.99316,
+      "speaker": null
+    },
+    {
+      "text": "washing",
+      "start": 83220,
+      "end": 83594,
+      "confidence": 0.7746,
+      "speaker": null
+    },
+    {
+      "text": "hands.",
+      "start": 83642,
+      "end": 83926,
+      "confidence": 0.58168,
+      "speaker": null
+    },
+    {
+      "text": "It's",
+      "start": 83988,
+      "end": 84242,
+      "confidence": 0.68336,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 84266,
+      "end": 84454,
+      "confidence": 0.99783,
+      "speaker": null
+    },
+    {
+      "text": "important",
+      "start": 84492,
+      "end": 85080,
+      "confidence": 0.99848,
+      "speaker": null
+    },
+    {
+      "text": "then",
+      "start": 85410,
+      "end": 85918,
+      "confidence": 0.90395,
+      "speaker": null
+    },
+    {
+      "text": "ventilation",
+      "start": 86004,
+      "end": 86606,
+      "confidence": 0.50942,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 86678,
+      "end": 86986,
+      "confidence": 0.98225,
+      "speaker": null
+    },
+    {
+      "text": "rooms",
+      "start": 87048,
+      "end": 87482,
+      "confidence": 0.76487,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 87566,
+      "end": 87778,
+      "confidence": 0.79369,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 87804,
+      "end": 87958,
+      "confidence": 0.96069,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 87984,
+      "end": 88560,
+      "confidence": 0.96912,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 89250,
+      "end": 89542,
+      "confidence": 0.84576,
+      "speaker": null
+    },
+    {
+      "text": "crowded",
+      "start": 89556,
+      "end": 89978,
+      "confidence": 0.98308,
+      "speaker": null
+    },
+    {
+      "text": "rooms",
+      "start": 90014,
+      "end": 90278,
+      "confidence": 0.54827,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 90314,
+      "end": 90478,
+      "confidence": 0.94388,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 90504,
+      "end": 90622,
+      "confidence": 0.98871,
+      "speaker": null
+    },
+    {
+      "text": "lot",
+      "start": 90636,
+      "end": 90742,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 90756,
+      "end": 90898,
+      "confidence": 0.98796,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 90924,
+      "end": 91222,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 91296,
+      "end": 91498,
+      "confidence": 0.99802,
+      "speaker": null
+    },
+    {
+      "text": "particular",
+      "start": 91524,
+      "end": 91930,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 92040,
+      "end": 92314,
+      "confidence": 0.35253,
+      "speaker": null
+    },
+    {
+      "text": "open",
+      "start": 92352,
+      "end": 92554,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 92592,
+      "end": 92758,
+      "confidence": 0.86395,
+      "speaker": null
+    },
+    {
+      "text": "window,",
+      "start": 92784,
+      "end": 93490,
+      "confidence": 0.44541,
+      "speaker": null
+    },
+    {
+      "text": "also",
+      "start": 94050,
+      "end": 94522,
+      "confidence": 0.998,
+      "speaker": null
+    },
+    {
+      "text": "wearing",
+      "start": 94596,
+      "end": 94970,
+      "confidence": 0.55235,
+      "speaker": null
+    },
+    {
+      "text": "masks",
+      "start": 95030,
+      "end": 95378,
+      "confidence": 0.47872,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 95414,
+      "end": 95542,
+      "confidence": 0.98647,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 95556,
+      "end": 95698,
+      "confidence": 0.97907,
+      "speaker": null
+    },
+    {
+      "text": "cannot,",
+      "start": 95724,
+      "end": 96014,
+      "confidence": 0.97416,
+      "speaker": null
+    },
+    {
+      "text": "open",
+      "start": 96062,
+      "end": 96274,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 96312,
+      "end": 96478,
+      "confidence": 0.9276,
+      "speaker": null
+    },
+    {
+      "text": "window",
+      "start": 96504,
+      "end": 97094,
+      "confidence": 0.92135,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 97202,
+      "end": 97474,
+      "confidence": 0.99797,
+      "speaker": null
+    },
+    {
+      "text": "maintain",
+      "start": 97512,
+      "end": 98150,
+      "confidence": 0.57747,
+      "speaker": null
+    },
+    {
+      "text": "physical",
+      "start": 98270,
+      "end": 98786,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "distancing.",
+      "start": 98858,
+      "end": 99698,
+      "confidence": 0.37045,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 99854,
+      "end": 100282,
+      "confidence": 0.55914,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 100356,
+      "end": 100594,
+      "confidence": 0.37541,
+      "speaker": null
+    },
+    {
+      "text": "diseases",
+      "start": 100632,
+      "end": 100958,
+      "confidence": 0.47495,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 100994,
+      "end": 101158,
+      "confidence": 0.99472,
+      "speaker": null
+    },
+    {
+      "text": "really",
+      "start": 101184,
+      "end": 101410,
+      "confidence": 0.99566,
+      "speaker": null
+    },
+    {
+      "text": "preventable",
+      "start": 101460,
+      "end": 102050,
+      "confidence": 0.99313,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 102110,
+      "end": 102298,
+      "confidence": 0.99873,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 102324,
+      "end": 102478,
+      "confidence": 0.99501,
+      "speaker": null
+    },
+    {
+      "text": "apply",
+      "start": 102504,
+      "end": 102838,
+      "confidence": 0.65595,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 102924,
+      "end": 103462,
+      "confidence": 0.99787,
+      "speaker": null
+    },
+    {
+      "text": "measures.",
+      "start": 103596,
+      "end": 104438,
+      "confidence": 0.86243,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 104594,
+      "end": 104842,
+      "confidence": 0.59932,
+      "speaker": null
+    },
+    {
+      "text": "Sylvia",
+      "start": 104856,
+      "end": 105350,
+      "confidence": 0.42493,
+      "speaker": null
+    },
+    {
+      "text": "talked",
+      "start": 105410,
+      "end": 105634,
+      "confidence": 0.03597,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 105672,
+      "end": 105838,
+      "confidence": 0.99913,
+      "speaker": null
+    },
+    {
+      "text": "us",
+      "start": 105864,
+      "end": 106018,
+      "confidence": 0.99974,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 106044,
+      "end": 106306,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 106368,
+      "end": 106558,
+      "confidence": 0.99791,
+      "speaker": null
+    },
+    {
+      "text": "groups",
+      "start": 106584,
+      "end": 107018,
+      "confidence": 0.5499,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 107054,
+      "end": 107218,
+      "confidence": 0.99934,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 107244,
+      "end": 107542,
+      "confidence": 0.99859,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 107616,
+      "end": 107926,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 107988,
+      "end": 108214,
+      "confidence": 0.99768,
+      "speaker": null
+    },
+    {
+      "text": "risk",
+      "start": 108252,
+      "end": 108902,
+      "confidence": 0.99695,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 109046,
+      "end": 109354,
+      "confidence": 0.99887,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 109392,
+      "end": 109594,
+      "confidence": 0.99782,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 109632,
+      "end": 109970,
+      "confidence": 0.99128,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 110030,
+      "end": 110290,
+      "confidence": 0.98798,
+      "speaker": null
+    },
+    {
+      "text": "also",
+      "start": 110340,
+      "end": 110590,
+      "confidence": 0.99883,
+      "speaker": null
+    },
+    {
+      "text": "talk",
+      "start": 110640,
+      "end": 110854,
+      "confidence": 0.97068,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 110892,
+      "end": 111058,
+      "confidence": 0.99947,
+      "speaker": null
+    },
+    {
+      "text": "us",
+      "start": 111084,
+      "end": 111274,
+      "confidence": 0.99969,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 111312,
+      "end": 111586,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 111648,
+      "end": 111874,
+      "confidence": 0.99619,
+      "speaker": null
+    },
+    {
+      "text": "safety",
+      "start": 111912,
+      "end": 112586,
+      "confidence": 0.9983,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 112718,
+      "end": 113050,
+      "confidence": 0.9994,
+      "speaker": null
+    },
+    {
+      "text": "taking",
+      "start": 113100,
+      "end": 113638,
+      "confidence": 0.99948,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 113784,
+      "end": 114058,
+      "confidence": 0.99902,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 114084,
+      "end": 114338,
+      "confidence": 0.9986,
+      "speaker": null
+    },
+    {
+      "text": "vaccine.",
+      "start": 114374,
+      "end": 114854,
+      "confidence": 0.99951,
+      "speaker": null
+    },
+    {
+      "text": "For",
+      "start": 114902,
+      "end": 115078,
+      "confidence": 0.99436,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 115104,
+      "end": 115294,
+      "confidence": 0.99913,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 115332,
+      "end": 115534,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 115572,
+      "end": 115774,
+      "confidence": 0.61463,
+      "speaker": null
+    },
+    {
+      "text": "do",
+      "start": 115812,
+      "end": 116014,
+      "confidence": 0.99552,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 116052,
+      "end": 116254,
+      "confidence": 0.99974,
+      "speaker": null
+    },
+    {
+      "text": "access",
+      "start": 116292,
+      "end": 116602,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 116676,
+      "end": 116878,
+      "confidence": 0.99943,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 116904,
+      "end": 117058,
+      "confidence": 0.99597,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 117084,
+      "end": 117338,
+      "confidence": 0.99875,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 117374,
+      "end": 117902,
+      "confidence": 0.86112,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 117986,
+      "end": 118198,
+      "confidence": 0.99667,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 118224,
+      "end": 118342,
+      "confidence": 0.98584,
+      "speaker": null
+    },
+    {
+      "text": "COVID-19",
+      "start": 118356,
+      "end": 119126,
+      "confidence": 0.53,
+      "speaker": null
+    },
+    {
+      "text": "vaccine,",
+      "start": 119198,
+      "end": 119834,
+      "confidence": 0.97844,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 119942,
+      "end": 120178,
+      "confidence": 0.9822,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 120204,
+      "end": 120358,
+      "confidence": 0.98039,
+      "speaker": null
+    },
+    {
+      "text": "safe",
+      "start": 120384,
+      "end": 120602,
+      "confidence": 0.99918,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 120626,
+      "end": 120778,
+      "confidence": 0.99969,
+      "speaker": null
+    },
+    {
+      "text": "take",
+      "start": 120804,
+      "end": 120994,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "it?",
+      "start": 121032,
+      "end": 121594,
+      "confidence": 0.99736,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 121752,
+      "end": 122038,
+      "confidence": 0.65604,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 122064,
+      "end": 122218,
+      "confidence": 0.9979,
+      "speaker": null
+    },
+    {
+      "text": "group",
+      "start": 122244,
+      "end": 122470,
+      "confidence": 0.99916,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 122520,
+      "end": 122770,
+      "confidence": 0.99573,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 122820,
+      "end": 122998,
+      "confidence": 0.97134,
+      "speaker": null
+    },
+    {
+      "text": "risk",
+      "start": 123024,
+      "end": 123410,
+      "confidence": 0.96716,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 123470,
+      "end": 124090,
+      "confidence": 0.99041,
+      "speaker": null
+    },
+    {
+      "text": "influenza",
+      "start": 124260,
+      "end": 125270,
+      "confidence": 0.98514,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 125390,
+      "end": 126060,
+      "confidence": 0.86424,
+      "speaker": null
+    },
+    {
+      "text": "elderly",
+      "start": 126390,
+      "end": 127390,
+      "confidence": 0.53985,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 127830,
+      "end": 128266,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 128328,
+      "end": 128554,
+      "confidence": 0.99857,
+      "speaker": null
+    },
+    {
+      "text": "underlying",
+      "start": 128592,
+      "end": 129098,
+      "confidence": 0.67973,
+      "speaker": null
+    },
+    {
+      "text": "conditions",
+      "start": 129134,
+      "end": 129770,
+      "confidence": 0.53889,
+      "speaker": null
+    },
+    {
+      "text": "such",
+      "start": 129830,
+      "end": 130054,
+      "confidence": 0.99902,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 130092,
+      "end": 130680,
+      "confidence": 0.9747,
+      "speaker": null
+    },
+    {
+      "text": "chronic",
+      "start": 131310,
+      "end": 131858,
+      "confidence": 0.99916,
+      "speaker": null
+    },
+    {
+      "text": "respiratory",
+      "start": 131894,
+      "end": 132578,
+      "confidence": 0.98951,
+      "speaker": null
+    },
+    {
+      "text": "disease,",
+      "start": 132614,
+      "end": 133226,
+      "confidence": 0.29148,
+      "speaker": null
+    },
+    {
+      "text": "cancer,",
+      "start": 133358,
+      "end": 134230,
+      "confidence": 0.86662,
+      "speaker": null
+    },
+    {
+      "text": "cardiovascular",
+      "start": 134790,
+      "end": 135710,
+      "confidence": 0.92393,
+      "speaker": null
+    },
+    {
+      "text": "disease,",
+      "start": 135770,
+      "end": 136570,
+      "confidence": 0.56018,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 137550,
+      "end": 137914,
+      "confidence": 0.67742,
+      "speaker": null
+    },
+    {
+      "text": "these",
+      "start": 137952,
+      "end": 138154,
+      "confidence": 0.9843,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 138192,
+      "end": 138610,
+      "confidence": 0.99758,
+      "speaker": null
+    },
+    {
+      "text": "similar",
+      "start": 138720,
+      "end": 139102,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "groups",
+      "start": 139176,
+      "end": 139598,
+      "confidence": 0.4821,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 139634,
+      "end": 139798,
+      "confidence": 0.9897,
+      "speaker": null
+    },
+    {
+      "text": "COVID-19,",
+      "start": 139824,
+      "end": 140822,
+      "confidence": 0.61,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 140966,
+      "end": 141238,
+      "confidence": 0.94385,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 141264,
+      "end": 141454,
+      "confidence": 0.67378,
+      "speaker": null
+    },
+    {
+      "text": "flu.",
+      "start": 141492,
+      "end": 141890,
+      "confidence": 0.98219,
+      "speaker": null
+    },
+    {
+      "text": "In",
+      "start": 141950,
+      "end": 142102,
+      "confidence": 0.99783,
+      "speaker": null
+    },
+    {
+      "text": "addition,",
+      "start": 142116,
+      "end": 142810,
+      "confidence": 0.87789,
+      "speaker": null
+    },
+    {
+      "text": "pregnant",
+      "start": 143130,
+      "end": 143714,
+      "confidence": 0.99289,
+      "speaker": null
+    },
+    {
+      "text": "women",
+      "start": 143762,
+      "end": 144334,
+      "confidence": 0.98026,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 144492,
+      "end": 145030,
+      "confidence": 0.98466,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 145140,
+      "end": 145414,
+      "confidence": 0.99601,
+      "speaker": null
+    },
+    {
+      "text": "young",
+      "start": 145452,
+      "end": 145654,
+      "confidence": 0.99957,
+      "speaker": null
+    },
+    {
+      "text": "children,",
+      "start": 145692,
+      "end": 146038,
+      "confidence": 0.99947,
+      "speaker": null
+    },
+    {
+      "text": "infants",
+      "start": 146124,
+      "end": 146822,
+      "confidence": 0.7616,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 146966,
+      "end": 147202,
+      "confidence": 0.63031,
+      "speaker": null
+    },
+    {
+      "text": "also",
+      "start": 147216,
+      "end": 147430,
+      "confidence": 0.99461,
+      "speaker": null
+    },
+    {
+      "text": "more",
+      "start": 147480,
+      "end": 147694,
+      "confidence": 0.9938,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 147732,
+      "end": 147898,
+      "confidence": 0.9954,
+      "speaker": null
+    },
+    {
+      "text": "risk",
+      "start": 147924,
+      "end": 148178,
+      "confidence": 0.77951,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 148214,
+      "end": 148414,
+      "confidence": 0.99575,
+      "speaker": null
+    },
+    {
+      "text": "severe",
+      "start": 148452,
+      "end": 148778,
+      "confidence": 0.87103,
+      "speaker": null
+    },
+    {
+      "text": "disease.",
+      "start": 148814,
+      "end": 149282,
+      "confidence": 0.78046,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 149366,
+      "end": 149758,
+      "confidence": 0.71734,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 149844,
+      "end": 150058,
+      "confidence": 0.86054,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 150084,
+      "end": 150238,
+      "confidence": 0.99753,
+      "speaker": null
+    },
+    {
+      "text": "safe",
+      "start": 150264,
+      "end": 150518,
+      "confidence": 0.69587,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 150554,
+      "end": 150718,
+      "confidence": 0.99899,
+      "speaker": null
+    },
+    {
+      "text": "administer",
+      "start": 150744,
+      "end": 151478,
+      "confidence": 0.99897,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 151634,
+      "end": 151982,
+      "confidence": 0.23536,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 152006,
+      "end": 152378,
+      "confidence": 0.72567,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 152414,
+      "end": 152578,
+      "confidence": 0.67051,
+      "speaker": null
+    },
+    {
+      "text": "CoV",
+      "start": 152604,
+      "end": 152894,
+      "confidence": 0.86806,
+      "speaker": null
+    },
+    {
+      "text": "19",
+      "start": 152942,
+      "end": 152992,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 153007,
+      "end": 153057,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 153072,
+      "end": 153562,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "same",
+      "start": 153576,
+      "end": 153754,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "time?",
+      "start": 153792,
+      "end": 154354,
+      "confidence": 0.99975,
+      "speaker": null
+    },
+    {
+      "text": "Yes,",
+      "start": 154512,
+      "end": 155220,
+      "confidence": 0.99133,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 155610,
+      "end": 155938,
+      "confidence": 0.9986,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 155964,
+      "end": 156118,
+      "confidence": 0.99787,
+      "speaker": null
+    },
+    {
+      "text": "now",
+      "start": 156144,
+      "end": 156298,
+      "confidence": 0.97959,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 156324,
+      "end": 156406,
+      "confidence": 0.6074,
+      "speaker": null
+    },
+    {
+      "text": "few",
+      "start": 156408,
+      "end": 156610,
+      "confidence": 0.99752,
+      "speaker": null
+    },
+    {
+      "text": "studies",
+      "start": 156660,
+      "end": 157106,
+      "confidence": 0.99339,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 157178,
+      "end": 157450,
+      "confidence": 0.60215,
+      "speaker": null
+    },
+    {
+      "text": "show",
+      "start": 157500,
+      "end": 157786,
+      "confidence": 0.51915,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 157848,
+      "end": 158110,
+      "confidence": 0.99064,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 158160,
+      "end": 158302,
+      "confidence": 0.99401,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 158316,
+      "end": 158494,
+      "confidence": 0.98266,
+      "speaker": null
+    },
+    {
+      "text": "safe",
+      "start": 158532,
+      "end": 158774,
+      "confidence": 0.6958,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 158822,
+      "end": 159034,
+      "confidence": 0.96916,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 159072,
+      "end": 159274,
+      "confidence": 0.99964,
+      "speaker": null
+    },
+    {
+      "text": "both",
+      "start": 159312,
+      "end": 159514,
+      "confidence": 0.99887,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 159552,
+      "end": 159938,
+      "confidence": 0.9933,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 159974,
+      "end": 160102,
+      "confidence": 0.9988,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 160116,
+      "end": 160258,
+      "confidence": 0.57005,
+      "speaker": null
+    },
+    {
+      "text": "same",
+      "start": 160284,
+      "end": 160510,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "time.",
+      "start": 160560,
+      "end": 161242,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 161436,
+      "end": 161794,
+      "confidence": 0.96745,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 161832,
+      "end": 161962,
+      "confidence": 0.99667,
+      "speaker": null
+    },
+    {
+      "text": "course,",
+      "start": 161976,
+      "end": 162226,
+      "confidence": 0.98285,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 162288,
+      "end": 162586,
+      "confidence": 0.87681,
+      "speaker": null
+    },
+    {
+      "text": "need",
+      "start": 162648,
+      "end": 162838,
+      "confidence": 0.95252,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 162864,
+      "end": 163018,
+      "confidence": 0.9986,
+      "speaker": null
+    },
+    {
+      "text": "check",
+      "start": 163044,
+      "end": 163234,
+      "confidence": 0.99117,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 163272,
+      "end": 163474,
+      "confidence": 0.9994,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 163512,
+      "end": 163678,
+      "confidence": 0.6728,
+      "speaker": null
+    },
+    {
+      "text": "physician",
+      "start": 163704,
+      "end": 164390,
+      "confidence": 0.99796,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 164510,
+      "end": 164830,
+      "confidence": 0.99915,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 164880,
+      "end": 165130,
+      "confidence": 0.91389,
+      "speaker": null
+    },
+    {
+      "text": "indication",
+      "start": 165180,
+      "end": 166030,
+      "confidence": 0.96378,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 166350,
+      "end": 166678,
+      "confidence": 0.99926,
+      "speaker": null
+    },
+    {
+      "text": "take",
+      "start": 166704,
+      "end": 167038,
+      "confidence": 0.99751,
+      "speaker": null
+    },
+    {
+      "text": "both",
+      "start": 167124,
+      "end": 167410,
+      "confidence": 0.94087,
+      "speaker": null
+    },
+    {
+      "text": "vaccines.",
+      "start": 167460,
+      "end": 168194,
+      "confidence": 0.72124,
+      "speaker": null
+    },
+    {
+      "text": "Sylvia",
+      "start": 168302,
+      "end": 168758,
+      "confidence": 0.13668,
+      "speaker": null
+    },
+    {
+      "text": "talked",
+      "start": 168794,
+      "end": 168958,
+      "confidence": 0.04638,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 168984,
+      "end": 169138,
+      "confidence": 0.93679,
+      "speaker": null
+    },
+    {
+      "text": "us",
+      "start": 169164,
+      "end": 169462,
+      "confidence": 0.99945,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 169536,
+      "end": 169738,
+      "confidence": 0.85497,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 169764,
+      "end": 169918,
+      "confidence": 0.99919,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 169944,
+      "end": 170098,
+      "confidence": 0.99813,
+      "speaker": null
+    },
+    {
+      "text": "composition",
+      "start": 170124,
+      "end": 170738,
+      "confidence": 0.80418,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 170834,
+      "end": 171058,
+      "confidence": 0.99783,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 171084,
+      "end": 171382,
+      "confidence": 0.99123,
+      "speaker": null
+    },
+    {
+      "text": "influenza",
+      "start": 171456,
+      "end": 172022,
+      "confidence": 0.97393,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 172046,
+      "end": 172550,
+      "confidence": 0.9984,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 172610,
+      "end": 172834,
+      "confidence": 0.99597,
+      "speaker": null
+    },
+    {
+      "text": "decided",
+      "start": 172872,
+      "end": 173558,
+      "confidence": 0.86707,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 173714,
+      "end": 174034,
+      "confidence": 0.93771,
+      "speaker": null
+    },
+    {
+      "text": "also",
+      "start": 174072,
+      "end": 174274,
+      "confidence": 0.99857,
+      "speaker": null
+    },
+    {
+      "text": "speak",
+      "start": 174312,
+      "end": 174514,
+      "confidence": 0.99528,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 174552,
+      "end": 174682,
+      "confidence": 0.99907,
+      "speaker": null
+    },
+    {
+      "text": "us",
+      "start": 174696,
+      "end": 174838,
+      "confidence": 0.99776,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 174864,
+      "end": 174946,
+      "confidence": 0.9945,
+      "speaker": null
+    },
+    {
+      "text": "little",
+      "start": 174948,
+      "end": 175150,
+      "confidence": 0.84748,
+      "speaker": null
+    },
+    {
+      "text": "more",
+      "start": 175200,
+      "end": 175378,
+      "confidence": 0.99934,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 175404,
+      "end": 175630,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 175680,
+      "end": 175894,
+      "confidence": 0.98735,
+      "speaker": null
+    },
+    {
+      "text": "safety",
+      "start": 175932,
+      "end": 176222,
+      "confidence": 0.99903,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 176246,
+      "end": 176362,
+      "confidence": 0.99736,
+      "speaker": null
+    },
+    {
+      "text": "efficacy",
+      "start": 176376,
+      "end": 176894,
+      "confidence": 0.84388,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 176942,
+      "end": 177082,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 177096,
+      "end": 177202,
+      "confidence": 0.93739,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 177216,
+      "end": 177422,
+      "confidence": 0.9953,
+      "speaker": null
+    },
+    {
+      "text": "vaccine.",
+      "start": 177446,
+      "end": 178214,
+      "confidence": 0.56987,
+      "speaker": null
+    },
+    {
+      "text": "There",
+      "start": 178382,
+      "end": 178642,
+      "confidence": 0.99894,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 178656,
+      "end": 178834,
+      "confidence": 0.6533,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 178872,
+      "end": 179460,
+      "confidence": 0.79685,
+      "speaker": null
+    },
+    {
+      "text": "different",
+      "start": 179970,
+      "end": 180622,
+      "confidence": 0.99883,
+      "speaker": null
+    },
+    {
+      "text": "influenza",
+      "start": 180756,
+      "end": 181418,
+      "confidence": 0.95685,
+      "speaker": null
+    },
+    {
+      "text": "viruses",
+      "start": 181454,
+      "end": 182006,
+      "confidence": 0.78495,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 182078,
+      "end": 182314,
+      "confidence": 0.99956,
+      "speaker": null
+    },
+    {
+      "text": "there,",
+      "start": 182352,
+      "end": 182878,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 183024,
+      "end": 183370,
+      "confidence": 0.76492,
+      "speaker": null
+    },
+    {
+      "text": "actually",
+      "start": 183420,
+      "end": 183850,
+      "confidence": 0.99768,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 183960,
+      "end": 184306,
+      "confidence": 0.98448,
+      "speaker": null
+    },
+    {
+      "text": "change",
+      "start": 184368,
+      "end": 184738,
+      "confidence": 0.99944,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 184824,
+      "end": 185110,
+      "confidence": 0.99537,
+      "speaker": null
+    },
+    {
+      "text": "often.",
+      "start": 185160,
+      "end": 185734,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 185892,
+      "end": 186178,
+      "confidence": 0.72668,
+      "speaker": null
+    },
+    {
+      "text": "so",
+      "start": 186204,
+      "end": 186394,
+      "confidence": 0.94958,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 186432,
+      "end": 186598,
+      "confidence": 0.99542,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 186624,
+      "end": 186814,
+      "confidence": 0.78396,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 186852,
+      "end": 187054,
+      "confidence": 0.9941,
+      "speaker": null
+    },
+    {
+      "text": "important",
+      "start": 187092,
+      "end": 187546,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 187668,
+      "end": 187990,
+      "confidence": 0.55704,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 188040,
+      "end": 188218,
+      "confidence": 0.99079,
+      "speaker": null
+    },
+    {
+      "text": "know",
+      "start": 188244,
+      "end": 188820,
+      "confidence": 0.99847,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 189270,
+      "end": 189742,
+      "confidence": 0.99882,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 189816,
+      "end": 190090,
+      "confidence": 0.99335,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 190140,
+      "end": 190318,
+      "confidence": 0.99514,
+      "speaker": null
+    },
+    {
+      "text": "predominant",
+      "start": 190344,
+      "end": 191006,
+      "confidence": 0.90496,
+      "speaker": null
+    },
+    {
+      "text": "viruses",
+      "start": 191078,
+      "end": 191654,
+      "confidence": 0.99749,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 191702,
+      "end": 191878,
+      "confidence": 0.99633,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 191904,
+      "end": 192058,
+      "confidence": 0.97772,
+      "speaker": null
+    },
+    {
+      "text": "given",
+      "start": 192084,
+      "end": 192598,
+      "confidence": 0.9996,
+      "speaker": null
+    },
+    {
+      "text": "setting",
+      "start": 192744,
+      "end": 193430,
+      "confidence": 0.98399,
+      "speaker": null
+    },
+    {
+      "text": "so",
+      "start": 193550,
+      "end": 193798,
+      "confidence": 0.95177,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 193824,
+      "end": 194050,
+      "confidence": 0.99571,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 194100,
+      "end": 194314,
+      "confidence": 0.99873,
+      "speaker": null
+    },
+    {
+      "text": "can",
+      "start": 194352,
+      "end": 194626,
+      "confidence": 0.99833,
+      "speaker": null
+    },
+    {
+      "text": "take",
+      "start": 194688,
+      "end": 195300,
+      "confidence": 0.99809,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 195630,
+      "end": 196030,
+      "confidence": 0.98824,
+      "speaker": null
+    },
+    {
+      "text": "antigen",
+      "start": 196080,
+      "end": 196670,
+      "confidence": 0.53717,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 196730,
+      "end": 196882,
+      "confidence": 0.94756,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 196896,
+      "end": 197110,
+      "confidence": 0.53665,
+      "speaker": null
+    },
+    {
+      "text": "virus",
+      "start": 197160,
+      "end": 197606,
+      "confidence": 0.99825,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 197678,
+      "end": 198300,
+      "confidence": 0.95449,
+      "speaker": null
+    },
+    {
+      "text": "compose",
+      "start": 200190,
+      "end": 200678,
+      "confidence": 0.99294,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 200714,
+      "end": 200878,
+      "confidence": 0.48412,
+      "speaker": null
+    },
+    {
+      "text": "vaccine.",
+      "start": 200904,
+      "end": 201746,
+      "confidence": 0.68291,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 201938,
+      "end": 202690,
+      "confidence": 0.63454,
+      "speaker": null
+    },
+    {
+      "text": "that's",
+      "start": 202860,
+      "end": 203222,
+      "confidence": 0.95849,
+      "speaker": null
+    },
+    {
+      "text": "why",
+      "start": 203246,
+      "end": 203434,
+      "confidence": 0.99598,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 203472,
+      "end": 203674,
+      "confidence": 0.67067,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 203712,
+      "end": 203914,
+      "confidence": 0.99742,
+      "speaker": null
+    },
+    {
+      "text": "around",
+      "start": 203952,
+      "end": 204226,
+      "confidence": 0.98426,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 204288,
+      "end": 204478,
+      "confidence": 0.99834,
+      "speaker": null
+    },
+    {
+      "text": "world",
+      "start": 204504,
+      "end": 204802,
+      "confidence": 0.99915,
+      "speaker": null
+    },
+    {
+      "text": "136",
+      "start": 204876,
+      "end": 206206,
+      "confidence": 0.96,
+      "speaker": null
+    },
+    {
+      "text": "laboratory",
+      "start": 206268,
+      "end": 207122,
+      "confidence": 0.87914,
+      "speaker": null
+    },
+    {
+      "text": "constantly",
+      "start": 207206,
+      "end": 207866,
+      "confidence": 0.95953,
+      "speaker": null
+    },
+    {
+      "text": "monitoring",
+      "start": 207938,
+      "end": 208826,
+      "confidence": 0.67263,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 208958,
+      "end": 209182,
+      "confidence": 0.93302,
+      "speaker": null
+    },
+    {
+      "text": "circulating",
+      "start": 209196,
+      "end": 209882,
+      "confidence": 0.55027,
+      "speaker": null
+    },
+    {
+      "text": "viruses.",
+      "start": 209966,
+      "end": 210950,
+      "confidence": 0.17867,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 211130,
+      "end": 211510,
+      "confidence": 0.80596,
+      "speaker": null
+    },
+    {
+      "text": "twice",
+      "start": 211560,
+      "end": 211838,
+      "confidence": 0.99387,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 211874,
+      "end": 212038,
+      "confidence": 0.62521,
+      "speaker": null
+    },
+    {
+      "text": "year",
+      "start": 212064,
+      "end": 212326,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 212388,
+      "end": 212578,
+      "confidence": 0.9977,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 212604,
+      "end": 212794,
+      "confidence": 0.99614,
+      "speaker": null
+    },
+    {
+      "text": "experts",
+      "start": 212832,
+      "end": 213254,
+      "confidence": 0.41084,
+      "speaker": null
+    },
+    {
+      "text": "meeting",
+      "start": 213302,
+      "end": 213746,
+      "confidence": 0.7188,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 213818,
+      "end": 214090,
+      "confidence": 0.99328,
+      "speaker": null
+    },
+    {
+      "text": "define",
+      "start": 214140,
+      "end": 214990,
+      "confidence": 0.52981,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 215550,
+      "end": 215950,
+      "confidence": 0.85037,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 216000,
+      "end": 216214,
+      "confidence": 0.99715,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 216252,
+      "end": 216418,
+      "confidence": 0.99649,
+      "speaker": null
+    },
+    {
+      "text": "predominant",
+      "start": 216444,
+      "end": 217214,
+      "confidence": 0.98782,
+      "speaker": null
+    },
+    {
+      "text": "viruses",
+      "start": 217322,
+      "end": 218006,
+      "confidence": 0.9655,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 218078,
+      "end": 218278,
+      "confidence": 0.99877,
+      "speaker": null
+    },
+    {
+      "text": "certain",
+      "start": 218304,
+      "end": 218602,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "places",
+      "start": 218676,
+      "end": 219074,
+      "confidence": 0.58178,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 219122,
+      "end": 219262,
+      "confidence": 0.99744,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 219276,
+      "end": 219418,
+      "confidence": 0.99869,
+      "speaker": null
+    },
+    {
+      "text": "world.",
+      "start": 219444,
+      "end": 220102,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 220296,
+      "end": 220798,
+      "confidence": 0.71215,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 220884,
+      "end": 221170,
+      "confidence": 0.99852,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 221220,
+      "end": 221542,
+      "confidence": 0.99926,
+      "speaker": null
+    },
+    {
+      "text": "two",
+      "start": 221616,
+      "end": 221926,
+      "confidence": 0.9904,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 221988,
+      "end": 222398,
+      "confidence": 0.9736,
+      "speaker": null
+    },
+    {
+      "text": "composition",
+      "start": 222434,
+      "end": 222986,
+      "confidence": 0.95678,
+      "speaker": null
+    },
+    {
+      "text": "meetings",
+      "start": 223058,
+      "end": 223454,
+      "confidence": 0.68532,
+      "speaker": null
+    },
+    {
+      "text": "per",
+      "start": 223502,
+      "end": 223678,
+      "confidence": 0.99893,
+      "speaker": null
+    },
+    {
+      "text": "year,",
+      "start": 223704,
+      "end": 223966,
+      "confidence": 0.99961,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 224028,
+      "end": 224254,
+      "confidence": 0.99863,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 224292,
+      "end": 224458,
+      "confidence": 0.99856,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 224484,
+      "end": 224638,
+      "confidence": 0.83305,
+      "speaker": null
+    },
+    {
+      "text": "Northern",
+      "start": 224664,
+      "end": 225014,
+      "confidence": 0.67931,
+      "speaker": null
+    },
+    {
+      "text": "hemisphere",
+      "start": 225062,
+      "end": 225698,
+      "confidence": 0.43088,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 225794,
+      "end": 226054,
+      "confidence": 0.9908,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 226092,
+      "end": 226294,
+      "confidence": 0.99873,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 226332,
+      "end": 226498,
+      "confidence": 0.99909,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 226524,
+      "end": 226678,
+      "confidence": 0.9838,
+      "speaker": null
+    },
+    {
+      "text": "Southern",
+      "start": 226704,
+      "end": 227114,
+      "confidence": 0.27872,
+      "speaker": null
+    },
+    {
+      "text": "hemisphere.",
+      "start": 227162,
+      "end": 228002,
+      "confidence": 0.97495,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 228146,
+      "end": 228382,
+      "confidence": 0.65271,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 228396,
+      "end": 228502,
+      "confidence": 0.99302,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 228516,
+      "end": 228722,
+      "confidence": 0.82996,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 228746,
+      "end": 229118,
+      "confidence": 0.82452,
+      "speaker": null
+    },
+    {
+      "text": "has",
+      "start": 229154,
+      "end": 229354,
+      "confidence": 0.84641,
+      "speaker": null
+    },
+    {
+      "text": "existed",
+      "start": 229392,
+      "end": 229850,
+      "confidence": 0.74674,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 229910,
+      "end": 230134,
+      "confidence": 0.99819,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 230172,
+      "end": 230410,
+      "confidence": 0.99977,
+      "speaker": null
+    },
+    {
+      "text": "decades",
+      "start": 230460,
+      "end": 230894,
+      "confidence": 0.91396,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 230942,
+      "end": 231118,
+      "confidence": 0.95149,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 231144,
+      "end": 231302,
+      "confidence": 0.58153,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 231326,
+      "end": 231478,
+      "confidence": 0.97108,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 231504,
+      "end": 231730,
+      "confidence": 0.99902,
+      "speaker": null
+    },
+    {
+      "text": "safe",
+      "start": 231780,
+      "end": 232058,
+      "confidence": 0.9988,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 232094,
+      "end": 232718,
+      "confidence": 0.9935,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 232814,
+      "end": 233038,
+      "confidence": 0.89882,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 233064,
+      "end": 233282,
+      "confidence": 0.72881,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 233306,
+      "end": 233494,
+      "confidence": 0.99876,
+      "speaker": null
+    },
+    {
+      "text": "important",
+      "start": 233532,
+      "end": 233878,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 233964,
+      "end": 234178,
+      "confidence": 0.99468,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 234204,
+      "end": 234394,
+      "confidence": 0.56874,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 234432,
+      "end": 234670,
+      "confidence": 0.95189,
+      "speaker": null
+    },
+    {
+      "text": "experts",
+      "start": 234720,
+      "end": 235058,
+      "confidence": 0.71982,
+      "speaker": null
+    },
+    {
+      "text": "meeting",
+      "start": 235094,
+      "end": 235478,
+      "confidence": 0.51962,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 235514,
+      "end": 235678,
+      "confidence": 0.99449,
+      "speaker": null
+    },
+    {
+      "text": "define",
+      "start": 235704,
+      "end": 236102,
+      "confidence": 0.99583,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 236126,
+      "end": 236278,
+      "confidence": 0.99044,
+      "speaker": null
+    },
+    {
+      "text": "composition",
+      "start": 236304,
+      "end": 236810,
+      "confidence": 0.82992,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 236870,
+      "end": 237058,
+      "confidence": 0.99889,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 237084,
+      "end": 237202,
+      "confidence": 0.62899,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 237216,
+      "end": 237830,
+      "confidence": 0.73442,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 237950,
+      "end": 238198,
+      "confidence": 0.99895,
+      "speaker": null
+    },
+    {
+      "text": "make",
+      "start": 238224,
+      "end": 238378,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "sure",
+      "start": 238404,
+      "end": 238558,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 238584,
+      "end": 238738,
+      "confidence": 0.99104,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 238764,
+      "end": 238954,
+      "confidence": 0.96935,
+      "speaker": null
+    },
+    {
+      "text": "put",
+      "start": 238992,
+      "end": 239410,
+      "confidence": 0.99941,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 239520,
+      "end": 239722,
+      "confidence": 0.99572,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 239736,
+      "end": 239878,
+      "confidence": 0.95967,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 239904,
+      "end": 240494,
+      "confidence": 0.91719,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 240602,
+      "end": 240838,
+      "confidence": 0.9962,
+      "speaker": null
+    },
+    {
+      "text": "component",
+      "start": 240864,
+      "end": 241370,
+      "confidence": 0.9955,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 241430,
+      "end": 241654,
+      "confidence": 0.99806,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 241692,
+      "end": 241894,
+      "confidence": 0.98997,
+      "speaker": null
+    },
+    {
+      "text": "really",
+      "start": 241932,
+      "end": 242242,
+      "confidence": 0.9706,
+      "speaker": null
+    },
+    {
+      "text": "better",
+      "start": 242316,
+      "end": 242626,
+      "confidence": 0.99838,
+      "speaker": null
+    },
+    {
+      "text": "protect",
+      "start": 242688,
+      "end": 242986,
+      "confidence": 0.9992,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 243048,
+      "end": 243454,
+      "confidence": 0.98131,
+      "speaker": null
+    },
+    {
+      "text": "against",
+      "start": 243552,
+      "end": 243994,
+      "confidence": 0.99861,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 244092,
+      "end": 244282,
+      "confidence": 0.88253,
+      "speaker": null
+    },
+    {
+      "text": "circulating",
+      "start": 244296,
+      "end": 244922,
+      "confidence": 0.41673,
+      "speaker": null
+    },
+    {
+      "text": "viruses",
+      "start": 245006,
+      "end": 245594,
+      "confidence": 0.78919,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 245642,
+      "end": 245782,
+      "confidence": 0.99854,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 245796,
+      "end": 245902,
+      "confidence": 0.94442,
+      "speaker": null
+    },
+    {
+      "text": "given",
+      "start": 245916,
+      "end": 246202,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "time",
+      "start": 246276,
+      "end": 246838,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 246984,
+      "end": 247294,
+      "confidence": 0.61576,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 247332,
+      "end": 247534,
+      "confidence": 0.96028,
+      "speaker": null
+    },
+    {
+      "text": "vaccine",
+      "start": 247572,
+      "end": 247994,
+      "confidence": 0.55959,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 248042,
+      "end": 248254,
+      "confidence": 0.99259,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 248292,
+      "end": 248566,
+      "confidence": 0.99562,
+      "speaker": null
+    },
+    {
+      "text": "recommended",
+      "start": 248628,
+      "end": 249314,
+      "confidence": 0.99877,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 249362,
+      "end": 249646,
+      "confidence": 0.99588,
+      "speaker": null
+    },
+    {
+      "text": "hate",
+      "start": 249708,
+      "end": 250130,
+      "confidence": 0.07695,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 250190,
+      "end": 250666,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "so",
+      "start": 250788,
+      "end": 251038,
+      "confidence": 0.99312,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 251064,
+      "end": 251218,
+      "confidence": 0.99011,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 251244,
+      "end": 251398,
+      "confidence": 0.99063,
+      "speaker": null
+    },
+    {
+      "text": "can",
+      "start": 251424,
+      "end": 251614,
+      "confidence": 0.99864,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 251652,
+      "end": 251854,
+      "confidence": 0.99817,
+      "speaker": null
+    },
+    {
+      "text": "protected",
+      "start": 251892,
+      "end": 252374,
+      "confidence": 0.70748,
+      "speaker": null
+    },
+    {
+      "text": "against",
+      "start": 252422,
+      "end": 252706,
+      "confidence": 0.98969,
+      "speaker": null
+    },
+    {
+      "text": "severe",
+      "start": 252768,
+      "end": 253142,
+      "confidence": 0.86697,
+      "speaker": null
+    },
+    {
+      "text": "flu",
+      "start": 253166,
+      "end": 253478,
+      "confidence": 0.98792,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 253514,
+      "end": 253678,
+      "confidence": 0.99565,
+      "speaker": null
+    },
+    {
+      "text": "death",
+      "start": 253704,
+      "end": 254210,
+      "confidence": 0.99338,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 254330,
+      "end": 254614,
+      "confidence": 0.99599,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 254652,
+      "end": 254818,
+      "confidence": 0.9929,
+      "speaker": null
+    },
+    {
+      "text": "season",
+      "start": 254844,
+      "end": 255110,
+      "confidence": 0.99859,
+      "speaker": null
+    },
+    {
+      "text": "starts.",
+      "start": 255170,
+      "end": 255974,
+      "confidence": 0.78589,
+      "speaker": null
+    },
+    {
+      "text": "Thank",
+      "start": 256142,
+      "end": 256438,
+      "confidence": 0.99923,
+      "speaker": null
+    },
+    {
+      "text": "you,",
+      "start": 256464,
+      "end": 256654,
+      "confidence": 0.99847,
+      "speaker": null
+    },
+    {
+      "text": "Sylvia.",
+      "start": 256692,
+      "end": 257210,
+      "confidence": 0.37783,
+      "speaker": null
+    },
+    {
+      "text": "That",
+      "start": 257270,
+      "end": 257458,
+      "confidence": 0.98129,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 257484,
+      "end": 257674,
+      "confidence": 0.95924,
+      "speaker": null
+    },
+    {
+      "text": "signed",
+      "start": 257712,
+      "end": 258002,
+      "confidence": 0.61903,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 258026,
+      "end": 258214,
+      "confidence": 0.4006,
+      "speaker": null
+    },
+    {
+      "text": "five",
+      "start": 258252,
+      "end": 258526,
+      "confidence": 0.98214,
+      "speaker": null
+    },
+    {
+      "text": "today.",
+      "start": 258588,
+      "end": 258994,
+      "confidence": 0.99592,
+      "speaker": null
+    },
+    {
+      "text": "Until",
+      "start": 259092,
+      "end": 259534,
+      "confidence": 0.98261,
+      "speaker": null
+    },
+    {
+      "text": "next",
+      "start": 259632,
+      "end": 259894,
+      "confidence": 0.91189,
+      "speaker": null
+    },
+    {
+      "text": "time,",
+      "start": 259932,
+      "end": 260170,
+      "confidence": 0.99247,
+      "speaker": null
+    },
+    {
+      "text": "then",
+      "start": 260220,
+      "end": 260506,
+      "confidence": 0.99079,
+      "speaker": null
+    },
+    {
+      "text": "stay",
+      "start": 260568,
+      "end": 260866,
+      "confidence": 0.9785,
+      "speaker": null
+    },
+    {
+      "text": "safe,",
+      "start": 260928,
+      "end": 261506,
+      "confidence": 0.99643,
+      "speaker": null
+    },
+    {
+      "text": "stay",
+      "start": 261638,
+      "end": 261970,
+      "confidence": 0.92528,
+      "speaker": null
+    },
+    {
+      "text": "healthy",
+      "start": 262020,
+      "end": 262526,
+      "confidence": 0.95631,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 262598,
+      "end": 262834,
+      "confidence": 0.99653,
+      "speaker": null
+    },
+    {
+      "text": "stick",
+      "start": 262872,
+      "end": 263102,
+      "confidence": 0.99909,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 263126,
+      "end": 263314,
+      "confidence": 0.99361,
+      "speaker": null
+    },
+    {
+      "text": "sides.",
+      "start": 263352,
+      "end": 263630,
+      "confidence": 0.74009,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.879744919354838,
+  "audio_duration": 267,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "content_safety": false,
+  "iab_categories": true,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "success",
+    "results": [
+      {
+        "text": "As flu season is starting in many parts of the world, how would you know if you have flu or COVID-19? Hello and welcome to Science in Five. I'm Vic Smith. Aguptas Smith. We are talking to Dr. Philbin Ryan about flu and covid 19 today. Welcome, Sylvie. Sylvie, let's start with how would people know if they have caught the flu or COVID-19?",
+        "labels": [
+          {
+            "relevance": 0.9934219717979431,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          {
+            "relevance": 0.01150410808622837,
+            "label": "MedicalHealth>Vaccines"
+          },
+          {
+            "relevance": 0.00272546848282218,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          { "relevance": 0.0022429279051721096, "label": "MedicalHealth" },
+          { "relevance": 0.0019800690934062004, "label": "HealthyLiving" },
+          {
+            "relevance": 0.0019388848450034857,
+            "label": "MedicalHealth>MedicalTests"
+          },
+          {
+            "relevance": 0.0016931589925661683,
+            "label": "MedicalHealth>DiseasesAndConditions"
+          },
+          {
+            "relevance": 0.00149943504948169,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.0011753006838262081,
+            "label": "NewsAndPolitics>Weather"
+          },
+          {
+            "relevance": 0.0011512761702761054,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          }
+        ],
+        "timestamp": { "start": 6590, "end": 29930 }
+      },
+      {
+        "text": "So the flu is very common, especially in the season, and usually the symptoms are fever, headache, muscle ache, but also upper respiratory symptoms such as sneezing and coughing for coffee. 19 It's the same symptom, basically, but in addition, we have specific symptoms such as anosmia, which is a lack of smell and agosia, which is a lack of taste. And many people, especially young people, have experienced this additional and specific symptoms for COVID-19.",
+        "labels": [
+          {
+            "relevance": 0.9952268600463867,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          {
+            "relevance": 0.06698160618543625,
+            "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"
+          },
+          {
+            "relevance": 0.009519935585558414,
+            "label": "MedicalHealth>DiseasesAndConditions"
+          },
+          {
+            "relevance": 0.005158357787877321,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          },
+          {
+            "relevance": 0.00383994379080832,
+            "label": "MedicalHealth>DiseasesAndConditions>SleepDisorders"
+          },
+          {
+            "relevance": 0.002847677329555154,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.0024344606790691614,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.001988748786970973,
+            "label": "MedicalHealth>DiseasesAndConditions>Allergies"
+          },
+          {
+            "relevance": 0.0015564055647701025,
+            "label": "MedicalHealth>MedicalTests"
+          },
+          {
+            "relevance": 0.0015378176467493176,
+            "label": "MedicalHealth>DiseasesAndConditions>MentalHealth"
+          }
+        ],
+        "timestamp": { "start": 30110, "end": 66986 }
+      },
+      {
+        "text": "But sometimes people have very few symptoms, whether it's for flu or for COVID-19. It really depends on your level of immunity. What is important to know really for those two diseases is that the prevention measure works for both of them and especially washing hands. It's very important then ventilation of rooms when you are in crowded rooms with a lot of people in particular to open the window, also wearing masks if you cannot, open the window and maintain physical distancing.",
+        "labels": [
+          {
+            "relevance": 0.9957011342048645,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          {
+            "relevance": 0.27383267879486084,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          },
+          {
+            "relevance": 0.10756775736808777,
+            "label": "MedicalHealth>Vaccines"
+          },
+          {
+            "relevance": 0.02740667201578617,
+            "label": "Home&Garden>IndoorEnvironmentalQuality"
+          },
+          {
+            "relevance": 0.018308624625205994,
+            "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"
+          },
+          { "relevance": 0.016435645520687103, "label": "HealthyLiving" },
+          {
+            "relevance": 0.007850326597690582,
+            "label": "MedicalHealth>DiseasesAndConditions"
+          },
+          {
+            "relevance": 0.0035717987921088934,
+            "label": "MedicalHealth>DiseasesAndConditions>Allergies"
+          },
+          { "relevance": 0.0033306076657027006, "label": "MedicalHealth" },
+          {
+            "relevance": 0.002087322762235999,
+            "label": "MedicalHealth>DiseasesAndConditions>MentalHealth"
+          }
+        ],
+        "timestamp": { "start": 67178, "end": 99698 }
+      },
+      {
+        "text": "And those diseases are really preventable if we apply those measures. So Sylvia talked to us about the groups that are most at risk from the flu and also talk to us about the safety of taking the flu vaccine. For those people who do have access to the flu vaccine and the COVID-19 vaccine, is it safe to take it?",
+        "labels": [
+          {
+            "relevance": 0.9970280528068542,
+            "label": "MedicalHealth>Vaccines"
+          },
+          {
+            "relevance": 0.9955101013183594,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          {
+            "relevance": 0.043003253638744354,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          },
+          { "relevance": 0.018329156562685966, "label": "HealthyLiving" },
+          { "relevance": 0.003971520811319351, "label": "MedicalHealth" },
+          {
+            "relevance": 0.0014611190417781472,
+            "label": "MedicalHealth>DiseasesAndConditions"
+          },
+          {
+            "relevance": 0.0013541505904868245,
+            "label": "HealthyLiving>Women'sHealth"
+          },
+          {
+            "relevance": 0.0011788938427343965,
+            "label": "MedicalHealth>DiseasesAndConditions>SexualHealth"
+          },
+          {
+            "relevance": 0.000996773480437696,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.0009960883762687445,
+            "label": "HealthyLiving>Wellness>AlternativeMedicine>HolisticHealth"
+          }
+        ],
+        "timestamp": { "start": 99854, "end": 121594 }
+      },
+      {
+        "text": "So the group most at risk for influenza are elderly people with underlying conditions such as chronic respiratory disease, cancer, cardiovascular disease, and these are similar groups for COVID-19, but for flu. In addition, pregnant women and very young children, infants are also more at risk for severe disease. So is it safe to administer flu vaccine and CoV 19 at the same time? Yes, we have now a few studies that show that it is safe to have both vaccine at the same time.",
+        "labels": [
+          {
+            "relevance": 0.9975019097328186,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          { "relevance": 0.964508593082428, "label": "MedicalHealth>Vaccines" },
+          {
+            "relevance": 0.00391492061316967,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          },
+          {
+            "relevance": 0.0015338938683271408,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          { "relevance": 0.0014326694654300809, "label": "HealthyLiving" },
+          {
+            "relevance": 0.0010871211998164654,
+            "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"
+          },
+          {
+            "relevance": 0.0010237317765131593,
+            "label": "MedicalHealth>DiseasesAndConditions"
+          },
+          {
+            "relevance": 0.0007118148496374488,
+            "label": "MedicalHealth>DiseasesAndConditions>ReproductiveHealth>Pregnancy"
+          },
+          {
+            "relevance": 0.0006901806336827576,
+            "label": "MedicalHealth>MedicalTests"
+          },
+          { "relevance": 0.0006685886182822287, "label": "MedicalHealth" }
+        ],
+        "timestamp": { "start": 121752, "end": 161242 }
+      },
+      {
+        "text": "But of course, people need to check with their physician about their indication to take both vaccines. Sylvia talked to us about how the composition of the influenza vaccine is decided and also speak to us a little more about the safety and efficacy of the flu vaccine. There are many different influenza viruses out there, and actually they change very often. And so what is very important is to know what are the predominant viruses in a given setting so that we can take the antigen of this virus to compose the vaccine.",
+        "labels": [
+          {
+            "relevance": 0.9988483190536499,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          {
+            "relevance": 0.9513214826583862,
+            "label": "MedicalHealth>Vaccines"
+          },
+          {
+            "relevance": 0.006837424822151661,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          },
+          {
+            "relevance": 0.002810962963849306,
+            "label": "MedicalHealth>MedicalTests"
+          },
+          { "relevance": 0.0012817821698263288, "label": "MedicalHealth" },
+          {
+            "relevance": 0.000692838744726032,
+            "label": "MedicalHealth>DiseasesAndConditions"
+          },
+          {
+            "relevance": 0.0005629599327221513,
+            "label": "Automotive>AutoType"
+          },
+          {
+            "relevance": 0.0004486174148041755,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.00040421035373583436,
+            "label": "Travel>TravelType>Camping"
+          },
+          { "relevance": 0.0004039214691147208, "label": "HealthyLiving" }
+        ],
+        "timestamp": { "start": 161436, "end": 201746 }
+      },
+      {
+        "text": "So that's why we have around the world 136 laboratory constantly monitoring the circulating viruses. And twice a year we have experts meeting to define what are the predominant viruses in certain places of the world. So we have two vaccine composition meetings per year, one for the Northern hemisphere and one for the Southern hemisphere.",
+        "labels": [
+          {
+            "relevance": 0.9955109357833862,
+            "label": "MedicalHealth>Vaccines"
+          },
+          {
+            "relevance": 0.9921115636825562,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          {
+            "relevance": 0.11143791675567627,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          },
+          {
+            "relevance": 0.0011466743890196085,
+            "label": "MedicalHealth>MedicalTests"
+          },
+          {
+            "relevance": 0.00043713272316381335,
+            "label": "Automotive>AutoType"
+          },
+          {
+            "relevance": 0.00040912299300543964,
+            "label": "BusinessAndFinance>Industries>BiotechAndBiomedicalIndustry"
+          },
+          {
+            "relevance": 0.0003978556487709284,
+            "label": "MedicalHealth>DiseasesAndConditions>SexualHealth>SexualConditions"
+          },
+          {
+            "relevance": 0.0002969010383822024,
+            "label": "EventsAndAttractions>FashionEvents"
+          },
+          {
+            "relevance": 0.00025878564338199794,
+            "label": "VideoGaming>ESports"
+          },
+          {
+            "relevance": 0.0002248768723802641,
+            "label": "BusinessAndFinance>Business"
+          }
+        ],
+        "timestamp": { "start": 201938, "end": 228002 }
+      },
+      {
+        "text": "So the flu vaccine has existed for many decades and it's a very safe vaccine but it's very important to have those experts meeting to define the composition of the vaccine to make sure that we put in the vaccine the component that will really better protect people against the circulating viruses at a given time and this vaccine is very recommended to hate people so that they can be protected against severe flu and death when the season starts. Thank you, Sylvia. That was signed in five today.",
+        "labels": [
+          {
+            "relevance": 0.9973406195640564,
+            "label": "MedicalHealth>Vaccines"
+          },
+          {
+            "relevance": 0.9959089756011963,
+            "label": "MedicalHealth>DiseasesAndConditions>ColdAndFlu"
+          },
+          {
+            "relevance": 0.0037168352864682674,
+            "label": "MedicalHealth>DiseasesAndConditions>InfectiousDiseases"
+          },
+          { "relevance": 0.000988341635093093, "label": "MedicalHealth" },
+          { "relevance": 0.0005153742386028171, "label": "HealthyLiving" },
+          {
+            "relevance": 0.0005094533553346992,
+            "label": "Automotive>AutoType"
+          },
+          {
+            "relevance": 0.00047103362157940865,
+            "label": "MedicalHealth>MedicalTests"
+          },
+          {
+            "relevance": 0.0004601237887982279,
+            "label": "BusinessAndFinance>Business>ConsumerIssues>Recalls"
+          },
+          {
+            "relevance": 0.0004238139954395592,
+            "label": "BusinessAndFinance>Industries>PharmaceuticalIndustry"
+          },
+          {
+            "relevance": 0.00037928929668851197,
+            "label": "EventsAndAttractions>FashionEvents"
+          }
+        ],
+        "timestamp": { "start": 228146, "end": 258994 }
+      },
+      {
+        "text": "Until next time, then stay safe, stay healthy and stick with sides.",
+        "labels": [
+          {
+            "relevance": 0.0078013003803789616,
+            "label": "MedicalHealth>DiseasesAndConditions>Injuries"
+          },
+          {
+            "relevance": 0.005727242678403854,
+            "label": "NewsAndPolitics>Politics>WarAndConflicts"
+          },
+          {
+            "relevance": 0.0036883000284433365,
+            "label": "NewsAndPolitics>Disasters"
+          },
+          { "relevance": 0.0022272819187492132, "label": "Sports" },
+          {
+            "relevance": 0.0014171887887641788,
+            "label": "NewsAndPolitics>Politics>Elections"
+          },
+          {
+            "relevance": 0.00123977183829993,
+            "label": "Automotive>AutoSafety"
+          },
+          {
+            "relevance": 0.001110746175982058,
+            "label": "Sports>ExtremeSports"
+          },
+          {
+            "relevance": 0.001089121913537383,
+            "label": "Automotive>AutoInsurance"
+          },
+          { "relevance": 0.0010485271923244, "label": "Sports>Cycling" },
+          {
+            "relevance": 0.0010035388404503465,
+            "label": "PersonalFinance>Insurance>MotorInsurance"
+          }
+        ],
+        "timestamp": { "start": 259092, "end": 263630 }
+      }
+    ],
+    "summary": {
+      "MedicalHealth>DiseasesAndConditions>ColdAndFlu": 1.0,
+      "MedicalHealth>Vaccines": 0.631096363067627,
+      "MedicalHealth>DiseasesAndConditions>InfectiousDiseases": 0.05638574808835983,
+      "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth": 0.011009433306753635,
+      "HealthyLiving": 0.005100131966173649,
+      "Home&Garden>IndoorEnvironmentalQuality": 0.0035760446917265654,
+      "MedicalHealth>DiseasesAndConditions": 0.0028428940568119287,
+      "MedicalHealth": 0.001700814813375473,
+      "MedicalHealth>DiseasesAndConditions>Injuries": 0.001386358984746039,
+      "MedicalHealth>MedicalTests": 0.0012906640768051147,
+      "HealthyLiving>Men'sHealth": 0.001166398636996746,
+      "MedicalHealth>DiseasesAndConditions>Allergies": 0.000829254393465817,
+      "NewsAndPolitics>Politics>WarAndConflicts": 0.0007424702635034919,
+      "MedicalHealth>DiseasesAndConditions>MentalHealth": 0.0007226851303130388,
+      "FamilyAndRelationships>Bereavement": 0.0007026074454188347,
+      "MedicalHealth>DiseasesAndConditions>SleepDisorders": 0.0006601699278689921,
+      "NewsAndPolitics>Disasters": 0.0006425905739888549,
+      "NewsAndPolitics>Weather": 0.0005770653369836509,
+      "HealthyLiving>Women'sHealth": 0.0005431164754554629,
+      "Sports": 0.0004848169628530741
+    }
+  },
+  "disfluencies": false,
+  "sentiment_analysis": false,
+  "auto_chapters": false,
+  "chapters": null,
+  "sentiment_analysis_results": null,
+  "entity_detection": false,
+  "entities": null
+}
