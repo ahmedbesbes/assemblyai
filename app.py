@@ -14,7 +14,7 @@ load_dotenv()
 
 analysis_choice = st.sidebar.radio(
     "Start trascribing",
-    ["Discover some examples", "Upload your own YouTube video"],
+    ["Discover some examples"],
 )
 
 
